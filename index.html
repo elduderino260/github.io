@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Climbing</title>
+<link rel="stylesheet" href="style.css">
+<script>
+  if (window.matchMedia('(display-mode: standalone)').matches || navigator.standalone) {
+    document.documentElement.classList.add('app');
+  }
+</script>
+</head>
+<body>
+<header class="topnav">
+  <span class="brand">Training</span>
+  <nav>
+    <a href="index.html" class="active">Climbing</a>
+    <a href="strength.html">Strength</a>
+  </nav>
+</header>
+
+<main>
+  <section class="tiles" id="tiles"></section>
+
+  <section class="panel">
+    <h2>Progression <span class="sub">hardest clean lead per month, and running best</span></h2>
+    <div id="progression" class="chart"></div>
+  </section>
+
+  <div class="grid2">
+    <section class="panel">
+      <h2>Grade pyramid <span class="sub">clean leads, roped</span></h2>
+      <div id="pyramid" class="chart"></div>
+    </section>
+    <section class="panel">
+      <h2>Ticks by year</h2>
+      <div id="byyear" class="chart"></div>
+    </section>
+  </div>
+
+  <section class="panel">
+    <h2>To-do list <span class="sub">checks itself off when a clean lead of the route is ticked</span></h2>
+    <ul id="todo" class="todo"></ul>
+  </section>
+</main>
+
+<footer>
+  Data from my Mountain Project ticks. Training guidance on this site is general and rules-based, not medical advice.
+</footer>
+
+<nav class="tabbar">
+  <a href="index.html" class="active" aria-label="Climbing">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 20l6-11 4 6 3-4 5 9z"/><path d="M9 9l1.5-2.5"/></svg>
+    <span>Climbing</span>
+  </a>
+  <a href="strength.html" aria-label="Strength">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9h3v6H3zM18 9h3v6h-3zM6 12h12M6 7v10M18 7v10"/></svg>
+    <span>Strength</span>
+  </a>
+</nav>
+
+<script src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

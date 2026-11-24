@@ -1,0 +1,859 @@
+Date,Route,Rating,URL,Pitches,Location,Style,Lead Style,Route Type,Rating Code
+2026-11-22,Cock-a-Doodle-Do,5.11c,https://www.mountainproject.com/route/105824934/cock-a-doodle-do,1,New Mexico > Santa Fe Area > Diablo Canyon > Cockscomb Crag > Poultrygeist Area,Lead,Fell/Hung,Sport,5200
+2026-11-22,Chicks with Ricks,5.10d,https://www.mountainproject.com/route/105824942/chicks-with-ricks,1,New Mexico > Santa Fe Area > Diablo Canyon > Cockscomb Crag > Poultrygeist Area,Lead,Onsight,Sport,3500
+2026-11-22,The Chicken,5.10a,https://www.mountainproject.com/route/105864326/the-chicken,1,New Mexico > Santa Fe Area > Diablo Canyon > Cockscomb Crag > Chicken Little Area,Lead,Onsight,Sport,2600
+2026-11-22,The Egg,5.9,https://www.mountainproject.com/route/105864331/the-egg,1,New Mexico > Santa Fe Area > Diablo Canyon > Cockscomb Crag > Chicken Little Area,Lead,Onsight,Sport,2400
+2026-11-15,Hueco Pareidolia,5.10a,https://www.mountainproject.com/route/112262728/hueco-pareidolia,1,New Mexico > Jemez Area > Las Conchas > (J) The Sponge,Lead,Onsight,Sport,2600
+2026-11-15,Seeing Red,5.11b,https://www.mountainproject.com/route/203544086/seeing-red,1,New Mexico > Jemez Area > Las Conchas > (A) Cattle Call Wall Area,Lead,Onsight,Sport,4900
+2026-11-03,Screaming for Vengeance,5.12c,https://www.mountainproject.com/route/112779817/screaming-for-vengeance,1,New Mexico > Santa Fe Area > Diablo Canyon > Eden Canyon > Eden Wall > Judas Crag Sector,Lead,Fell/Hung,Sport,7200
+2026-10-31,Humbolt,5.10a,https://www.mountainproject.com/route/106049111/humbolt,1,New Mexico > Santa Fe Area > Diablo Canyon > Early Wall > Left End,,,Sport,2600
+2026-10-31,Pale Face,5.11+,https://www.mountainproject.com/route/105932175/pale-face,1,New Mexico > Santa Fe Area > Diablo Canyon > Winter Wall,Lead,Onsight,Sport,5300
+2026-10-17,Raising Abel,5.11d,https://www.mountainproject.com/route/114183379/raising-abel,1,New Mexico > Santa Fe Area > Diablo Canyon > Eden Canyon > Eden Wall > Eden Wall North Sector,Lead,Fell/Hung,Sport,5500
+2026-10-17,Judas Tower,5.11c,https://www.mountainproject.com/route/113691129/judas-tower,1,New Mexico > Santa Fe Area > Diablo Canyon > Eden Canyon > Eden Wall > Judas Crag Sector,Lead,Redpoint,Sport,5200
+2026-10-11,Silvery Minnow,5.12a,https://www.mountainproject.com/route/123706251/silvery-minnow,1,New Mexico > Santa Fe Area > Diablo Canyon > Big River Wall > Main Wall,Lead,Redpoint,Sport,6600
+2026-10-11,Brown Trout,5.10+,https://www.mountainproject.com/route/123700254/brown-trout,1,New Mexico > Santa Fe Area > Diablo Canyon > Big River Wall > Main Wall,Lead,Flash,Sport,3300
+2026-10-11,Otowi Bridge,5.11a/b,https://www.mountainproject.com/route/123700170/otowi-bridge,1,New Mexico > Santa Fe Area > Diablo Canyon > Big River Wall > Main Wall,Lead,Flash,Sport,4800
+2026-10-03,Tortilla Flat,5.11b,https://www.mountainproject.com/route/117831306/tortilla-flat,1,New Mexico > Santa Fe Area > Diablo Canyon > Eden Canyon > East of Eden,Lead,Flash,Sport,4900
+2026-10-03,Cup of Gold,5.11c,https://www.mountainproject.com/route/117831399/cup-of-gold,1,New Mexico > Santa Fe Area > Diablo Canyon > Eden Canyon > East of Eden,Lead,Redpoint,Sport,5200
+2026-09-27,Crispy the Renegade,5.12a,https://www.mountainproject.com/route/108271617/crispy-the-renegade,2,New Mexico > Santa Fe Area > Diablo Canyon > The Shack > Main Wall,,,Sport,6600
+2026-09-27,Mortal Kombat,5.12b,https://www.mountainproject.com/route/111778091/mortal-kombat,1,New Mexico > Santa Fe Area > Diablo Canyon > The Shack > Main Wall,Lead,Fell/Hung,Sport,6900
+2026-09-27,Block of Life,5.12a,https://www.mountainproject.com/route/108395761/block-of-life,1,New Mexico > Santa Fe Area > Diablo Canyon > The Shack > Main Wall,Lead,Redpoint,Sport,6600
+2026-09-09,Stone Temple Pilot,5.11b,https://www.mountainproject.com/route/107615107/stone-temple-pilot,1,New Mexico > Santa Fe Area > Diablo Canyon > Early Wall > Runway (Lower Tier),Lead,,Sport,4900
+2026-09-07,Learning to Fly,5.10c,https://www.mountainproject.com/route/109248597/learning-to-fly,1,New Mexico > Santa Fe Area > Diablo Canyon > Early Wall > Runway (Lower Tier),Lead,,Sport,3200
+2026-09-07,Airfoil,5.11c,https://www.mountainproject.com/route/109185314/airfoil,1,New Mexico > Santa Fe Area > Diablo Canyon > Early Wall > Runway (Lower Tier),,,Sport,5200
+2026-08-30,Burnt,5.11c,https://www.mountainproject.com/route/106487583/burnt,1,New Mexico > Taos Area > Comales Canyon > Upper Level Walls > Fire Wall,Lead,Onsight,Sport,5200
+2026-08-30,Toast,5.11d,https://www.mountainproject.com/route/107747253/toast,1,New Mexico > Taos Area > Comales Canyon > Upper Level Walls > Fire Wall,Lead,Flash,Sport,5500
+2026-08-30,Reignite,5.11+,https://www.mountainproject.com/route/107747276/reignite,1,New Mexico > Taos Area > Comales Canyon > Upper Level Walls > Fire Wall,Lead,Redpoint,Sport,5300
+2026-08-29,Little Evil (aka Slope a Dope),5.12a/b,https://www.mountainproject.com/route/105990436/little-evil-aka-slope-a-dope,1,New Mexico > Los Alamos & White Rock > The Dungeon > 45° Boulder,Lead,Redpoint,Sport,6800
+2026-08-22,Love Handles,5.9,https://www.mountainproject.com/route/107678991/love-handles,1,New Mexico > Jemez Area > Las Conchas > (E) Love Shack,Lead,Onsight,Sport,2400
+2026-08-22,The Other Woman,5.10b,https://www.mountainproject.com/route/109498531/the-other-woman,1,New Mexico > Jemez Area > Las Conchas > (E) Love Shack,Lead,Onsight,Sport,2900
+2026-08-22,Cosmic Thing,5.10c,https://www.mountainproject.com/route/118595805/cosmic-thing,1,New Mexico > Jemez Area > Las Conchas > (E) Love Shack,Lead,Onsight,Sport,3200
+2026-08-09,Close To The Edge,5.11+,https://www.mountainproject.com/route/105943651/close-to-the-edge,1,Colorado > Durango > Cascade Canyon > F. Garden of Eden Wall,Lead,Fell/Hung,Sport,5300
+2026-08-09,One Summer's Eve,5.9,https://www.mountainproject.com/route/105829529/one-summers-eve,1,Colorado > Durango > Cascade Canyon > F. Garden of Eden Wall,Lead,Onsight,Sport,2400
+2026-08-06,Little Evil (aka Slope a Dope),5.12a/b,https://www.mountainproject.com/route/105990436/little-evil-aka-slope-a-dope,3,New Mexico > Los Alamos & White Rock > The Dungeon > 45° Boulder,Lead,Fell/Hung,Sport,6800
+2026-07-31,12-pack Link,5.12d,https://www.mountainproject.com/route/106360608/12-pack-link,2,New Mexico > El Rito > El Rito Sport Area > Beer Block,Lead,Fell/Hung,Sport,7500
+2026-07-31,Cobble Salad,5.9,https://www.mountainproject.com/route/121487079/cobble-salad,1,New Mexico > El Rito > El Rito Sport Area > Big Pine Wall,Lead,Onsight,Sport,2400
+2026-07-18,Silvery Minnow,5.12a,https://www.mountainproject.com/route/123706251/silvery-minnow,1,New Mexico > Santa Fe Area > Diablo Canyon > Big River Wall > Main Wall,Lead,Fell/Hung,Sport,6600
+2026-07-05,Cup of Gold,5.11c,https://www.mountainproject.com/route/117831399/cup-of-gold,1,New Mexico > Santa Fe Area > Diablo Canyon > Eden Canyon > East of Eden,Lead,Fell/Hung,Sport,5200
+2026-07-04,Sweet Thursday,5.12b,https://www.mountainproject.com/route/117925150/sweet-thursday,2,New Mexico > Santa Fe Area > Diablo Canyon > Eden Canyon > East of Eden,Lead,Fell/Hung,Sport,6900
+2026-07-04,Raising Cain,5.12a,https://www.mountainproject.com/route/117831285/raising-cain,1,New Mexico > Santa Fe Area > Diablo Canyon > Eden Canyon > East of Eden,Lead,Redpoint,Sport,6600
+2026-07-01,Raising Cain,5.12a,https://www.mountainproject.com/route/117831285/raising-cain,1,New Mexico > Santa Fe Area > Diablo Canyon > Eden Canyon > East of Eden,Lead,Fell/Hung,Sport,6600
+2026-07-01,Mice and Men,5.10c,https://www.mountainproject.com/route/117831277/mice-and-men,1,New Mexico > Santa Fe Area > Diablo Canyon > Eden Canyon > East of Eden,Lead,Onsight,Sport,3200
+2026-06-28,Goiter Grabber,5.10c/d,https://www.mountainproject.com/route/109281941/goiter-grabber,1,New Mexico > El Rito > Little River Wall > Main Wall,Lead,Onsight,Sport,3400
+2026-06-28,Pull the Mirrors Off Your Cadillac (So it Doesn't Look Like You Look Back),5.11b,https://www.mountainproject.com/route/109281715/pull-the-mirrors-off-your-cadillac-so-it-doesnt-look-like-you-look-back,2,New Mexico > El Rito > Little River Wall > Main Wall,Lead,Redpoint,Sport,4900
+2026-06-28,Broken Desire,5.12b,https://www.mountainproject.com/route/109282006/broken-desire,2,New Mexico > El Rito > Little River Wall > Cobble Cave,Lead,Redpoint,Sport,6900
+2026-06-27,Pull the Mirrors Off Your Cadillac (So it Doesn't Look Like You Look Back),5.11b,https://www.mountainproject.com/route/109281715/pull-the-mirrors-off-your-cadillac-so-it-doesnt-look-like-you-look-back,1,New Mexico > El Rito > Little River Wall > Main Wall,Lead,Redpoint,Sport,4900
+2026-06-27,Goiter Grabber,5.10c/d,https://www.mountainproject.com/route/109281941/goiter-grabber,1,New Mexico > El Rito > Little River Wall > Main Wall,Lead,Onsight,Sport,3400
+2026-06-20,Shadow Caster,5.10b/c,https://www.mountainproject.com/route/107751443/shadow-caster,1,New Mexico > Taos Area > Comales Canyon > Upper Level Walls > The Block,Lead,Onsight,Sport,3100
+2026-06-20,Reignite,5.11+,https://www.mountainproject.com/route/107747276/reignite,2,New Mexico > Taos Area > Comales Canyon > Upper Level Walls > Fire Wall,Lead,Fell/Hung,Sport,5300
+2026-06-20,The Egg,5.11a,https://www.mountainproject.com/route/107746557/the-egg,1,New Mexico > Taos Area > Comales Canyon > Upper Level Walls > Fire Wall,Lead,Onsight,Sport,4600
+2026-06-20,Kindling,5.10a,https://www.mountainproject.com/route/107746545/kindling,1,New Mexico > Taos Area > Comales Canyon > Upper Level Walls > Fire Wall,Lead,Onsight,Sport,2600
+2026-06-02,Brahmaputra,5.10+,https://www.mountainproject.com/route/127345598/brahmaputra,1,New Mexico > Santa Fe Area > Diablo Canyon > Big River Wall > Los Rios (del Mundo),Lead,Onsight,Sport,3300
+2026-06-02,San Juan,5.10+,https://www.mountainproject.com/route/201155340/san-juan,1,New Mexico > Santa Fe Area > Diablo Canyon > Big River Wall > Los Rios (del Mundo),Lead,Onsight,Sport,3300
+2026-05-16,Frogger,5.9+,https://www.mountainproject.com/route/108271646/frogger,1,New Mexico > Santa Fe Area > Diablo Canyon > The Shack > Main Wall,,,Sport,2500
+2026-05-03,Stroke Me,5.12a,https://www.mountainproject.com/route/105819871/stroke-me,1,New Mexico > El Rito > El Rito Sport Area > Rad Wall,,,Sport,6600
+2026-05-03,Crack Attack,5.12a,https://www.mountainproject.com/route/105819879/crack-attack,1,New Mexico > El Rito > El Rito Sport Area > Rad Wall,,,Sport,6600
+2026-04-25,Stroke Me,5.12a,https://www.mountainproject.com/route/105819871/stroke-me,2,New Mexico > El Rito > El Rito Sport Area > Rad Wall,Lead,,Sport,6600
+2026-04-25,Bolting Barbie,5.11c/d,https://www.mountainproject.com/route/105818753/bolting-barbie,1,New Mexico > El Rito > El Rito Sport Area > Rad Wall,,,Sport,5400
+2026-04-25,Balls to the Wall,5.10b,https://www.mountainproject.com/route/105980226/balls-to-the-wall,1,New Mexico > El Rito > El Rito Sport Area > Gnar Wall and Route Canal,Lead,,Sport,2900
+2026-04-25,Pirates of the Carabiner,5.10a,https://www.mountainproject.com/route/113457878/pirates-of-the-carabiner,1,New Mexico > El Rito > El Rito Sport Area > Pirate's Wall,,,Sport,2600
+2026-04-12,Aerostar,5.11+,https://www.mountainproject.com/route/106078684/aerostar,1,New Mexico > Santa Fe Area > Diablo Canyon > Early Wall > Runway (Lower Tier),Lead,Redpoint,Sport,5300
+2026-04-12,Aerostar,5.11+,https://www.mountainproject.com/route/106078684/aerostar,1,New Mexico > Santa Fe Area > Diablo Canyon > Early Wall > Runway (Lower Tier),Lead,Fell/Hung,Sport,5300
+2026-04-04,Eyes Wide on Arrival,5.10c,https://www.mountainproject.com/route/117739683/eyes-wide-on-arrival,1,New Mexico > Santa Fe Area > Diablo Canyon > Early Wall > Runway (Lower Tier),Lead,Redpoint,Sport,3200
+2026-04-04,Affirmative Action,5.11a,https://www.mountainproject.com/route/105824874/affirmative-action,1,New Mexico > Santa Fe Area > Diablo Canyon > The Grotto > Grotto Left (East Side) Lower Tier,,,Sport,4600
+2026-03-20,Evil Shenanigans,5.11b,https://www.mountainproject.com/route/106336964/evil-shenanigans,3,International > North America > Mexico > Nuevo Leon > El Potrero Chico > Wonder Wall,Lead,Flash,Sport,4900
+2026-03-20,Ramsey's Shenanigans,5.10a,https://www.mountainproject.com/route/107377663/ramseys-shenanigans,3,International > North America > Mexico > Nuevo Leon > El Potrero Chico > Wonder Wall,Lead,Onsight,Sport,2600
+2026-03-20,Inglorious Bastards,5.12a,https://www.mountainproject.com/route/107110717/inglorious-bastards,1,International > North America > Mexico > Nuevo Leon > El Potrero Chico > TNT Wall,Lead,Redpoint,Sport,6600
+2026-03-19,Nautilus,5.9,https://www.mountainproject.com/route/112556368/nautilus,1,International > North America > Mexico > Nuevo Leon > El Potrero Chico > El Toro (The Front Side) > Nautilus Buttress,Lead,Onsight,Sport,2400
+2026-03-18,Excalibur,5.10a/b,https://www.mountainproject.com/route/110054847/excalibur,6,International > North America > Mexico > Nuevo Leon > El Potrero Chico > El Toro (The Front Side) > Ivory Tower,Lead,Onsight,Sport,2800
+2026-03-18,Inglorious Bastards,5.12a,https://www.mountainproject.com/route/107110717/inglorious-bastards,1,International > North America > Mexico > Nuevo Leon > El Potrero Chico > TNT Wall,Lead,Fell/Hung,Sport,6600
+2026-03-18,Band of Brothers,5.11a,https://www.mountainproject.com/route/107110640/band-of-brothers,1,International > North America > Mexico > Nuevo Leon > El Potrero Chico > TNT Wall,Lead,Flash,Sport,4600
+2026-03-16,Yankee Clipper,5.12a,https://www.mountainproject.com/route/106081566/yankee-clipper,15,International > North America > Mexico > Nuevo Leon > El Potrero Chico > La Selva (Jungle Wall),Follow,,Sport,6600
+2026-03-15,Thunderbolt,5.9,https://www.mountainproject.com/route/125755986/thunderbolt,4,International > North America > Mexico > Nuevo Leon > El Potrero Chico > El Toro (The Front Side) > Zapatista Wall,Lead,Onsight,Sport,2400
+2026-03-15,Will the Wolf Survive?,5.10a,https://www.mountainproject.com/route/105906014/will-the-wolf-survive,4,International > North America > Mexico > Nuevo Leon > El Potrero Chico > Los Lobos Canyon > Los Lobos Wall,Lead,Onsight,Sport,2600
+2026-03-08,Holy Wall,5.10a/b,https://www.mountainproject.com/route/105940693/holy-wall,1,New Mexico > Los Alamos & White Rock > White Rock > The Overlook > South/East side,,,"Sport, TR",2800
+2026-03-08,Double Vision / Ream Dream,5.11c,https://www.mountainproject.com/route/105940679/double-vision-ream-dream,1,New Mexico > Los Alamos & White Rock > White Rock > The Overlook > South/East side,,,"Sport, TR",5200
+2026-03-08,Boy What Assholes (You Guys Turned Out to Be),5.10b,https://www.mountainproject.com/route/105940639/boy-what-assholes-you-guys-turned-out-to-be,1,New Mexico > Los Alamos & White Rock > White Rock > The Overlook > South/East side,,,Sport,2900
+2026-03-08,Scrambled (aka Bob's Route),5.10a,https://www.mountainproject.com/route/105940826/scrambled-aka-bobs-route,1,New Mexico > Los Alamos & White Rock > White Rock > The Overlook > Lower Buttress,Lead,Onsight,Sport,2600
+2026-03-08,Sunny Side Up (aka Photo-Op),5.8+,https://www.mountainproject.com/route/105940820/sunny-side-up-aka-photo-op,1,New Mexico > Los Alamos & White Rock > White Rock > The Overlook > Lower Buttress,Lead,,"Sport, TR",2200
+2026-03-08,Franco-American Omelette,5.8,https://www.mountainproject.com/route/120328945/franco-american-omelette,1,New Mexico > Los Alamos & White Rock > White Rock > The Overlook > Lower Buttress,Lead,,"Sport, TR",2100
+2026-03-02,Shiver Me Cobbles,5.10b,https://www.mountainproject.com/route/113511602/shiver-me-cobbles,1,New Mexico > El Rito > El Rito Sport Area > Pirate's Wall,,,Sport,2900
+2026-03-02,Squeeze My Cobbles,5.11a/b,https://www.mountainproject.com/route/111126961/squeeze-my-cobbles,1,New Mexico > El Rito > El Rito Sport Area > Big Pine Wall,,,Sport,4800
+2026-03-02,Nine Lives,5.11b,https://www.mountainproject.com/route/107061553/nine-lives,1,New Mexico > El Rito > El Rito Sport Area > The Balcony,,,Sport,4900
+2026-03-02,Trick or Treat?,5.10+,https://www.mountainproject.com/route/105907156/trick-or-treat,1,New Mexico > El Rito > El Rito Sport Area > Pirate's Wall,,,Sport,3300
+2026-03-02,Cobble Wobble,5.10c,https://www.mountainproject.com/route/105819246/cobble-wobble,1,New Mexico > El Rito > El Rito Sport Area > Big Pine Wall,,,Sport,3200
+2026-03-02,Bolting Barbie,5.11c/d,https://www.mountainproject.com/route/105818753/bolting-barbie,1,New Mexico > El Rito > El Rito Sport Area > Rad Wall,Lead,,Sport,5400
+2026-03-02,Jug-or-Naut,5.11b,https://www.mountainproject.com/route/105818733/jug-or-naut,1,New Mexico > El Rito > El Rito Sport Area > The Balcony,,,Sport,4900
+2026-02-21,Holy Wall,5.10a/b,https://www.mountainproject.com/route/105940693/holy-wall,1,New Mexico > Los Alamos & White Rock > White Rock > The Overlook > South/East side,Lead,,"Sport, TR",2800
+2026-02-21,Boy What Nice Fellows,5.11a PG13,https://www.mountainproject.com/route/105940635/boy-what-nice-fellows,1,New Mexico > Los Alamos & White Rock > White Rock > The Overlook > South/East side,Follow,,Trad,4600
+2026-02-21,Double Vision / Ream Dream,5.11c,https://www.mountainproject.com/route/105940679/double-vision-ream-dream,1,New Mexico > Los Alamos & White Rock > White Rock > The Overlook > South/East side,Lead,,"Sport, TR",5200
+2026-02-21,Dave's Face (a.k.a. Sale at Mervyn's),5.10c,https://www.mountainproject.com/route/105940711/daves-face-aka-sale-at-mervyns,1,New Mexico > Los Alamos & White Rock > White Rock > The Overlook > South/East side,Lead,Onsight,"Sport, TR",3200
+2026-02-21,Way Beyond Zebra,5.11a,https://www.mountainproject.com/route/105940715/way-beyond-zebra,1,New Mexico > Los Alamos & White Rock > White Rock > The Overlook > South/East side,Lead,,"Sport, TR",4600
+2026-02-21,Nice Guys Finish Last,5.11b,https://www.mountainproject.com/route/107897130/nice-guys-finish-last,1,New Mexico > Los Alamos & White Rock > White Rock > The Overlook > South/East side,Lead,Redpoint,Sport,4900
+2026-02-21,Paul's Boutique,5.11b,https://www.mountainproject.com/route/105940656/pauls-boutique,1,New Mexico > Los Alamos & White Rock > White Rock > The Overlook > South/East side,Lead,Redpoint,Sport,4900
+2026-02-15,Thunder Tactics,5.11c,https://www.mountainproject.com/route/105752362/thunder-tactics,1,Colorado > Canon City > Shelf Road > The Bank > 05. Thunder Tactics,Lead,Fell/Hung,Sport,5200
+2026-02-15,Staying Power,5.11c,https://www.mountainproject.com/route/105759516/staying-power,1,Colorado > Canon City > Shelf Road > The Bank > 06. Surreal Estate,Lead,Fell/Hung,Sport,5200
+2026-02-15,Crab Nation,5.10a,https://www.mountainproject.com/route/106170472/crab-nation,1,Colorado > Canon City > Shelf Road > The Bank > 01. Piggy Bank,Lead,Onsight,Sport,2600
+2026-02-14,Lime Street,5.11b,https://www.mountainproject.com/route/105752587/lime-street,1,Colorado > Canon City > Shelf Road > The Bank > 10. 2150 Wall,Lead,Onsight,Sport,4900
+2026-02-14,Taping Tendons,5.11c/d,https://www.mountainproject.com/route/105750049/taping-tendons,1,Colorado > Canon City > Shelf Road > The Bank > 10. 2150 Wall,Lead,Onsight,Sport,5400
+2026-02-14,Lost Planet Airman,5.11c,https://www.mountainproject.com/route/105750052/lost-planet-airman,1,Colorado > Canon City > Shelf Road > The Bank > 10. 2150 Wall,Lead,Onsight,Sport,5200
+2026-02-14,Ripped,5.10b,https://www.mountainproject.com/route/106363085/ripped,1,Colorado > Canon City > Shelf Road > The Bank > 10. 2150 Wall,Lead,Onsight,Sport,2900
+2026-02-14,The Fukrob Kingdumb,5.8,https://www.mountainproject.com/route/124425596/the-fukrob-kingdumb,1,Colorado > Canon City > Shelf Road > The Bank > 08. Lesser Of Two Evils,Lead,Onsight,Sport,2100
+2026-02-14,Mismatched Partners,5.10b/c,https://www.mountainproject.com/route/106029865/mismatched-partners,1,Colorado > Canon City > Shelf Road > The Bank > 08. Lesser Of Two Evils,Lead,Onsight,Sport,3100
+2026-02-14,CJ & The Lesbian Seagull,5.8,https://www.mountainproject.com/route/107154201/cj-the-lesbian-seagull,1,Colorado > Canon City > Shelf Road > The Bank > 08. Lesser Of Two Evils,Lead,Onsight,Sport,2100
+2026-02-14,2150 A.D.,5.10d,https://www.mountainproject.com/route/105750055/2150-ad,1,Colorado > Canon City > Shelf Road > The Bank > 10. 2150 Wall,Lead,Onsight,Sport,3500
+2026-02-08,Voyage of the Beagle,5.11b/c,https://www.mountainproject.com/route/106398095/voyage-of-the-beagle,1,New Mexico > Santa Fe Area > Diablo Canyon > Solar Cave,Lead,Redpoint,Sport,5100
+2026-02-03,Cro-Magnon,5.12a,https://www.mountainproject.com/route/105826715/cro-magnon,1,New Mexico > Santa Fe Area > Diablo Canyon > Solar Cave,Lead,Fell/Hung,Sport,6600
+2026-02-01,Sunn o))),5.11d,https://www.mountainproject.com/route/127234712/sunn-o,1,New Mexico > Santa Fe Area > Diablo Canyon > Winter Wall,Lead,Flash,Sport,5500
+2026-01-28,Lucy,5.11d,https://www.mountainproject.com/route/105803885/lucy,1,New Mexico > Santa Fe Area > Diablo Canyon > Solar Cave,Lead,Redpoint,Sport,5500
+2026-01-18,Cartoon Watcher,5.10b,https://www.mountainproject.com/route/106157960/cartoon-watcher,1,Colorado > Buena Vista > Bob's Rock,Lead,,"Trad, Sport",2900
+2026-01-18,Hot Foot and High Step,5.10b,https://www.mountainproject.com/route/105932690/hot-foot-and-high-step,1,Colorado > Buena Vista > Bob's Rock,Lead,Onsight,Sport,2900
+2026-01-18,Rio de Jean Perro,5.11a,https://www.mountainproject.com/route/111369039/rio-de-jean-perro,1,Colorado > Buena Vista > Bob's Rock,Lead,Onsight,Sport,4600
+2026-01-18,Spotty Lives,5.11a,https://www.mountainproject.com/route/111369134/spotty-lives,1,Colorado > Buena Vista > Bob's Rock,Lead,Onsight,Sport,4600
+2026-01-15,Solo Man (aka Homo Erectus Soloensis),5.12b,https://www.mountainproject.com/route/111613232/solo-man-aka-homo-erectus-soloensis,1,New Mexico > Santa Fe Area > Diablo Canyon > Solar Cave,,,Sport,6900
+2026-01-15,Clovis Hunter,5.12b,https://www.mountainproject.com/route/105826723/clovis-hunter,1,New Mexico > Santa Fe Area > Diablo Canyon > Solar Cave,Lead,Redpoint,Sport,6900
+2026-01-15,Lucy,5.11d,https://www.mountainproject.com/route/105803885/lucy,1,New Mexico > Santa Fe Area > Diablo Canyon > Solar Cave,Lead,Fell/Hung,Sport,5500
+2026-01-06,Clovis Hunter,5.12b,https://www.mountainproject.com/route/105826723/clovis-hunter,3,New Mexico > Santa Fe Area > Diablo Canyon > Solar Cave,Lead,Fell/Hung,Sport,6900
+2026-01-03,The ILL (Ian and Lance Line) Route,5.12c,https://www.mountainproject.com/route/106308919/the-ill-ian-and-lance-line-route,1,New Mexico > Santa Fe Area > Diablo Canyon > Solar Cave,Lead,Redpoint,Sport,7200
+2026-01-03,Hominid,5.11b/c,https://www.mountainproject.com/route/106308903/hominid,2,New Mexico > Santa Fe Area > Diablo Canyon > Solar Cave,Lead,Redpoint,Sport,5100
+2025-12-28,Hey Judas,5.11-,https://www.mountainproject.com/route/112229422/hey-judas,1,New Mexico > Santa Fe Area > Diablo Canyon > Eden Canyon > Eden Wall > Judas Crag Sector,Lead,Flash,Sport,4700
+2025-12-28,The Cruxifiction,5.12-,https://www.mountainproject.com/route/112228729/the-cruxifiction,1,New Mexico > Santa Fe Area > Diablo Canyon > Eden Canyon > Eden Wall > Judas Crag Sector,Lead,Redpoint,Sport,6700
+2025-12-22,The ILL (Ian and Lance Line) Route,5.12c,https://www.mountainproject.com/route/106308919/the-ill-ian-and-lance-line-route,1,New Mexico > Santa Fe Area > Diablo Canyon > Solar Cave,Lead,Fell/Hung,Sport,7200
+2025-12-19,The ILL (Ian and Lance Line) Route,5.12c,https://www.mountainproject.com/route/106308919/the-ill-ian-and-lance-line-route,3,New Mexico > Santa Fe Area > Diablo Canyon > Solar Cave,Lead,Fell/Hung,Sport,7200
+2025-12-13,Bulges,5.10b,https://www.mountainproject.com/route/107222010/bulges,1,New Mexico > Taos Area > John Dunn Bridge Area > John's Wall,Lead,Onsight,Trad,2900
+2025-12-10,Green Chile,5.12b,https://www.mountainproject.com/route/201013357/green-chile,1,New Mexico > Santa Fe Area > La Bajada Climbing Area > El Camino Real Cave > Main Cave Left,Lead,Redpoint,Sport,6900
+2025-12-07,Pascal Lamb,5.10b,https://www.mountainproject.com/route/201512610/pascal-lamb,1,New Mexico > Santa Fe Area > La Bajada Climbing Area > El Camino Real Cave > Crypto Sector,Lead,Onsight,Sport,2900
+2025-11-29,TNT,5.11d,https://www.mountainproject.com/route/106692952/tnt,1,New Mexico > Socorro Area > The Box Climbing Areas > Northern Box areas > Red Wall,Lead,Fell/Hung,Sport,5500
+2025-11-29,Molotov Cocktail,5.11b,https://www.mountainproject.com/route/106692965/molotov-cocktail,2,New Mexico > Socorro Area > The Box Climbing Areas > Northern Box areas > Red Wall,Lead,Redpoint,Sport,4900
+2025-11-29,Fire Cracker,5.10c,https://www.mountainproject.com/route/106692974/fire-cracker,2,New Mexico > Socorro Area > The Box Climbing Areas > Northern Box areas > Red Wall,Lead,Redpoint,Sport,3200
+2025-11-29,Lakme,5.9,https://www.mountainproject.com/route/106096087/lakme,1,New Mexico > Socorro Area > The Box Climbing Areas > Northern Box areas > Hueco Wall,Lead,Onsight,Sport,2400
+2025-11-29,Bob Marley Meets Master Ganj,5.11b,https://www.mountainproject.com/route/106096055/bob-marley-meets-master-ganj,1,New Mexico > Socorro Area > The Box Climbing Areas > Northern Box areas > Filet de Papillon Wall (aka Dirt Wall),Lead,Onsight,Sport,4900
+2025-11-29,The Throne,5.8,https://www.mountainproject.com/route/106096038/the-throne,1,New Mexico > Socorro Area > The Box Climbing Areas > Northern Box areas > Hueco Wall,Lead,Onsight,Sport,2100
+2025-11-29,Esprit de Corps,5.9,https://www.mountainproject.com/route/107969779/esprit-de-corps,1,New Mexico > Socorro Area > The Box Climbing Areas > Northern Box areas > East Side > The North End,Lead,Onsight,Sport,2400
+2025-11-22,Green Chile,5.12b,https://www.mountainproject.com/route/201013357/green-chile,2,New Mexico > Santa Fe Area > La Bajada Climbing Area > El Camino Real Cave > Main Cave Left,Lead,Fell/Hung,Sport,6900
+2025-11-22,Caminando,5.10c/d,https://www.mountainproject.com/route/201057141/caminando,1,New Mexico > Santa Fe Area > La Bajada Climbing Area > El Camino Real Cave > Main Cave Left,Lead,Onsight,Sport,3400
+2025-11-17,Centipede-Lower,5.10+,https://www.mountainproject.com/route/113599859/centipede-lower,1,New Mexico > Santa Fe Area > Diablo Canyon > The Shack > Main Wall,,,Sport,3300
+2025-11-17,Pull to Live,5.12a,https://www.mountainproject.com/route/108271652/pull-to-live,2,New Mexico > Santa Fe Area > Diablo Canyon > The Shack > Main Wall,Lead,Redpoint,Sport,6600
+2025-10-25,Feeling the Love (Lower Half),5.11b,https://www.mountainproject.com/route/119063731/feeling-the-love-lower-half,1,New Mexico > Jemez Area > Las Conchas > (K) Hidden Tower,Lead,Fell/Hung,Sport,4900
+2025-10-25,Baptistina,5.8,https://www.mountainproject.com/route/108740228/baptistina,1,New Mexico > Jemez Area > Las Conchas > (K) Hidden Tower,Lead,Onsight,Sport,2100
+2025-10-10,Manna,5.11,https://www.mountainproject.com/route/112228819/manna,1,New Mexico > Santa Fe Area > Diablo Canyon > Eden Canyon > Heavenly Buttress,Lead,Redpoint,Sport,5000
+2025-09-21,Eyes Wide on Arrival,5.10c,https://www.mountainproject.com/route/117739683/eyes-wide-on-arrival,1,New Mexico > Santa Fe Area > Diablo Canyon > Early Wall > Runway (Lower Tier),Lead,Fell/Hung,Sport,3200
+2025-09-21,Paradise City,5.10c,https://www.mountainproject.com/route/110958965/paradise-city,1,New Mexico > Santa Fe Area > Diablo Canyon > The Grotto > Grotto Left (East Side) Lower Tier,,,Sport,3200
+2025-09-21,Where the Wild Things Aren't,5.11c,https://www.mountainproject.com/route/105824892/where-the-wild-things-arent,2,New Mexico > Santa Fe Area > Diablo Canyon > The Grotto > Grotto Right (West Side),Lead,,Sport,5200
+2025-09-14,Airfoil,5.11c,https://www.mountainproject.com/route/109185314/airfoil,1,New Mexico > Santa Fe Area > Diablo Canyon > Early Wall > Runway (Lower Tier),,,Sport,5200
+2025-09-14,Ergo,5.10c,https://www.mountainproject.com/route/106049124/ergo,1,New Mexico > Santa Fe Area > Diablo Canyon > Early Wall > Runway (Lower Tier),,,Sport,3200
+2025-09-07,Stroke Me,5.12a,https://www.mountainproject.com/route/105819871/stroke-me,2,New Mexico > El Rito > El Rito Sport Area > Rad Wall,Lead,Redpoint,Sport,6600
+2025-08-24,Holding Pattern,5.11+,https://www.mountainproject.com/route/107840193/holding-pattern,1,New Mexico > Santa Fe Area > Diablo Canyon > Early Wall > Runway (Lower Tier),Lead,Redpoint,Sport,5300
+2025-08-17,Evil,5.10d,https://www.mountainproject.com/route/105941844/evil,1,New Mexico > Santa Fe Area > Diablo Canyon > The Grotto > Grotto Left (East Side) Lower Tier,,,Sport,3500
+2025-08-17,Good,5.10b,https://www.mountainproject.com/route/105941860/good,1,New Mexico > Santa Fe Area > Diablo Canyon > The Grotto > Grotto Left (East Side) Lower Tier,,,Sport,2900
+2025-08-02,Pan Galactic Gargle Blaster,5.11d,https://www.mountainproject.com/route/119076063/pan-galactic-gargle-blaster,1,New Mexico > El Rito > El Rito Sport Area > Beer Block,,,Sport,5500
+2025-08-02,Clast Away,5.10a,https://www.mountainproject.com/route/113511565/clast-away,1,New Mexico > El Rito > El Rito Sport Area > Pirate's Wall,Lead,Onsight,Sport,2600
+2025-08-02,El Beerto,5.11c,https://www.mountainproject.com/route/105875043/el-beerto,1,New Mexico > El Rito > El Rito Sport Area > Beer Block,,,Sport,5200
+2025-08-02,To Beer or Not to Beer,5.12b,https://www.mountainproject.com/route/105819233/to-beer-or-not-to-beer,1,New Mexico > El Rito > El Rito Sport Area > Beer Block,Lead,Redpoint,Sport,6900
+2025-08-02,Scurvy Dog,5.9,https://www.mountainproject.com/route/105818432/scurvy-dog,1,New Mexico > El Rito > El Rito Sport Area > Pirate's Wall,Lead,Onsight,Sport,2400
+2025-07-30,Heat Seeker,5.11-,https://www.mountainproject.com/route/107514559/heat-seeker,4,New Mexico > Santa Fe Area > Diablo Canyon > Sun Devil Wall,Lead,Fell/Hung,Sport,4700
+2025-07-19,To Beer or Not to Beer,5.12b,https://www.mountainproject.com/route/105819233/to-beer-or-not-to-beer,3,New Mexico > El Rito > El Rito Sport Area > Beer Block,Lead,Fell/Hung,Sport,6900
+2025-07-19,Cobbles and Crossbones,5.10b,https://www.mountainproject.com/route/113511584/cobbles-and-crossbones,1,New Mexico > El Rito > El Rito Sport Area > Pirate's Wall,Lead,Onsight,Sport,2900
+2025-07-19,Pirates of the Carabiner,5.10a,https://www.mountainproject.com/route/113457878/pirates-of-the-carabiner,1,New Mexico > El Rito > El Rito Sport Area > Pirate's Wall,Lead,Onsight,Sport,2600
+2025-07-09,Centipede-Lower,5.10+,https://www.mountainproject.com/route/113599859/centipede-lower,1,New Mexico > Santa Fe Area > Diablo Canyon > The Shack > Main Wall,Lead,,Sport,3300
+2025-06-21,Into the Gayle,5.11c,https://www.mountainproject.com/route/105878283/into-the-gayle,2,New Mexico > El Rito > El Rito Sport Area > The Front Porch,Lead,Redpoint,Sport,5200
+2025-06-21,Cobble Wobble,5.10c,https://www.mountainproject.com/route/105819246/cobble-wobble,1,New Mexico > El Rito > El Rito Sport Area > Big Pine Wall,,,Sport,3200
+2025-06-21,Cobble Sutra,5.10a,https://www.mountainproject.com/route/108939570/cobble-sutra,1,New Mexico > El Rito > El Rito Sport Area > Big Pine Wall,Lead,,Sport,2600
+2025-06-21,Bolting Barbie,5.11c/d,https://www.mountainproject.com/route/105818753/bolting-barbie,1,New Mexico > El Rito > El Rito Sport Area > Rad Wall,Lead,,Sport,5400
+2025-06-21,Redline,5.10d,https://www.mountainproject.com/route/105832640/redline,1,New Mexico > El Rito > El Rito Sport Area > Ed Woody,,,Sport,3500
+2025-06-21,Cobbles and Robbers,5.11a,https://www.mountainproject.com/route/105832636/cobbles-and-robbers,1,New Mexico > El Rito > El Rito Sport Area > Ed Woody,Lead,,Sport,4600
+2025-06-19,Too Good To Be American,V3+,https://www.mountainproject.com/route/124938933/too-good-to-be-american,1,"New Mexico > New Mexico, other Northern Areas > Ortegas > Nosos > Main Area > 10. Too Good To Be American",Send,,Boulder,20310
+2025-06-08,Blackballed,5.10b,https://www.mountainproject.com/route/105980222/blackballed,1,New Mexico > El Rito > El Rito Sport Area > Gnar Wall and Route Canal,Lead,,Sport,2900
+2025-06-08,Squeeze My Cobbles,5.11a/b,https://www.mountainproject.com/route/111126961/squeeze-my-cobbles,1,New Mexico > El Rito > El Rito Sport Area > Big Pine Wall,Lead,,Sport,4800
+2025-06-08,Cobble Sutra,5.10a,https://www.mountainproject.com/route/108939570/cobble-sutra,1,New Mexico > El Rito > El Rito Sport Area > Big Pine Wall,Lead,Redpoint,Sport,2600
+2025-06-08,Cobble Wobble,5.10c,https://www.mountainproject.com/route/105819246/cobble-wobble,1,New Mexico > El Rito > El Rito Sport Area > Big Pine Wall,Lead,Redpoint,Sport,3200
+2025-06-08,Bolting Barbie,5.11c/d,https://www.mountainproject.com/route/105818753/bolting-barbie,2,New Mexico > El Rito > El Rito Sport Area > Rad Wall,Lead,,Sport,5400
+2025-05-11,Old Woman,5.8,https://www.mountainproject.com/route/106184840/old-woman,1,New Mexico > Enchanted Tower > Mother Goose Wall,Lead,Onsight,"Sport, TR",2100
+2025-05-11,Once Upon a Time,5.11c,https://www.mountainproject.com/route/105821650/once-upon-a-time,1,New Mexico > Enchanted Tower > The Enchanted Tower > North (Left) Face,Lead,Redpoint,Sport,5200
+2025-05-10,Children of the Mojave,5.9,https://www.mountainproject.com/route/109191111/children-of-the-mojave,1,New Mexico > Enchanted Tower > Frog Prince,Lead,Onsight,Sport,2400
+2025-05-10,Freddie Prince Jr,5.10a,https://www.mountainproject.com/route/105972790/freddie-prince-jr,1,New Mexico > Enchanted Tower > Frog Prince,Lead,Onsight,Sport,2600
+2025-05-10,Once Upon a Time,5.11c,https://www.mountainproject.com/route/105821650/once-upon-a-time,3,New Mexico > Enchanted Tower > The Enchanted Tower > North (Left) Face,Lead,Fell/Hung,Sport,5200
+2025-05-04,Crispy the Renegade,5.12a,https://www.mountainproject.com/route/108271617/crispy-the-renegade,1,New Mexico > Santa Fe Area > Diablo Canyon > The Shack > Main Wall,Lead,,Sport,6600
+2025-05-04,Squeeze Whiz,5.11c,https://www.mountainproject.com/route/110489270/squeeze-whiz,1,New Mexico > Santa Fe Area > Diablo Canyon > The Shack > Main Wall,Lead,,Sport,5200
+2025-05-04,32 Flavors,5.11b,https://www.mountainproject.com/route/108307114/32-flavors,1,New Mexico > Santa Fe Area > Diablo Canyon > The Shack > Main Wall,Lead,,Sport,4900
+2025-05-04,City Girl,5.9,https://www.mountainproject.com/route/108275157/city-girl,1,New Mexico > Santa Fe Area > Diablo Canyon > The Shack > Main Wall,Lead,,Sport,2400
+2025-04-27,Pumping Huecos,5.10d,https://www.mountainproject.com/route/105865288/pumping-huecos,1,New Mexico > Jemez Area > Las Conchas > (J) The Sponge,Lead,Onsight,Sport,3500
+2025-04-26,Cyclic Loader,5.11a,https://www.mountainproject.com/route/105848472/cyclic-loader,1,New Mexico > Jemez Area > Area 37,Lead,Onsight,Sport,4600
+2025-04-26,Leprosy,5.11b/c,https://www.mountainproject.com/route/105848465/leprosy,1,New Mexico > Jemez Area > Area 37,Lead,Redpoint,Sport,5100
+2025-03-29,Where the Wild Things Aren't,5.11c,https://www.mountainproject.com/route/105824892/where-the-wild-things-arent,2,New Mexico > Santa Fe Area > Diablo Canyon > The Grotto > Grotto Right (West Side),Lead,Fell/Hung,Sport,5200
+2025-03-29,Bedeviled,5.11b,https://www.mountainproject.com/route/106487845/bedeviled,1,New Mexico > Santa Fe Area > Diablo Canyon > The Grotto > Grotto Left (East Side) Lower Tier,Lead,Redpoint,Sport,4900
+2025-03-29,Paradise City,5.10c,https://www.mountainproject.com/route/110958965/paradise-city,1,New Mexico > Santa Fe Area > Diablo Canyon > The Grotto > Grotto Left (East Side) Lower Tier,Lead,Redpoint,Sport,3200
+2025-03-29,Good,5.10b,https://www.mountainproject.com/route/105941860/good,1,New Mexico > Santa Fe Area > Diablo Canyon > The Grotto > Grotto Left (East Side) Lower Tier,Lead,Redpoint,Sport,2900
+2025-03-29,Evil,5.10d,https://www.mountainproject.com/route/105941844/evil,1,New Mexico > Santa Fe Area > Diablo Canyon > The Grotto > Grotto Left (East Side) Lower Tier,Lead,Redpoint,Sport,3500
+2025-03-23,Chris's Route,5.10-,https://www.mountainproject.com/route/107511770/chriss-route,1,New Mexico > Socorro Area > The Box Climbing Areas > Southern Box areas > Major Wall,Lead,Onsight,Sport,2700
+2025-03-23,She Can Bolt,5.9-,https://www.mountainproject.com/route/106751111/she-can-bolt,1,New Mexico > Socorro Area > The Box Climbing Areas > Southern Box areas > Major Wall,Lead,Onsight,Sport,2300
+2025-03-23,Major Raspberry,5.10d,https://www.mountainproject.com/route/106686849/major-raspberry,1,New Mexico > Socorro Area > The Box Climbing Areas > Southern Box areas > Major Wall,Lead,Onsight,Sport,3500
+2025-03-23,Bat out of Hell,5.12a,https://www.mountainproject.com/route/105895734/bat-out-of-hell,1,New Mexico > Socorro Area > The Box Climbing Areas > Southern Box areas > Major Wall,Lead,Fell/Hung,Sport,6600
+2025-03-02,Curse of Cain Arete,5.11,https://www.mountainproject.com/route/114183396/curse-of-cain-arete,1,New Mexico > Santa Fe Area > Diablo Canyon > Eden Canyon > Eden Wall > Eden Wall North Sector,Lead,Redpoint,Sport,5000
+2025-03-02,Lust,5.12b,https://www.mountainproject.com/route/114115802/lust,1,New Mexico > Santa Fe Area > Diablo Canyon > Eden Canyon > Eden Wall > Eden Wall North Sector,Lead,Redpoint,Sport,6900
+2025-03-02,Envy,5.10+,https://www.mountainproject.com/route/114116111/envy,1,New Mexico > Santa Fe Area > Diablo Canyon > Eden Canyon > Eden Wall > Eden Wall North Sector,Lead,Redpoint,Sport,3300
+2025-03-02,Greed,5.11,https://www.mountainproject.com/route/114116102/greed,1,New Mexico > Santa Fe Area > Diablo Canyon > Eden Canyon > Eden Wall > Eden Wall North Sector,Lead,Redpoint,Sport,5000
+2025-03-02,Gluttony Face,5.10+,https://www.mountainproject.com/route/114118710/gluttony-face,1,New Mexico > Santa Fe Area > Diablo Canyon > Eden Canyon > Eden Wall > Eden Wall North Sector,Lead,Redpoint,Sport,3300
+2025-02-24,Baby Jesus,5.10-,https://www.mountainproject.com/route/114381010/baby-jesus,1,New Mexico > Santa Fe Area > Diablo Canyon > Eden Canyon > Eden Wall > Judas Crag Sector,Lead,Redpoint,Sport,2700
+2025-02-24,Frankie Lee,5.11b,https://www.mountainproject.com/route/112874003/frankie-lee,2,New Mexico > Santa Fe Area > Diablo Canyon > Eden Canyon > Eden Wall > Judas Crag Sector,Lead,Redpoint,Sport,4900
+2025-02-24,Wrath,5.11c,https://www.mountainproject.com/route/114116122/wrath,2,New Mexico > Santa Fe Area > Diablo Canyon > Eden Canyon > Eden Wall > Eden Wall North Sector,Lead,Redpoint,Sport,5200
+2025-02-23,P.M.S.,5.10a/b,https://www.mountainproject.com/route/105981768/pms,1,New Mexico > Los Alamos & White Rock > White Rock > Below The Old New Place,Lead,Redpoint,Sport,2800
+2025-02-23,Flesh-Eating Gnats,5.11c,https://www.mountainproject.com/route/105981756/flesh-eating-gnats,1,New Mexico > Los Alamos & White Rock > White Rock > Below The Old New Place,Lead,Fell/Hung,Sport,5200
+2025-02-23,Wailing Banshees,5.11,https://www.mountainproject.com/route/105948287/wailing-banshees,3,New Mexico > Los Alamos & White Rock > White Rock > Below The Old New Place,Lead,Redpoint,Sport,5000
+2025-02-22,L Dopa,5.9-,https://www.mountainproject.com/route/105981773/l-dopa,1,New Mexico > Los Alamos & White Rock > White Rock > Below The Old New Place,Lead,Redpoint,Trad,2300
+2025-02-16,Wrath,5.11c,https://www.mountainproject.com/route/114116122/wrath,1,New Mexico > Santa Fe Area > Diablo Canyon > Eden Canyon > Eden Wall > Eden Wall North Sector,Lead,Fell/Hung,Sport,5200
+2025-02-16,Edenic,5.11d,https://www.mountainproject.com/route/116680779/edenic,2,New Mexico > Santa Fe Area > Diablo Canyon > Eden Canyon > Eden Wall > Eden Wall North Sector,Lead,Redpoint,Sport,5500
+2025-02-08,Edenic,5.11d,https://www.mountainproject.com/route/116680779/edenic,2,New Mexico > Santa Fe Area > Diablo Canyon > Eden Canyon > Eden Wall > Eden Wall North Sector,Lead,Fell/Hung,Sport,5500
+2025-02-08,The Judas Goat,5.10c,https://www.mountainproject.com/route/112228713/the-judas-goat,1,New Mexico > Santa Fe Area > Diablo Canyon > Eden Canyon > Eden Wall > Judas Crag Sector,Lead,Redpoint,Sport,3200
+2025-02-08,Baby Jesus,5.10-,https://www.mountainproject.com/route/114381010/baby-jesus,1,New Mexico > Santa Fe Area > Diablo Canyon > Eden Canyon > Eden Wall > Judas Crag Sector,Lead,Redpoint,Sport,2700
+2025-02-02,Rattlesnake Crack (aka Sidewinder),5.11c,https://www.mountainproject.com/route/106033771/rattlesnake-crack-aka-sidewinder,1,New Mexico > Los Alamos & White Rock > White Rock > Old New Place,Lead,Redpoint,"Trad, TR",5200
+2025-02-02,Wailing Banshees,5.11,https://www.mountainproject.com/route/105948287/wailing-banshees,1,New Mexico > Los Alamos & White Rock > White Rock > Below The Old New Place,Lead,Redpoint,Sport,5000
+2025-02-02,L Dopa,5.9-,https://www.mountainproject.com/route/105981773/l-dopa,1,New Mexico > Los Alamos & White Rock > White Rock > Below The Old New Place,Lead,Onsight,Trad,2300
+2025-01-27,Manic Crack (aka Left Twin Crack),5.11a,https://www.mountainproject.com/route/105996300/manic-crack-aka-left-twin-crack,1,New Mexico > Los Alamos & White Rock > White Rock > Below The Old New Place,TR,,Trad,4600
+2025-01-27,Rattlesnake Crack (aka Sidewinder),5.11c,https://www.mountainproject.com/route/106033771/rattlesnake-crack-aka-sidewinder,3,New Mexico > Los Alamos & White Rock > White Rock > Old New Place,Lead,Fell/Hung,"Trad, TR",5200
+2025-01-27,Rattlesnake Crack (aka Sidewinder),5.11c,https://www.mountainproject.com/route/106033771/rattlesnake-crack-aka-sidewinder,3,New Mexico > Los Alamos & White Rock > White Rock > Old New Place,Lead,Pinkpoint,"Trad, TR",5200
+2025-01-27,Ralph's Revenge,5.9+,https://www.mountainproject.com/route/105981760/ralphs-revenge,1,New Mexico > Los Alamos & White Rock > White Rock > Below The Old New Place,TR,,Trad,2500
+2025-01-18,P.M.S.,5.10a/b,https://www.mountainproject.com/route/105981768/pms,1,New Mexico > Los Alamos & White Rock > White Rock > Below The Old New Place,Lead,Onsight,Sport,2800
+2025-01-18,Manic Crack (aka Left Twin Crack),5.11a,https://www.mountainproject.com/route/105996300/manic-crack-aka-left-twin-crack,1,New Mexico > Los Alamos & White Rock > White Rock > Below The Old New Place,Follow,,Trad,4600
+2025-01-18,Ralph's Revenge,5.9+,https://www.mountainproject.com/route/105981760/ralphs-revenge,1,New Mexico > Los Alamos & White Rock > White Rock > Below The Old New Place,Lead,Pinkpoint,Trad,2500
+2025-01-18,Ralph's Dilemma,5.10a,https://www.mountainproject.com/route/105981752/ralphs-dilemma,1,New Mexico > Los Alamos & White Rock > White Rock > Below The Old New Place,Lead,Pinkpoint,Trad,2600
+2024-08-23,Village Cobbler,5.11b,https://www.mountainproject.com/route/105819205/village-cobbler,1,New Mexico > El Rito > El Rito Sport Area > Beer Block,Lead,Redpoint,Sport,4900
+2024-08-22,Angry Sea Bass,5.9,https://www.mountainproject.com/route/106488746/angry-sea-bass,1,New Mexico > El Rito > El Rito Sport Area > The Balcony,Lead,Redpoint,Sport,2400
+2024-08-19,Nirvana,5.11+,https://www.mountainproject.com/route/112228808/nirvana,1,New Mexico > Santa Fe Area > Diablo Canyon > Eden Canyon > Heavenly Buttress,Lead,Redpoint,Sport,5300
+2024-08-18,Seventh Heaven,5.10+,https://www.mountainproject.com/route/112228794/seventh-heaven,1,New Mexico > Santa Fe Area > Diablo Canyon > Eden Canyon > Heavenly Buttress,Lead,Flash,Sport,3300
+2024-08-04,Schön Roof,5.12,https://www.mountainproject.com/route/120583568/schon-roof,1,New Mexico > Santa Fe Area > Pecos River Canyon > The Grandstand,Lead,Fell/Hung,Sport,7000
+2024-08-04,Warmup,5.10,https://www.mountainproject.com/route/120583514/warmup,1,New Mexico > Santa Fe Area > Pecos River Canyon > The Grandstand,Lead,Onsight,Sport,3000
+2024-08-04,Step Out,5.10+,https://www.mountainproject.com/route/120583481/step-out,2,New Mexico > Santa Fe Area > Pecos River Canyon > The Grandstand,Lead,Redpoint,Sport,3300
+2024-08-01,Los Gastones,5.11c,https://www.mountainproject.com/route/106507368/los-gastones,2,New Mexico > Jemez Area > Area 37,Lead,Redpoint,Sport,5200
+2024-08-01,The InBetween,5.10a,https://www.mountainproject.com/route/105848478/the-inbetween,1,New Mexico > Jemez Area > Area 37,Lead,Onsight,Sport,2600
+2024-08-01,Bag of Sand,5.11b,https://www.mountainproject.com/route/105848475/bag-of-sand,3,New Mexico > Jemez Area > Area 37,Lead,Redpoint,Sport,4900
+2024-07-30,Not Tobie,5.12a/b,https://www.mountainproject.com/route/113745635/not-tobie,5,New Mexico > Santa Fe Area > Pecos River Canyon > The Rim of the World,Lead,Redpoint,Sport,6800
+2024-07-25,Paradise City,5.10c,https://www.mountainproject.com/route/110958965/paradise-city,1,New Mexico > Santa Fe Area > Diablo Canyon > The Grotto > Grotto Left (East Side) Lower Tier,Lead,Onsight,Sport,3200
+2024-07-25,Muscle Crow,5.12c,https://www.mountainproject.com/route/105878391/muscle-crow,1,New Mexico > Santa Fe Area > Diablo Canyon > The Grotto > Grotto Left (East Side) Lower Tier,Lead,Fell/Hung,Sport,7200
+2024-07-25,Affirmative Action,5.11a,https://www.mountainproject.com/route/105824874/affirmative-action,1,New Mexico > Santa Fe Area > Diablo Canyon > The Grotto > Grotto Left (East Side) Lower Tier,Lead,Redpoint,Sport,4600
+2024-07-25,Bergers Bakeshop,5.10d,https://www.mountainproject.com/route/105824869/bergers-bakeshop,2,New Mexico > Santa Fe Area > Diablo Canyon > The Grotto > Grotto Left (East Side) Lower Tier,Lead,Redpoint,Sport,3500
+2024-07-21,Gauntlet,5.12b/c,https://www.mountainproject.com/route/111835769/gauntlet,1,New Mexico > Santa Fe Area > Diablo Canyon > The Shack > Main Wall,Lead,Fell/Hung,Sport,7100
+2024-07-21,Endurance,5.11a,https://www.mountainproject.com/route/108332328/endurance,1,New Mexico > Santa Fe Area > Diablo Canyon > The Shack > Main Wall,Lead,Redpoint,Sport,4600
+2024-07-17,Not Tobie,5.12a/b,https://www.mountainproject.com/route/113745635/not-tobie,1,New Mexico > Santa Fe Area > Pecos River Canyon > The Rim of the World,Lead,Redpoint,Sport,6800
+2024-07-17,Squeeze Job,5.11,https://www.mountainproject.com/route/119055731/squeeze-job,1,New Mexico > Santa Fe Area > Pecos River Canyon > The Rim of the World,Lead,Flash,Sport,5000
+2024-07-17,Lucky Boy,5.10c,https://www.mountainproject.com/route/107563512/lucky-boy,1,New Mexico > Santa Fe Area > Pecos River Canyon > The Rim of the World,Lead,Onsight,Sport,3200
+2024-07-14,Carol’s Route,5.10-,https://www.mountainproject.com/route/119270318/carols-route,1,New Mexico > Santa Fe Area > Pecos River Canyon > The Rim of the World,Lead,Redpoint,Sport,2700
+2024-07-14,Double Clutch,5.11,https://www.mountainproject.com/route/107663579/double-clutch,1,New Mexico > Santa Fe Area > Pecos River Canyon > The Rim of the World,Lead,Onsight,Sport,5000
+2024-07-03,The Conch,5.11a,https://www.mountainproject.com/route/105883594/the-conch,1,South Dakota > Spearfish Canyon > Blue Sky > Lord Of The Flies Wall,Lead,Fell/Hung,Sport,4600
+2024-07-03,Smells Like Teen Spirit,5.8,https://www.mountainproject.com/route/110679865/smells-like-teen-spirit,1,South Dakota > Spearfish Canyon > Blue Sky > Pheromone Wall,Lead,Onsight,Sport,2100
+2024-06-29,Dragonfly,5.9+,https://www.mountainproject.com/route/106933821/dragonfly,1,South Dakota > Spearfish Canyon > Blue Sky > Pheromone Wall,Lead,Fell/Hung,Sport,2500
+2024-06-28,Cool Whip,5.10-,https://www.mountainproject.com/route/109006300/cool-whip,1,South Dakota > Spearfish Canyon > Ice Box,Lead,Onsight,Sport,2700
+2024-06-28,Frosted Flake,5.10b,https://www.mountainproject.com/route/108868546/frosted-flake,1,South Dakota > Spearfish Canyon > Ice Box,Lead,Onsight,Sport,2900
+2024-06-28,Raising the Klondike Bar,5.10a,https://www.mountainproject.com/route/108474326/raising-the-klondike-bar,1,South Dakota > Spearfish Canyon > Ice Box,Lead,Onsight,Sport,2600
+2024-06-28,Pular Express,5.11d,https://www.mountainproject.com/route/108430153/pular-express,2,South Dakota > Spearfish Canyon > Ice Box,Lead,Redpoint,Sport,5500
+2024-06-28,Two Kings And A  Queen,5.11c,https://www.mountainproject.com/route/108115920/two-kings-and-a-queen,1,South Dakota > Spearfish Canyon > Ice Box,Lead,Onsight,Sport,5200
+2024-06-18,Gangland,5.12b,https://www.mountainproject.com/route/106233567/gangland,1,New Mexico > Los Alamos & White Rock > The Dungeon > Main Wall,Lead,Redpoint,Sport,6900
+2024-06-15,Tachycardia,5.7,https://www.mountainproject.com/route/107669530/tachycardia,3,Utah > Central Utah > Maple Canyon > Maple Canyon Road > Heart Rock Area > Heart Rock,Lead,Onsight,Sport,1800
+2024-06-14,Don't Touch the Monkey,5.8+,https://www.mountainproject.com/route/107302898/dont-touch-the-monkey,1,Utah > Central Utah > Maple Canyon > Left Fork > Orangutan Wall,Lead,Flash,Sport,2200
+2024-06-14,Dry Spunk,5.11c,https://www.mountainproject.com/route/106004012/dry-spunk,1,Utah > Central Utah > Maple Canyon > Right Fork > The Pipe Dream,Lead,Redpoint,Sport,5200
+2024-06-14,Dry Spunk,5.11c,https://www.mountainproject.com/route/106004012/dry-spunk,1,Utah > Central Utah > Maple Canyon > Right Fork > The Pipe Dream,Lead,Fell/Hung,Sport,5200
+2024-06-14,49,5.12a,https://www.mountainproject.com/route/106001020/49,1,Utah > Central Utah > Maple Canyon > Right Fork > The Minimum Crag,Lead,Redpoint,Sport,6600
+2024-06-14,Lunchables,5.11d,https://www.mountainproject.com/route/105808849/lunchables,1,Utah > Central Utah > Maple Canyon > Right Fork > The Minimum Crag,Lead,Redpoint,Sport,5500
+2024-06-13,49,5.12a,https://www.mountainproject.com/route/106001020/49,3,Utah > Central Utah > Maple Canyon > Right Fork > The Minimum Crag,Lead,Fell/Hung,Sport,6600
+2024-06-13,Minienticer,5.9,https://www.mountainproject.com/route/105989461/minienticer,1,Utah > Central Utah > Maple Canyon > Right Fork > The Minimum Crag,Lead,Onsight,Sport,2400
+2024-06-13,Forrest,5.10b/c,https://www.mountainproject.com/route/105860955/forrest,1,New Mexico > Jemez Area > Las Conchas > (B) Gateway Rock,Lead,Onsight,Sport,3100
+2024-06-11,Bicycle Man,5.10d,https://www.mountainproject.com/route/106129085/bicycle-man,1,Utah > Central Utah > Maple Canyon > Right Fork > Shady Lane,Lead,Onsight,Sport,3500
+2024-06-11,Blunt Arete,5.10b,https://www.mountainproject.com/route/106129081/blunt-arete,1,Utah > Central Utah > Maple Canyon > Right Fork > Shady Lane,Lead,Onsight,Sport,2900
+2024-06-11,Lunchables,5.11d,https://www.mountainproject.com/route/105808849/lunchables,2,Utah > Central Utah > Maple Canyon > Right Fork > The Minimum Crag,Lead,Fell/Hung,Sport,5500
+2024-06-11,Groundwork,5.11c,https://www.mountainproject.com/route/105741116/groundwork,1,Utah > Central Utah > Maple Canyon > Right Fork > The Minimum Crag,Lead,Onsight,Sport,5200
+2024-06-10,Taking the Bullet,5.11a,https://www.mountainproject.com/route/106129021/taking-the-bullet,1,Utah > Central Utah > Maple Canyon > Maple Canyon Road > Bridge Area,Lead,Onsight,Sport,4600
+2024-06-10,The Angry Inch,5.11b,https://www.mountainproject.com/route/106028095/the-angry-inch,1,Utah > Central Utah > Maple Canyon > Left Fork > The Pipeline,Lead,Onsight,Sport,4900
+2024-06-10,Flak Jacket,5.10a,https://www.mountainproject.com/route/106025644/flak-jacket,1,Utah > Central Utah > Maple Canyon > Maple Canyon Road > Bridge Area,Lead,Onsight,Sport,2600
+2024-06-10,Crime Scene,5.10+,https://www.mountainproject.com/route/106025635/crime-scene,1,Utah > Central Utah > Maple Canyon > Maple Canyon Road > Bridge Area,Lead,Onsight,Sport,3300
+2024-06-04,Moat Jump,5.12a,https://www.mountainproject.com/route/105848541/moat-jump,3,New Mexico > Los Alamos & White Rock > The Dungeon > Main Wall,Lead,Redpoint,Sport,6600
+2024-06-02,Pull to Live,5.12a,https://www.mountainproject.com/route/108271652/pull-to-live,3,New Mexico > Santa Fe Area > Diablo Canyon > The Shack > Main Wall,Lead,Redpoint,Sport,6600
+2024-06-01,Udder Nonsense,5.12a,https://www.mountainproject.com/route/107569402/udder-nonsense,1,New Mexico > Jemez Area > Las Conchas > (A) Cattle Call Wall Area,Lead,Redpoint,Sport,6600
+2024-06-01,Crucible,5.8,https://www.mountainproject.com/route/105860925/crucible,1,New Mexico > Jemez Area > Las Conchas > (A) Cattle Call Wall Area,Lead,Onsight,Sport,2100
+2024-05-21,Invisible Pink Unicorn,5.10d,https://www.mountainproject.com/route/107058382/invisible-pink-unicorn,1,New Mexico > Jemez Area > Upper East Fork (UEF) > Wheel of Karma,Lead,Onsight,Sport,3500
+2024-05-21,Pegasus,5.12a,https://www.mountainproject.com/route/106383056/pegasus,2,New Mexico > Jemez Area > Upper East Fork (UEF) > Monster Wall,Lead,Redpoint,Sport,6600
+2024-05-17,Galaga,5.12a,https://www.mountainproject.com/route/109137194/galaga,3,New Mexico > Santa Fe Area > Diablo Canyon > The Shack > Main Wall,Lead,Redpoint,Sport,6600
+2024-05-17,Standing on the Edge of Extinction,5.11,https://www.mountainproject.com/route/108271630/standing-on-the-edge-of-extinction,1,New Mexico > Santa Fe Area > Diablo Canyon > The Shack > Main Wall,Lead,Flash,Sport,5000
+2024-05-12,Crispy the Renegade,5.12a,https://www.mountainproject.com/route/108271617/crispy-the-renegade,1,New Mexico > Santa Fe Area > Diablo Canyon > The Shack > Main Wall,Lead,Redpoint,Sport,6600
+2024-05-12,40-Love,5.12b,https://www.mountainproject.com/route/108271474/40-love,2,New Mexico > Santa Fe Area > Diablo Canyon > The Shack > Main Wall,Lead,Redpoint,Sport,6900
+2024-05-09,High Mountain Woodie,5.11,https://www.mountainproject.com/route/123091220/high-mountain-woodie,1,International > North America > Canada > British Columbia > Fraser Valley > Mt. Woodside,Lead,Onsight,Sport,5000
+2024-04-13,Terror on the High Seas,5.11d,https://www.mountainproject.com/route/113543454/terror-on-the-high-seas,1,New Mexico > El Rito > El Rito Sport Area > Pirate's Wall,Lead,Fell/Hung,Sport,5500
+2024-04-13,Shiver Me Cobbles,5.10b,https://www.mountainproject.com/route/113511602/shiver-me-cobbles,1,New Mexico > El Rito > El Rito Sport Area > Pirate's Wall,Lead,Onsight,Sport,2900
+2024-04-13,Cellar Door,5.10d,https://www.mountainproject.com/route/107031698/cellar-door,1,New Mexico > El Rito > El Rito Sport Area > Cellar Wall,Lead,Onsight,Sport,3500
+2024-04-13,The Matrix,5.11c,https://www.mountainproject.com/route/106031154/the-matrix,1,New Mexico > El Rito > El Rito Sport Area > Rad Wall,Lead,Redpoint,Sport,5200
+2024-04-13,El Beerto,5.11c,https://www.mountainproject.com/route/105875043/el-beerto,1,New Mexico > El Rito > El Rito Sport Area > Beer Block,Lead,Onsight,Sport,5200
+2024-04-13,Booty,5.11b,https://www.mountainproject.com/route/105818460/booty,1,New Mexico > El Rito > El Rito Sport Area > Pirate's Wall,Lead,Onsight,Sport,4900
+2024-04-11,Waimea,5.10d,https://www.mountainproject.com/route/105867858/waimea,1,New Hampshire > *Rumney > Waimea,Lead,Redpoint,Sport,3500
+2024-03-31,The Book of Souls,5.12b,https://www.mountainproject.com/route/122680409/the-book-of-souls,2,New Mexico > Santa Fe Area > Diablo Canyon > The Grotto > Grotto Left (East Side) Lower Tier,Lead,Redpoint,Sport,6900
+2024-03-31,Affirmative Action,5.11a,https://www.mountainproject.com/route/105824874/affirmative-action,1,New Mexico > Santa Fe Area > Diablo Canyon > The Grotto > Grotto Left (East Side) Lower Tier,Lead,Onsight,Sport,4600
+2024-03-23,Double Vision / Ream Dream,5.11c,https://www.mountainproject.com/route/105940679/double-vision-ream-dream,2,New Mexico > Los Alamos & White Rock > White Rock > The Overlook > South/East side,Lead,Redpoint,"Sport, TR",5200
+2024-03-09,The Book of Souls,5.12b,https://www.mountainproject.com/route/122680409/the-book-of-souls,1,New Mexico > Santa Fe Area > Diablo Canyon > The Grotto > Grotto Left (East Side) Lower Tier,Lead,Fell/Hung,Sport,6900
+2024-03-09,Original Face Route,5.7+,https://www.mountainproject.com/route/106049089/original-face-route,1,New Mexico > Santa Fe Area > Diablo Canyon > Winter Wall,Lead,Onsight,Sport,1900
+2024-03-03,The Book of Souls,5.12b,https://www.mountainproject.com/route/122680409/the-book-of-souls,2,New Mexico > Santa Fe Area > Diablo Canyon > The Grotto > Grotto Left (East Side) Lower Tier,Lead,Fell/Hung,Sport,6900
+2024-03-03,Sapien,5.12d,https://www.mountainproject.com/route/105803868/sapien,4,New Mexico > Santa Fe Area > Diablo Canyon > Solar Cave,Lead,Fell/Hung,Sport,7500
+2024-01-28,Polyester Terror,5.10a,https://www.mountainproject.com/route/105981748/polyester-terror,1,New Mexico > Los Alamos & White Rock > White Rock > Below The Old New Place,Lead,Onsight,Trad,2600
+2024-01-28,Flesh-Eating Gnats,5.11c,https://www.mountainproject.com/route/105981756/flesh-eating-gnats,1,New Mexico > Los Alamos & White Rock > White Rock > Below The Old New Place,Lead,Redpoint,Sport,5200
+2024-01-28,Monsterpiece Theatre,5.12a,https://www.mountainproject.com/route/105946964/monsterpiece-theatre,4,New Mexico > Los Alamos & White Rock > White Rock > Below The Old New Place,Lead,Redpoint,Sport,6600
+2024-01-28,Atom Ant (aka Nuclear Ant Farm),5.12a,https://www.mountainproject.com/route/105947103/atom-ant-aka-nuclear-ant-farm,3,New Mexico > Los Alamos & White Rock > White Rock > Below The Old New Place,Lead,Redpoint,Sport,6600
+2024-01-20,The ILL (Ian and Lance Line) Route,5.12c,https://www.mountainproject.com/route/106308919/the-ill-ian-and-lance-line-route,1,New Mexico > Santa Fe Area > Diablo Canyon > Solar Cave,Lead,Fell/Hung,Sport,7200
+2024-01-20,Solo Man (aka Homo Erectus Soloensis),5.12b,https://www.mountainproject.com/route/111613232/solo-man-aka-homo-erectus-soloensis,1,New Mexico > Santa Fe Area > Diablo Canyon > Solar Cave,Lead,Redpoint,Sport,6900
+2023-12-20,Unrelenting Nines,5.11c,https://www.mountainproject.com/route/106058819/unrelenting-nines,3,New Mexico > Los Alamos & White Rock > White Rock > The Playground,Lead,Redpoint,"Trad, TR",5200
+2023-12-17,Flying A,5.11a,https://www.mountainproject.com/route/106024768/flying-a,1,New Mexico > Los Alamos & White Rock > White Rock > The Playground,TR,,"Trad, TR",4600
+2023-12-17,Unrelenting Nines,5.11c,https://www.mountainproject.com/route/106058819/unrelenting-nines,1,New Mexico > Los Alamos & White Rock > White Rock > The Playground,TR,,"Trad, TR",5200
+2023-12-17,Texas,5.8,https://www.mountainproject.com/route/105995992/texas,1,New Mexico > Los Alamos & White Rock > White Rock > The Playground,Lead,Flash,"Trad, TR",2100
+2023-12-17,Upper Left Roof,5.9,https://www.mountainproject.com/route/106024896/upper-left-roof,1,New Mexico > Los Alamos & White Rock > White Rock > The Playground,Lead,Onsight,"Trad, TR",2400
+2023-12-17,Beginner's Hand Jam,5.9,https://www.mountainproject.com/route/105995997/beginners-hand-jam,1,New Mexico > Los Alamos & White Rock > White Rock > The Playground,Lead,Onsight,"Trad, TR",2400
+2023-12-17,Blow Hole,5.10c/d,https://www.mountainproject.com/route/106032245/blow-hole,1,New Mexico > Los Alamos & White Rock > White Rock > The Playground,Lead,Fell/Hung,"Trad, TR",3400
+2023-12-16,Solo Man (aka Homo Erectus Soloensis),5.12b,https://www.mountainproject.com/route/111613232/solo-man-aka-homo-erectus-soloensis,2,New Mexico > Santa Fe Area > Diablo Canyon > Solar Cave,Lead,Fell/Hung,Sport,6900
+2023-12-16,Hominid,5.11b/c,https://www.mountainproject.com/route/106308903/hominid,2,New Mexico > Santa Fe Area > Diablo Canyon > Solar Cave,Lead,Fell/Hung,Sport,5100
+2023-12-10,Handyman,5.10,https://www.mountainproject.com/route/108961774/handyman,1,New Mexico > Jemez Area > Capulin Canyon and Cochiti Mesa Area Crags > Capulin Canyon > Upper Wall,Lead,Fell/Hung,Trad,3000
+2023-12-10,Chimney Sweep,5.10,https://www.mountainproject.com/route/108414545/chimney-sweep,1,New Mexico > Jemez Area > Capulin Canyon and Cochiti Mesa Area Crags > Capulin Canyon > Upper Wall,Lead,Redpoint,Trad,3000
+2023-12-05,Ralph's Dilemma,5.10a,https://www.mountainproject.com/route/105981752/ralphs-dilemma,1,New Mexico > Los Alamos & White Rock > White Rock > Below The Old New Place,Lead,Onsight,Trad,2600
+2023-12-05,Flesh-Eating Gnats,5.11c,https://www.mountainproject.com/route/105981756/flesh-eating-gnats,1,New Mexico > Los Alamos & White Rock > White Rock > Below The Old New Place,Lead,Redpoint,Sport,5200
+2023-12-05,Wailing Banshees,5.11,https://www.mountainproject.com/route/105948287/wailing-banshees,1,New Mexico > Los Alamos & White Rock > White Rock > Below The Old New Place,Lead,Redpoint,Sport,5000
+2023-12-03,Wailing Banshees,5.11,https://www.mountainproject.com/route/105948287/wailing-banshees,4,New Mexico > Los Alamos & White Rock > White Rock > Below The Old New Place,Lead,Fell/Hung,Sport,5000
+2023-12-03,Ralph's Revenge,5.9+,https://www.mountainproject.com/route/105981760/ralphs-revenge,1,New Mexico > Los Alamos & White Rock > White Rock > Below The Old New Place,Lead,Onsight,Trad,2500
+2023-11-26,Boy What Assholes (You Guys Turned Out to Be),5.10b,https://www.mountainproject.com/route/105940639/boy-what-assholes-you-guys-turned-out-to-be,1,New Mexico > Los Alamos & White Rock > White Rock > The Overlook > South/East side,Lead,Flash,Sport,2900
+2023-11-04,Against All Cobbs,5.12c,https://www.mountainproject.com/route/105819875/against-all-cobbs,1,New Mexico > El Rito > El Rito Sport Area > Rad Wall,Lead,Redpoint,Sport,7200
+2023-10-21,Beginner's Outing,5.8,https://www.mountainproject.com/route/106004029/beginners-outing,1,Colorado > Canon City > Shelf Road > The Dark Side,Lead,Onsight,Sport,2100
+2023-10-21,Lumina,5.9,https://www.mountainproject.com/route/105752422/lumina,1,Colorado > Canon City > Shelf Road > The Dark Side,Lead,Onsight,Sport,2400
+2023-10-21,Enchanted Porkfist,5.11a,https://www.mountainproject.com/route/105752419/enchanted-porkfist,1,Colorado > Canon City > Shelf Road > The Dark Side,Lead,Onsight,Sport,4600
+2023-10-21,27 Tons,5.10a,https://www.mountainproject.com/route/106004015/27-tons,1,Colorado > Canon City > Shelf Road > The Dark Side,Lead,Onsight,Sport,2600
+2023-10-07,Against All Cobbs,5.12c,https://www.mountainproject.com/route/105819875/against-all-cobbs,3,New Mexico > El Rito > El Rito Sport Area > Rad Wall,Lead,Fell/Hung,Sport,7200
+2023-09-30,Against All Cobbs,5.12c,https://www.mountainproject.com/route/105819875/against-all-cobbs,2,New Mexico > El Rito > El Rito Sport Area > Rad Wall,Lead,Fell/Hung,Sport,7200
+2023-09-30,Peach Cobbler,5.11c,https://www.mountainproject.com/route/105817378/peach-cobbler,3,New Mexico > El Rito > El Rito Sport Area > Big Pine Wall,Lead,Redpoint,Sport,5200
+2023-09-16,Stoker,5.12b,https://www.mountainproject.com/route/105819884/stoker,1,New Mexico > El Rito > El Rito Sport Area > Rad Wall,Lead,Redpoint,Sport,6900
+2023-09-09,Straight Outta Cobbton,5.12a,https://www.mountainproject.com/route/123863648/straight-outta-cobbton,1,New Mexico > El Rito > El Rito Sport Area > Rad Wall,Lead,Redpoint,Sport,6600
+2023-08-19,Balls to the Wall,5.10b,https://www.mountainproject.com/route/105980226/balls-to-the-wall,1,New Mexico > El Rito > El Rito Sport Area > Gnar Wall and Route Canal,Lead,Onsight,Sport,2900
+2023-08-19,Blackballed,5.10b,https://www.mountainproject.com/route/105980222/blackballed,1,New Mexico > El Rito > El Rito Sport Area > Gnar Wall and Route Canal,Lead,Onsight,Sport,2900
+2023-08-19,Procrastination,5.11d,https://www.mountainproject.com/route/105818767/procrastination,3,New Mexico > El Rito > El Rito Sport Area > Rad Wall,Lead,Fell/Hung,Sport,5500
+2023-08-13,Crimp Chimp,5.12a,https://www.mountainproject.com/route/105986944/crimp-chimp,2,New Mexico > Los Alamos & White Rock > The Dungeon > 45° Boulder,Lead,Redpoint,Sport,6600
+2023-07-25,Cobble Sutra,5.10a,https://www.mountainproject.com/route/108939570/cobble-sutra,1,New Mexico > El Rito > El Rito Sport Area > Big Pine Wall,Lead,,Sport,2600
+2023-07-25,Redline,5.10d,https://www.mountainproject.com/route/105832640/redline,1,New Mexico > El Rito > El Rito Sport Area > Ed Woody,Lead,,Sport,3500
+2023-07-25,Cobbles and Robbers,5.11a,https://www.mountainproject.com/route/105832636/cobbles-and-robbers,1,New Mexico > El Rito > El Rito Sport Area > Ed Woody,Lead,Onsight,Sport,4600
+2023-07-25,Cobble Wobble,5.10c,https://www.mountainproject.com/route/105819246/cobble-wobble,1,New Mexico > El Rito > El Rito Sport Area > Big Pine Wall,,,Sport,3200
+2023-07-25,Little Kings,5.12b,https://www.mountainproject.com/route/105819241/little-kings,2,New Mexico > El Rito > El Rito Sport Area > Beer Block,Lead,Redpoint,Sport,6900
+2023-07-25,Tecate Two-Step,5.12a,https://www.mountainproject.com/route/105819224/tecate-two-step,2,New Mexico > El Rito > El Rito Sport Area > Beer Block,Lead,Redpoint,Sport,6600
+2023-07-20,Cobble Sutra,5.10a,https://www.mountainproject.com/route/108939570/cobble-sutra,1,New Mexico > El Rito > El Rito Sport Area > Big Pine Wall,Lead,,Sport,2600
+2023-07-20,Cobble Wobble,5.10c,https://www.mountainproject.com/route/105819246/cobble-wobble,1,New Mexico > El Rito > El Rito Sport Area > Big Pine Wall,Lead,,Sport,3200
+2023-07-20,Tecate Two-Step,5.12a,https://www.mountainproject.com/route/105819224/tecate-two-step,2,New Mexico > El Rito > El Rito Sport Area > Beer Block,Lead,Redpoint,Sport,6600
+2023-07-20,Buddha's Beer Belly,5.12a,https://www.mountainproject.com/route/105819216/buddhas-beer-belly,1,New Mexico > El Rito > El Rito Sport Area > Beer Block,Lead,Onsight,Sport,6600
+2023-07-02,Rodent Outhouse,5.11a,https://www.mountainproject.com/route/105957056/rodent-outhouse,1,New Mexico > El Rito > El Rito Sport Area > The Balcony,Lead,Onsight,Sport,4600
+2023-07-02,Jug-or-Naut,5.11b,https://www.mountainproject.com/route/105818733/jug-or-naut,1,New Mexico > El Rito > El Rito Sport Area > The Balcony,Lead,Onsight,Sport,4900
+2023-07-02,Nine Lives,5.11b,https://www.mountainproject.com/route/107061553/nine-lives,1,New Mexico > El Rito > El Rito Sport Area > The Balcony,Lead,Redpoint,Sport,4900
+2023-07-02,"Austin Powers, International Man of Mystery",5.9,https://www.mountainproject.com/route/105943987/austin-powers-international-man-of-mystery,1,New Mexico > El Rito > El Rito Sport Area > The Balcony,Lead,Onsight,Sport,2400
+2023-07-02,Sharks With Friggin' Laser Beams,5.9,https://www.mountainproject.com/route/106488740/sharks-with-friggin-laser-beams,1,New Mexico > El Rito > El Rito Sport Area > The Balcony,Lead,Onsight,Sport,2400
+2023-07-02,Angry Sea Bass,5.9,https://www.mountainproject.com/route/106488746/angry-sea-bass,1,New Mexico > El Rito > El Rito Sport Area > The Balcony,Lead,Onsight,Sport,2400
+2023-07-02,Evil Medical School,5.10b,https://www.mountainproject.com/route/106486715/evil-medical-school,1,New Mexico > El Rito > El Rito Sport Area > The Balcony,Lead,Onsight,Sport,2900
+2023-07-02,Dr. Evil,5.10,https://www.mountainproject.com/route/105943970/dr-evil,1,New Mexico > El Rito > El Rito Sport Area > The Balcony,Lead,Onsight,Sport,3000
+2023-07-01,Pocket Rocket,5.12a,https://www.mountainproject.com/route/105817368/pocket-rocket,1,New Mexico > El Rito > El Rito Sport Area > Big Pine Wall,Lead,Redpoint,Sport,6600
+2023-06-28,Live to Pull,5.12a,https://www.mountainproject.com/route/108271660/live-to-pull,2,New Mexico > Santa Fe Area > Diablo Canyon > The Shack > Main Wall,Lead,Redpoint,Sport,6600
+2023-06-18,Trick or Treat?,5.10+,https://www.mountainproject.com/route/105907156/trick-or-treat,1,New Mexico > El Rito > El Rito Sport Area > Pirate's Wall,Lead,Onsight,Sport,3300
+2023-06-18,Walking the Plank (aka The Buzz),5.11b/c,https://www.mountainproject.com/route/105985350/walking-the-plank-aka-the-buzz,1,New Mexico > El Rito > El Rito Sport Area > Pirate's Wall,Lead,Onsight,Sport,5100
+2023-06-18,Pocket Rocket,5.12a,https://www.mountainproject.com/route/105817368/pocket-rocket,1,New Mexico > El Rito > El Rito Sport Area > Big Pine Wall,Lead,Redpoint,Sport,6600
+2023-06-13,Live to Pull,5.12a,https://www.mountainproject.com/route/108271660/live-to-pull,1,New Mexico > Santa Fe Area > Diablo Canyon > The Shack > Main Wall,Lead,Redpoint,Sport,6600
+2023-06-13,Renaissance/ Lower Rosie,5.10a/b,https://www.mountainproject.com/route/108328215/renaissance-lower-rosie,1,New Mexico > Santa Fe Area > Diablo Canyon > The Shack > Main Wall,Lead,Redpoint,Sport,2800
+2023-06-10,Corn on the Cobble,5.11b,https://www.mountainproject.com/route/105817372/corn-on-the-cobble,2,New Mexico > El Rito > El Rito Sport Area > Big Pine Wall,Lead,Redpoint,Sport,4900
+2023-06-10,Pocket Rocket,5.12a,https://www.mountainproject.com/route/105817368/pocket-rocket,2,New Mexico > El Rito > El Rito Sport Area > Big Pine Wall,Lead,Fell/Hung,Sport,6600
+2023-06-10,Squeeze My Cobbles,5.11a/b,https://www.mountainproject.com/route/111126961/squeeze-my-cobbles,1,New Mexico > El Rito > El Rito Sport Area > Big Pine Wall,Lead,Redpoint,Sport,4800
+2023-06-10,Cobble Sutra,5.10a,https://www.mountainproject.com/route/108939570/cobble-sutra,1,New Mexico > El Rito > El Rito Sport Area > Big Pine Wall,Lead,Onsight,Sport,2600
+2023-06-04,Block of Life,5.12a,https://www.mountainproject.com/route/108395761/block-of-life,1,New Mexico > Santa Fe Area > Diablo Canyon > The Shack > Main Wall,Lead,Fell/Hung,Sport,6600
+2023-06-04,City Girl,5.9,https://www.mountainproject.com/route/108275157/city-girl,1,New Mexico > Santa Fe Area > Diablo Canyon > The Shack > Main Wall,Lead,Redpoint,Sport,2400
+2023-05-10,Against Nature (aka Peter's Route),5.12a,https://www.mountainproject.com/route/105847851/against-nature-aka-peters-route,1,New Mexico > Los Alamos & White Rock > The Dungeon > Main Wall,Lead,Redpoint,Sport,6600
+2023-04-30,Rampage,5.11a,https://www.mountainproject.com/route/106128344/rampage,1,New Mexico > Los Alamos & White Rock > The Dungeon > Black Wall,Lead,Onsight,Sport,4600
+2023-04-16,Crack Attack,5.12a,https://www.mountainproject.com/route/105819879/crack-attack,1,New Mexico > El Rito > El Rito Sport Area > Rad Wall,Lead,Redpoint,Sport,6600
+2023-04-08,Crack Attack,5.12a,https://www.mountainproject.com/route/105819879/crack-attack,1,New Mexico > El Rito > El Rito Sport Area > Rad Wall,Lead,Flash,Sport,6600
+2023-04-08,Stroke Me,5.12a,https://www.mountainproject.com/route/105819871/stroke-me,1,New Mexico > El Rito > El Rito Sport Area > Rad Wall,Lead,Redpoint,Sport,6600
+2023-04-07,Chopping Block,5.11a,https://www.mountainproject.com/route/105837240/chopping-block,1,New Mexico > Santa Fe Area > Diablo Canyon > The Grotto > Grotto Left (East Side) Lower Tier,Lead,Redpoint,Sport,4600
+2023-04-07,Diabolical,5.11c,https://www.mountainproject.com/route/105995218/diabolical,1,New Mexico > Santa Fe Area > Diablo Canyon > The Grotto > Grotto Left (East Side) Lower Tier,Lead,Redpoint,Sport,5200
+2023-04-07,Welcome to the Jungle,5.11,https://www.mountainproject.com/route/111123387/welcome-to-the-jungle,1,New Mexico > Santa Fe Area > Diablo Canyon > The Grotto > Grotto Left (East Side) Lower Tier,Lead,Redpoint,Sport,5000
+2023-04-07,Pitch,5.11-,https://www.mountainproject.com/route/107840235/pitch,1,New Mexico > Santa Fe Area > Diablo Canyon > Early Wall > Runway (Lower Tier),Lead,Redpoint,Sport,4700
+2023-04-07,Learning to Fly,5.10c,https://www.mountainproject.com/route/109248597/learning-to-fly,1,New Mexico > Santa Fe Area > Diablo Canyon > Early Wall > Runway (Lower Tier),Lead,Redpoint,Sport,3200
+2023-04-07,Ergo,5.10c,https://www.mountainproject.com/route/106049124/ergo,1,New Mexico > Santa Fe Area > Diablo Canyon > Early Wall > Runway (Lower Tier),Lead,Redpoint,Sport,3200
+2023-04-06,Yaw,5.11c,https://www.mountainproject.com/route/107840241/yaw,1,New Mexico > Santa Fe Area > Diablo Canyon > Early Wall > Runway (Lower Tier),Lead,Onsight,Sport,5200
+2023-04-05,Lust,5.12b,https://www.mountainproject.com/route/114115802/lust,2,New Mexico > Santa Fe Area > Diablo Canyon > Eden Canyon > Eden Wall > Eden Wall North Sector,Lead,Redpoint,Sport,6900
+2023-04-02,Two Wheel Drive,5.10d,https://www.mountainproject.com/route/105947129/two-wheel-drive,1,New Mexico > Santa Fe Area > Diablo Canyon > Early Wall > Left End,Lead,Onsight,Sport,3500
+2023-04-02,Humbolt,5.10a,https://www.mountainproject.com/route/106049111/humbolt,1,New Mexico > Santa Fe Area > Diablo Canyon > Early Wall > Left End,Lead,Onsight,Sport,2600
+2023-04-02,Aileron Roll,5.11a,https://www.mountainproject.com/route/107678279/aileron-roll,1,New Mexico > Santa Fe Area > Diablo Canyon > Early Wall > Left End,Lead,Redpoint,Sport,4600
+2023-04-02,JetStream,5.11b,https://www.mountainproject.com/route/107657878/jetstream,1,New Mexico > Santa Fe Area > Diablo Canyon > Early Wall > Runway (Lower Tier),Lead,Redpoint,Sport,4900
+2023-04-02,Start the Machine,5.10+,https://www.mountainproject.com/route/117805503/start-the-machine,1,New Mexico > Santa Fe Area > Diablo Canyon > Early Wall > Runway (Lower Tier),Lead,Onsight,Sport,3300
+2023-03-26,Judas Tower,5.11c,https://www.mountainproject.com/route/113691129/judas-tower,1,New Mexico > Santa Fe Area > Diablo Canyon > Eden Canyon > Eden Wall > Judas Crag Sector,Lead,Fell/Hung,Sport,5200
+2023-03-06,Best Seller,5.9,https://www.mountainproject.com/route/105935466/best-seller,1,Arizona > Northern Arizona > Winslow Area- Hwy’s 87 & 99 Corridors > Jacks Canyon > Cracker Jack Cliffs,Lead,Onsight,Sport,2400
+2023-03-06,Best Seller,5.9,https://www.mountainproject.com/route/105935466/best-seller,1,Arizona > Northern Arizona > Winslow Area- Hwy’s 87 & 99 Corridors > Jacks Canyon > Cracker Jack Cliffs,,,Sport,2400
+2023-03-06,Thorazine Dream,5.11d,https://www.mountainproject.com/route/105940813/thorazine-dream,1,New Mexico > Los Alamos & White Rock > White Rock > The Overlook > South/East side,Lead,Onsight,"Sport, TR",5500
+2023-03-05,Lust,5.12b,https://www.mountainproject.com/route/114115802/lust,1,New Mexico > Santa Fe Area > Diablo Canyon > Eden Canyon > Eden Wall > Eden Wall North Sector,Lead,Fell/Hung,Sport,6900
+2023-03-05,The Betrayal,5.10c,https://www.mountainproject.com/route/112228708/the-betrayal,1,New Mexico > Santa Fe Area > Diablo Canyon > Eden Canyon > Eden Wall > Judas Crag Sector,Lead,Redpoint,Sport,3200
+2023-03-05,Baby Jesus,5.10-,https://www.mountainproject.com/route/114381010/baby-jesus,1,New Mexico > Santa Fe Area > Diablo Canyon > Eden Canyon > Eden Wall > Judas Crag Sector,Lead,Redpoint,Sport,2700
+2023-02-25,The Last Supper,5.12b,https://www.mountainproject.com/route/112865969/the-last-supper,2,New Mexico > Santa Fe Area > Diablo Canyon > Eden Canyon > Eden Wall > Judas Crag Sector,Lead,Redpoint,Sport,6900
+2023-02-25,Frankie Lee,5.11b,https://www.mountainproject.com/route/112874003/frankie-lee,1,New Mexico > Santa Fe Area > Diablo Canyon > Eden Canyon > Eden Wall > Judas Crag Sector,Lead,Onsight,Sport,4900
+2023-02-25,Judas Priest,5.11c,https://www.mountainproject.com/route/112228702/judas-priest,1,New Mexico > Santa Fe Area > Diablo Canyon > Eden Canyon > Eden Wall > Judas Crag Sector,Lead,Redpoint,Sport,5200
+2023-02-25,Baby Jesus,5.10-,https://www.mountainproject.com/route/114381010/baby-jesus,1,New Mexico > Santa Fe Area > Diablo Canyon > Eden Canyon > Eden Wall > Judas Crag Sector,Lead,Redpoint,Sport,2700
+2023-02-19,The Last Supper,5.12b,https://www.mountainproject.com/route/112865969/the-last-supper,3,New Mexico > Santa Fe Area > Diablo Canyon > Eden Canyon > Eden Wall > Judas Crag Sector,Lead,Fell/Hung,Sport,6900
+2023-02-19,The Judas Goat,5.10c,https://www.mountainproject.com/route/112228713/the-judas-goat,1,New Mexico > Santa Fe Area > Diablo Canyon > Eden Canyon > Eden Wall > Judas Crag Sector,Lead,Redpoint,Sport,3200
+2023-02-19,Baby Jesus,5.10-,https://www.mountainproject.com/route/114381010/baby-jesus,1,New Mexico > Santa Fe Area > Diablo Canyon > Eden Canyon > Eden Wall > Judas Crag Sector,Lead,Redpoint,Sport,2700
+2023-02-12,British Steel,5.10b,https://www.mountainproject.com/route/120617667/british-steel,1,New Mexico > Santa Fe Area > Diablo Canyon > Eden Canyon > Eden Wall > Judas Crag Sector,Lead,Redpoint,Sport,2900
+2023-02-12,The Last Supper,5.12b,https://www.mountainproject.com/route/112865969/the-last-supper,1,New Mexico > Santa Fe Area > Diablo Canyon > Eden Canyon > Eden Wall > Judas Crag Sector,Lead,Fell/Hung,Sport,6900
+2023-02-12,Resurrection,5.12a,https://www.mountainproject.com/route/112228739/resurrection,1,New Mexico > Santa Fe Area > Diablo Canyon > Eden Canyon > Eden Wall > Judas Crag Sector,Lead,Redpoint,Sport,6600
+2023-02-12,Baby Jesus,5.10-,https://www.mountainproject.com/route/114381010/baby-jesus,1,New Mexico > Santa Fe Area > Diablo Canyon > Eden Canyon > Eden Wall > Judas Crag Sector,Lead,Redpoint,Sport,2700
+2023-02-05,Greed,5.11,https://www.mountainproject.com/route/114116102/greed,1,New Mexico > Santa Fe Area > Diablo Canyon > Eden Canyon > Eden Wall > Eden Wall North Sector,TR,,Sport,5000
+2023-02-05,Wrath,5.11c,https://www.mountainproject.com/route/114116122/wrath,1,New Mexico > Santa Fe Area > Diablo Canyon > Eden Canyon > Eden Wall > Eden Wall North Sector,TR,,Sport,5200
+2023-02-05,Envy,5.10+,https://www.mountainproject.com/route/114116111/envy,1,New Mexico > Santa Fe Area > Diablo Canyon > Eden Canyon > Eden Wall > Eden Wall North Sector,TR,,Sport,3300
+2023-02-05,Curse of Cain Arete,5.11,https://www.mountainproject.com/route/114183396/curse-of-cain-arete,1,New Mexico > Santa Fe Area > Diablo Canyon > Eden Canyon > Eden Wall > Eden Wall North Sector,TR,,Sport,5000
+2023-02-05,The Betrayal,5.10c,https://www.mountainproject.com/route/112228708/the-betrayal,1,New Mexico > Santa Fe Area > Diablo Canyon > Eden Canyon > Eden Wall > Judas Crag Sector,TR,,Sport,3200
+2023-01-29,Solo Man (aka Homo Erectus Soloensis),5.12b,https://www.mountainproject.com/route/111613232/solo-man-aka-homo-erectus-soloensis,1,New Mexico > Santa Fe Area > Diablo Canyon > Solar Cave,Lead,Fell/Hung,Sport,6900
+2023-01-22,Paul's Boutique,5.11b,https://www.mountainproject.com/route/105940656/pauls-boutique,1,New Mexico > Los Alamos & White Rock > White Rock > The Overlook > South/East side,Lead,Fell/Hung,Sport,4900
+2023-01-22,Boy What Assholes (You Guys Turned Out to Be),5.10b,https://www.mountainproject.com/route/105940639/boy-what-assholes-you-guys-turned-out-to-be,1,New Mexico > Los Alamos & White Rock > White Rock > The Overlook > South/East side,Lead,Flash,Sport,2900
+2023-01-22,Huecos Rancheros,5.10c,https://www.mountainproject.com/route/106016945/huecos-rancheros,1,New Mexico > Los Alamos & White Rock > White Rock > The Overlook > North/West side,Lead,Flash,Sport,3200
+2023-01-14,Gluttony Face,5.10+,https://www.mountainproject.com/route/114118710/gluttony-face,1,New Mexico > Santa Fe Area > Diablo Canyon > Eden Canyon > Eden Wall > Eden Wall North Sector,Lead,Onsight,Sport,3300
+2023-01-14,Resurrection,5.12a,https://www.mountainproject.com/route/112228739/resurrection,1,New Mexico > Santa Fe Area > Diablo Canyon > Eden Canyon > Eden Wall > Judas Crag Sector,Lead,Fell/Hung,Sport,6600
+2023-01-14,Resurrection,5.12a,https://www.mountainproject.com/route/112228739/resurrection,1,New Mexico > Santa Fe Area > Diablo Canyon > Eden Canyon > Eden Wall > Judas Crag Sector,Lead,Fell/Hung,Sport,6600
+2023-01-14,Judas Priest,5.11c,https://www.mountainproject.com/route/112228702/judas-priest,1,New Mexico > Santa Fe Area > Diablo Canyon > Eden Canyon > Eden Wall > Judas Crag Sector,Lead,Flash,Sport,5200
+2023-01-14,The Judas Goat,5.10c,https://www.mountainproject.com/route/112228713/the-judas-goat,1,New Mexico > Santa Fe Area > Diablo Canyon > Eden Canyon > Eden Wall > Judas Crag Sector,Lead,Flash,Sport,3200
+2023-01-14,The Betrayal,5.10c,https://www.mountainproject.com/route/112228708/the-betrayal,1,New Mexico > Santa Fe Area > Diablo Canyon > Eden Canyon > Eden Wall > Judas Crag Sector,Lead,Onsight,Sport,3200
+2023-01-14,Baby Jesus,5.10-,https://www.mountainproject.com/route/114381010/baby-jesus,1,New Mexico > Santa Fe Area > Diablo Canyon > Eden Canyon > Eden Wall > Judas Crag Sector,Lead,Onsight,Sport,2700
+2022-12-24,Suntoucher,5.11c,https://www.mountainproject.com/route/105803929/suntoucher,1,New Mexico > Santa Fe Area > Diablo Canyon > Sun Devil Wall,TR,,Sport,5200
+2022-12-24,Heat Seeker,5.11-,https://www.mountainproject.com/route/107514559/heat-seeker,1,New Mexico > Santa Fe Area > Diablo Canyon > Sun Devil Wall,TR,,Sport,4700
+2022-12-24,Out to Pasture,5.10-,https://www.mountainproject.com/route/108738745/out-to-pasture,1,New Mexico > Jemez Area > Las Conchas > (N) Retirement Wall,Lead,Onsight,Sport,2700
+2022-12-24,Crucial Taunt,5.9,https://www.mountainproject.com/route/108769430/crucial-taunt,1,New Mexico > Jemez Area > Las Conchas > (L) Easy Bake Alcove,Lead,Onsight,Sport,2400
+2022-12-24,Babies in the House,5.9,https://www.mountainproject.com/route/108769404/babies-in-the-house,1,New Mexico > Jemez Area > Las Conchas > (L) Easy Bake Alcove,TR,,Sport,2400
+2022-12-24,Lightbulb Not Included,5.10,https://www.mountainproject.com/route/108769423/lightbulb-not-included,1,New Mexico > Jemez Area > Las Conchas > (L) Easy Bake Alcove,TR,,Sport,3000
+2022-12-24,Metamuscle,5.11d,https://www.mountainproject.com/route/108735290/metamuscle,1,New Mexico > Jemez Area > Las Conchas > (N) Retirement Wall,Lead,Fell/Hung,Sport,5500
+2022-12-19,Bolting Barbie,5.11c/d,https://www.mountainproject.com/route/105818753/bolting-barbie,1,New Mexico > El Rito > El Rito Sport Area > Rad Wall,Lead,Redpoint,Sport,5400
+2022-12-06,Class Act,5.10b,https://www.mountainproject.com/route/105803898/class-act,1,New Mexico > Santa Fe Area > Diablo Canyon > The Grotto > Grotto Right (West Side),Lead,Onsight,Sport,2900
+2022-12-06,666,5.11-,https://www.mountainproject.com/route/106367421/666,1,New Mexico > Santa Fe Area > Diablo Canyon > The Grotto > Grotto Right (West Side),Lead,Redpoint,Sport,4700
+2022-12-06,Protein Supplement,5.10a,https://www.mountainproject.com/route/106049097/protein-supplement,1,New Mexico > Santa Fe Area > Diablo Canyon > Winter Wall,Lead,Fell/Hung,Sport,2600
+2022-12-06,Bosch Hogg,5.7,https://www.mountainproject.com/route/121955955/bosch-hogg,1,New Mexico > Santa Fe Area > Diablo Canyon > Winter Wall,Lead,Onsight,Sport,1800
+2022-11-28,Frosted Mug,5.9,https://www.mountainproject.com/route/106542971/frosted-mug,1,New York > Adirondacks > Chapel Pond Pass > Beer Walls > Upper Beer Wall,Lead,Fell/Hung,Trad,2400
+2022-11-19,Saruman the White,5.11+,https://www.mountainproject.com/route/118133777/saruman-the-white,1,New Mexico > Santa Fe Area > Diablo Canyon > Mordor > Twin Towers Sector,Lead,Redpoint,Sport,5300
+2022-11-19,Isengard,5.12b,https://www.mountainproject.com/route/116692436/isengard,1,New Mexico > Santa Fe Area > Diablo Canyon > Mordor > Twin Towers Sector,Lead,Fell/Hung,Sport,6900
+2022-11-19,Gollum,5.11d,https://www.mountainproject.com/route/116692504/gollum,1,New Mexico > Santa Fe Area > Diablo Canyon > Mordor > Middle Earth Sector,Lead,Redpoint,Sport,5500
+2022-11-19,Hobbit Crack,5.10+,https://www.mountainproject.com/route/116692508/hobbit-crack,1,New Mexico > Santa Fe Area > Diablo Canyon > Mordor > Middle Earth Sector,Lead,Onsight,Sport,3300
+2022-11-12,Reigning Rainbows,5.10b,https://www.mountainproject.com/route/122568198/reigning-rainbows,1,New Mexico > Los Alamos & White Rock > White Rock > The Overlook > South/East side,Lead,Onsight,Sport,2900
+2022-11-12,Face Off,5.12a,https://www.mountainproject.com/route/105940747/face-off,1,New Mexico > Los Alamos & White Rock > White Rock > The Overlook > South/East side,Lead,Flash,"Sport, TR",6600
+2022-11-12,Boy What Nice Fellows,5.11a PG13,https://www.mountainproject.com/route/105940635/boy-what-nice-fellows,1,New Mexico > Los Alamos & White Rock > White Rock > The Overlook > South/East side,Lead,Pinkpoint,Trad,4600
+2022-11-12,Nice Guys Finish Last,5.11b,https://www.mountainproject.com/route/107897130/nice-guys-finish-last,1,New Mexico > Los Alamos & White Rock > White Rock > The Overlook > South/East side,Lead,Onsight,Sport,4900
+2022-11-07,Blackened,5.10a,https://www.mountainproject.com/route/105933865/blackened,1,Arizona > Northern Arizona > Winslow Area- Hwy’s 87 & 99 Corridors > Jacks Canyon > Main Wall,Lead,Onsight,Sport,2600
+2022-11-07,Bats in the Belfry,5.11a,https://www.mountainproject.com/route/105933872/bats-in-the-belfry,1,Arizona > Northern Arizona > Winslow Area- Hwy’s 87 & 99 Corridors > Jacks Canyon > Main Wall,Lead,Redpoint,Sport,4600
+2022-11-07,Bull in a China Shop,5.11a,https://www.mountainproject.com/route/106064482/bull-in-a-china-shop,1,Arizona > Northern Arizona > Winslow Area- Hwy’s 87 & 99 Corridors > Jacks Canyon > Main Wall,Lead,Redpoint,Sport,4600
+2022-11-07,Tales From the Grypt,5.11c,https://www.mountainproject.com/route/105969052/tales-from-the-grypt,1,Arizona > Northern Arizona > Winslow Area- Hwy’s 87 & 99 Corridors > Jacks Canyon > Main Wall,Lead,Onsight,Sport,5200
+2022-11-07,Sacrificial Lizard,5.11a/b,https://www.mountainproject.com/route/105976171/sacrificial-lizard,1,Arizona > Northern Arizona > Winslow Area- Hwy’s 87 & 99 Corridors > Jacks Canyon > Main Wall,Lead,Onsight,Sport,4800
+2022-11-07,Crosstown Traffic,5.11a,https://www.mountainproject.com/route/105800830/crosstown-traffic,1,Arizona > Northern Arizona > Winslow Area- Hwy’s 87 & 99 Corridors > Jacks Canyon > Cracker Jack Cliffs,Lead,Onsight,Sport,4600
+2022-11-07,Big Plans,5.9,https://www.mountainproject.com/route/105940903/big-plans,1,Arizona > Northern Arizona > Winslow Area- Hwy’s 87 & 99 Corridors > Jacks Canyon > Cracker Jack Cliffs,Lead,Onsight,Sport,2400
+2022-11-07,Jack of all Trades,5.11c,https://www.mountainproject.com/route/105933921/jack-of-all-trades,1,Arizona > Northern Arizona > Winslow Area- Hwy’s 87 & 99 Corridors > Jacks Canyon > Cracker Jack Cliffs,Lead,Redpoint,Sport,5200
+2022-11-07,Mickey Goes to Vegas,5.9,https://www.mountainproject.com/route/105831749/mickey-goes-to-vegas,1,Arizona > Northern Arizona > Winslow Area- Hwy’s 87 & 99 Corridors > Jacks Canyon > Casino Cliffs,Lead,Redpoint,Sport,2400
+2022-11-07,Mickey Goes to Vegas,5.9,https://www.mountainproject.com/route/105831749/mickey-goes-to-vegas,1,Arizona > Northern Arizona > Winslow Area- Hwy’s 87 & 99 Corridors > Jacks Canyon > Casino Cliffs,Lead,Onsight,Sport,2400
+2022-11-07,Slots O Fun,5.10a,https://www.mountainproject.com/route/105933822/slots-o-fun,1,Arizona > Northern Arizona > Winslow Area- Hwy’s 87 & 99 Corridors > Jacks Canyon > Casino Cliffs,Lead,Redpoint,Sport,2600
+2022-11-07,Slots O Fun,5.10a,https://www.mountainproject.com/route/105933822/slots-o-fun,1,Arizona > Northern Arizona > Winslow Area- Hwy’s 87 & 99 Corridors > Jacks Canyon > Casino Cliffs,Lead,Onsight,Sport,2600
+2022-11-05,Firedance,5.12-,https://www.mountainproject.com/route/105808986/firedance,1,Arizona > Northern Arizona > Winslow Area- Hwy’s 87 & 99 Corridors > Jacks Canyon > Cracker Jack Cliffs,Lead,Redpoint,Sport,6700
+2022-10-30,Top Gun,5.11a,https://www.mountainproject.com/route/106756791/top-gun,1,New Mexico > Santa Fe Area > Diablo Canyon > Early Wall > Runway (Lower Tier),Lead,Onsight,Sport,4600
+2022-10-30,JetStream,5.11b,https://www.mountainproject.com/route/107657878/jetstream,1,New Mexico > Santa Fe Area > Diablo Canyon > Early Wall > Runway (Lower Tier),Lead,Onsight,Sport,4900
+2022-10-30,Stone Temple Pilot,5.11b,https://www.mountainproject.com/route/107615107/stone-temple-pilot,1,New Mexico > Santa Fe Area > Diablo Canyon > Early Wall > Runway (Lower Tier),Lead,Redpoint,Sport,4900
+2022-10-30,Airfoil,5.11c,https://www.mountainproject.com/route/109185314/airfoil,1,New Mexico > Santa Fe Area > Diablo Canyon > Early Wall > Runway (Lower Tier),Lead,Redpoint,Sport,5200
+2022-10-30,Aviatrix,5.11,https://www.mountainproject.com/route/106936628/aviatrix,1,New Mexico > Santa Fe Area > Diablo Canyon > Early Wall > Runway (Lower Tier),Lead,Redpoint,Sport,5000
+2022-10-23,Stroke Me,5.12a,https://www.mountainproject.com/route/105819871/stroke-me,1,New Mexico > El Rito > El Rito Sport Area > Rad Wall,Lead,Fell/Hung,Sport,6600
+2022-10-23,Squeeze My Cobbles,5.11a/b,https://www.mountainproject.com/route/111126961/squeeze-my-cobbles,1,New Mexico > El Rito > El Rito Sport Area > Big Pine Wall,Lead,Onsight,Sport,4800
+2022-10-23,Cobble Wobble,5.10c,https://www.mountainproject.com/route/105819246/cobble-wobble,1,New Mexico > El Rito > El Rito Sport Area > Big Pine Wall,Lead,Onsight,Sport,3200
+2022-10-22,It's Time to Drink Beer,5.12a,https://www.mountainproject.com/route/105819210/its-time-to-drink-beer,1,New Mexico > El Rito > El Rito Sport Area > Beer Block,Lead,Redpoint,Sport,6600
+2022-09-06,Pitch Fork,5.12a,https://www.mountainproject.com/route/106383127/pitch-fork,1,New Mexico > Jemez Area > Upper East Fork (UEF) > Spaghetti Western Wall,Lead,Fell/Hung,Sport,6600
+2022-08-28,Werepig,5.11c,https://www.mountainproject.com/route/106383036/werepig,1,New Mexico > Jemez Area > Upper East Fork (UEF) > Monster Wall,Lead,Onsight,Sport,5200
+2022-08-28,Cheap Sunglasses,5.11c/d,https://www.mountainproject.com/route/106383122/cheap-sunglasses,1,New Mexico > Jemez Area > Upper East Fork (UEF) > Spaghetti Western Wall,Lead,Fell/Hung,Sport,5400
+2022-08-28,Smart Cowboy,5.11a,https://www.mountainproject.com/route/106383151/smart-cowboy,1,New Mexico > Jemez Area > Upper East Fork (UEF) > Spaghetti Western Wall,Lead,Onsight,Sport,4600
+2022-08-28,Cowboy Up,5.10d,https://www.mountainproject.com/route/106383157/cowboy-up,1,New Mexico > Jemez Area > Upper East Fork (UEF) > Spaghetti Western Wall,Lead,Onsight,Sport,3500
+2022-08-26,Bush in a Blender,5.12a,https://www.mountainproject.com/route/105837236/bush-in-a-blender,1,New Mexico > Santa Fe Area > Diablo Canyon > The Grotto > Grotto Left (East Side) Lower Tier,Lead,Redpoint,Sport,6600
+2022-08-21,Bush in a Blender,5.12a,https://www.mountainproject.com/route/105837236/bush-in-a-blender,4,New Mexico > Santa Fe Area > Diablo Canyon > The Grotto > Grotto Left (East Side) Lower Tier,Lead,Fell/Hung,Sport,6600
+2022-08-13,Bush in a Blender,5.12a,https://www.mountainproject.com/route/105837236/bush-in-a-blender,3,New Mexico > Santa Fe Area > Diablo Canyon > The Grotto > Grotto Left (East Side) Lower Tier,Lead,Fell/Hung,Sport,6600
+2022-08-13,Welcome to the Jungle,5.11,https://www.mountainproject.com/route/111123387/welcome-to-the-jungle,1,New Mexico > Santa Fe Area > Diablo Canyon > The Grotto > Grotto Left (East Side) Lower Tier,Lead,Onsight,Sport,5000
+2022-08-10,Waiting to Procrastinate,5.10b,https://www.mountainproject.com/route/105824878/waiting-to-procrastinate,1,New Mexico > Santa Fe Area > Diablo Canyon > The Grotto > Grotto Left (East Side) Lower Tier,Lead,Onsight,Sport,2900
+2022-08-10,Better Late than Never,5.11d,https://www.mountainproject.com/route/107162385/better-late-than-never,1,New Mexico > Santa Fe Area > Diablo Canyon > The Grotto > Grotto Left (East Side) Lower Tier,Lead,Redpoint,Sport,5500
+2022-08-10,Chopping Block,5.11a,https://www.mountainproject.com/route/105837240/chopping-block,1,New Mexico > Santa Fe Area > Diablo Canyon > The Grotto > Grotto Left (East Side) Lower Tier,Lead,Flash,Sport,4600
+2022-08-10,Diabolical,5.11c,https://www.mountainproject.com/route/105995218/diabolical,1,New Mexico > Santa Fe Area > Diablo Canyon > The Grotto > Grotto Left (East Side) Lower Tier,Lead,Fell/Hung,Sport,5200
+2022-08-10,Good,5.10b,https://www.mountainproject.com/route/105941860/good,1,New Mexico > Santa Fe Area > Diablo Canyon > The Grotto > Grotto Left (East Side) Lower Tier,Lead,,Sport,2900
+2022-08-10,Ergo,5.10c,https://www.mountainproject.com/route/106049124/ergo,1,New Mexico > Santa Fe Area > Diablo Canyon > Early Wall > Runway (Lower Tier),Lead,,Sport,3200
+2022-08-06,Not My Cross To Bear,5.11b,https://www.mountainproject.com/route/105753910/not-my-cross-to-bear,1,Colorado > San Luis Valley > Penitente Canyon > Penitente - Inner Canyon,Lead,Redpoint,Sport,4900
+2022-08-06,Thelma and Louise,5.10b,https://www.mountainproject.com/route/106460332/thelma-and-louise,1,Colorado > San Luis Valley > Penitente Canyon > Penitente - Inner Canyon,Lead,Redpoint,Sport,2900
+2022-08-06,Jack and Diane,5.10a/b,https://www.mountainproject.com/route/107907910/jack-and-diane,1,Colorado > San Luis Valley > Penitente Canyon > Penitente - Inner Canyon,Lead,Onsight,Sport,2800
+2022-08-04,How The West Was Won,5.9,https://www.mountainproject.com/route/105753904/how-the-west-was-won,1,Colorado > San Luis Valley > Penitente Canyon > Penitente - Inner Canyon,Lead,Onsight,Sport,2400
+2022-08-04,Black is Beautiful,5.11a,https://www.mountainproject.com/route/105757354/black-is-beautiful,1,Colorado > San Luis Valley > Penitente Canyon > Penitente - Entrance Area,Lead,Onsight,Sport,4600
+2022-08-04,Hummingbird,5.9,https://www.mountainproject.com/route/118892593/hummingbird,1,Colorado > San Luis Valley > Penitente Canyon > Penitente - Entrance Area,Lead,Onsight,Sport,2400
+2022-08-01,Pitch,5.11-,https://www.mountainproject.com/route/107840235/pitch,1,New Mexico > Santa Fe Area > Diablo Canyon > Early Wall > Runway (Lower Tier),Lead,Onsight,Sport,4700
+2022-08-01,Learning to Fly,5.10c,https://www.mountainproject.com/route/109248597/learning-to-fly,1,New Mexico > Santa Fe Area > Diablo Canyon > Early Wall > Runway (Lower Tier),Lead,Onsight,Sport,3200
+2022-08-01,Bedeviled,5.11b,https://www.mountainproject.com/route/106487845/bedeviled,1,New Mexico > Santa Fe Area > Diablo Canyon > The Grotto > Grotto Left (East Side) Lower Tier,Lead,Onsight,Sport,4900
+2022-07-26,Udder Limits,5.11c,https://www.mountainproject.com/route/107569386/udder-limits,1,New Mexico > Jemez Area > Las Conchas > (A) Cattle Call Wall Area,Lead,Redpoint,Sport,5200
+2022-07-26,Drive By Shooting,5.10b,https://www.mountainproject.com/route/105848492/drive-by-shooting,1,New Mexico > Jemez Area > Las Conchas > (B) Gateway Rock,Lead,Onsight,Sport,2900
+2022-07-26,Portal,5.7,https://www.mountainproject.com/route/107231098/portal,1,New Mexico > Jemez Area > Las Conchas > (B) Gateway Rock,Lead,Onsight,Sport,1800
+2022-07-20,Evil,5.10d,https://www.mountainproject.com/route/105941844/evil,1,New Mexico > Santa Fe Area > Diablo Canyon > The Grotto > Grotto Left (East Side) Lower Tier,Lead,Flash,Sport,3500
+2022-07-20,Good,5.10b,https://www.mountainproject.com/route/105941860/good,1,New Mexico > Santa Fe Area > Diablo Canyon > The Grotto > Grotto Left (East Side) Lower Tier,Lead,Flash,Sport,2900
+2022-07-20,A Day with Dr. Diablo,5.10c,https://www.mountainproject.com/route/105867471/a-day-with-dr-diablo,1,New Mexico > Santa Fe Area > Diablo Canyon > Early Wall > Runway (Lower Tier),Lead,Flash,Sport,3200
+2022-07-20,Clip Art,5.11d,https://www.mountainproject.com/route/106000385/clip-art,1,New Mexico > Santa Fe Area > Diablo Canyon > Early Wall > Runway (Lower Tier),Lead,Redpoint,Sport,5500
+2022-07-20,Aviatrix,5.11,https://www.mountainproject.com/route/106936628/aviatrix,1,New Mexico > Santa Fe Area > Diablo Canyon > Early Wall > Runway (Lower Tier),Lead,Fell/Hung,Sport,5000
+2022-07-13,No Sketching,5.12a,https://www.mountainproject.com/route/107273383/no-sketching,1,New Mexico > Jemez Area > Las Conchas > (D) Chilly Willy Wall,Lead,Redpoint,Sport,6600
+2022-07-13,Eat Mor Chikin,5.9,https://www.mountainproject.com/route/107273373/eat-mor-chikin,1,New Mexico > Jemez Area > Las Conchas > (A) Cattle Call Wall Area,Lead,Onsight,Sport,2400
+2022-07-13,We Bulls Wobble,5.10b,https://www.mountainproject.com/route/106787298/we-bulls-wobble,1,New Mexico > Jemez Area > Las Conchas > (A) Cattle Call Wall Area,Lead,Flash,Sport,2900
+2022-07-13,Cow Pies For Breakfast,5.10d,https://www.mountainproject.com/route/105860908/cow-pies-for-breakfast,1,New Mexico > Jemez Area > Las Conchas > (A) Cattle Call Wall Area,Lead,Flash,Sport,3500
+2022-07-01,Cadillac Desert,5.11c,https://www.mountainproject.com/route/120880815/cadillac-desert,1,Montana > Southwest Region > Helena Area > Mount Helena > Water Streak Area,Lead,Onsight,"Sport, TR",5200
+2022-07-01,Mr. Clean,5.7,https://www.mountainproject.com/route/113551364/mr-clean,1,Montana > Southwest Region > Helena Area > Mount Helena > Sunset Slab,Lead,Onsight,Sport,1800
+2022-07-01,Last Chance,5.6,https://www.mountainproject.com/route/113551388/last-chance,1,Montana > Southwest Region > Helena Area > Mount Helena > Sunset Slab,Lead,Onsight,"Sport, TR",1600
+2022-06-30,Running Woman,5.11a,https://www.mountainproject.com/route/106386712/running-woman,1,Utah > Wasatch Range > Southern Wasatch > American Fork Canyon > Division Wall,Lead,Onsight,Sport,4600
+2022-06-30,The Atheist,5.11b,https://www.mountainproject.com/route/105739964/the-atheist,1,Utah > Wasatch Range > Southern Wasatch > American Fork Canyon > Division Wall,Lead,Redpoint,Sport,4900
+2022-06-29,Deep End,5.11a,https://www.mountainproject.com/route/105992225/deep-end,1,Utah > Wasatch Range > Southern Wasatch > American Fork Canyon > Division Wall,Lead,Onsight,Sport,4600
+2022-06-29,Kiddie Pool,5.10d,https://www.mountainproject.com/route/111001031/kiddie-pool,1,Utah > Wasatch Range > Southern Wasatch > American Fork Canyon > Division Wall,Lead,Onsight,Sport,3500
+2022-06-29,Physical Therapy,5.9,https://www.mountainproject.com/route/105741701/physical-therapy,1,Utah > Wasatch Range > Southern Wasatch > American Fork Canyon > Division Wall,Lead,Onsight,Sport,2400
+2022-06-23,Tupper-Where,5.11c/d,https://www.mountainproject.com/route/108348587/tupper-where,1,New Mexico > Santa Fe Area > Diablo Canyon > The Shack > Main Wall,Lead,Redpoint,Sport,5400
+2022-06-20,Tupper-Where,5.11c/d,https://www.mountainproject.com/route/108348587/tupper-where,1,New Mexico > Santa Fe Area > Diablo Canyon > The Shack > Main Wall,Lead,Fell/Hung,Sport,5400
+2022-06-20,Fire on The Mountain,5.11,https://www.mountainproject.com/route/108271441/fire-on-the-mountain,1,New Mexico > Santa Fe Area > Diablo Canyon > The Shack > Main Wall,Lead,Onsight,Sport,5000
+2022-06-20,A Thousand Yards of Drift  (just the start),5.10c,https://www.mountainproject.com/route/108275138/a-thousand-yards-of-drift-just-the-start,1,New Mexico > Santa Fe Area > Diablo Canyon > The Shack > Main Wall,Lead,Onsight,Sport,3200
+2022-05-18,The Thimble (aka El Dorito),5.10a,https://www.mountainproject.com/route/105832876/the-thimble-aka-el-dorito,1,New Mexico > El Rito > El Rito Sport Area > Big Pine Wall,Lead,Onsight,Sport,2600
+2022-05-18,Cobble Sutra,5.10a,https://www.mountainproject.com/route/108939570/cobble-sutra,1,New Mexico > El Rito > El Rito Sport Area > Big Pine Wall,Lead,Onsight,Sport,2600
+2022-05-18,It's Time to Drink Beer,5.12a,https://www.mountainproject.com/route/105819210/its-time-to-drink-beer,1,New Mexico > El Rito > El Rito Sport Area > Beer Block,Lead,Fell/Hung,Sport,6600
+2022-05-18,Pan Galactic Gargle Blaster,5.11d,https://www.mountainproject.com/route/119076063/pan-galactic-gargle-blaster,1,New Mexico > El Rito > El Rito Sport Area > Beer Block,Lead,Redpoint,Sport,5500
+2022-05-18,Pan Galactic Gargle Blaster,5.11d,https://www.mountainproject.com/route/119076063/pan-galactic-gargle-blaster,1,New Mexico > El Rito > El Rito Sport Area > Beer Block,Lead,Redpoint,Sport,5500
+2022-05-18,Village Cobbler,5.11b,https://www.mountainproject.com/route/105819205/village-cobbler,1,New Mexico > El Rito > El Rito Sport Area > Beer Block,Lead,Fell/Hung,Sport,4900
+2022-05-15,Clast Action,5.9,https://www.mountainproject.com/route/105818709/clast-action,1,New Mexico > El Rito > El Rito Sport Area > Super Slab,Lead,Onsight,Sport,2400
+2022-05-01,Helical Tusk,5.9,https://www.mountainproject.com/route/111012807/helical-tusk,1,New Mexico > El Rito > El Rito Sport Area > Gnar Wall and Route Canal,Lead,Onsight,Sport,2400
+2022-04-15,Prescribed Burn,5.10b,https://www.mountainproject.com/route/107746569/prescribed-burn,1,New Mexico > Taos Area > Comales Canyon > Upper Level Walls > Fire Wall,Lead,Flash,Sport,2900
+2022-04-15,Fire Walker,5.11a,https://www.mountainproject.com/route/107747240/fire-walker,1,New Mexico > Taos Area > Comales Canyon > Upper Level Walls > Fire Wall,Lead,Flash,Sport,4600
+2022-04-03,Redline,5.10d,https://www.mountainproject.com/route/105832640/redline,1,New Mexico > El Rito > El Rito Sport Area > Ed Woody,Lead,Onsight,Sport,3500
+2022-04-03,It's Time to Drink Beer,5.12a,https://www.mountainproject.com/route/105819210/its-time-to-drink-beer,1,New Mexico > El Rito > El Rito Sport Area > Beer Block,Lead,Fell/Hung,Sport,6600
+2022-04-03,Pan Galactic Gargle Blaster,5.11d,https://www.mountainproject.com/route/119076063/pan-galactic-gargle-blaster,1,New Mexico > El Rito > El Rito Sport Area > Beer Block,Lead,Fell/Hung,Sport,5500
+2022-04-03,Chupacobbler,5.10a,https://www.mountainproject.com/route/106486718/chupacobbler,1,New Mexico > El Rito > El Rito Sport Area > The Balcony,Lead,Flash,Sport,2600
+2022-04-03,Cobzilla,5.9,https://www.mountainproject.com/route/105818728/cobzilla,1,New Mexico > El Rito > El Rito Sport Area > The Balcony,Lead,Flash,Sport,2400
+2022-04-03,Mini Me,5.9-,https://www.mountainproject.com/route/105875153/mini-me,1,New Mexico > El Rito > El Rito Sport Area > The Balcony,Lead,Flash,Sport,2300
+2022-03-27,The Mile-High Club,5.9,https://www.mountainproject.com/route/116797534/the-mile-high-club,1,New Mexico > Santa Fe Area > Diablo Canyon > Early Wall > Runway (Lower Tier),Lead,Onsight,Sport,2400
+2022-03-27,Airfoil,5.11c,https://www.mountainproject.com/route/109185314/airfoil,1,New Mexico > Santa Fe Area > Diablo Canyon > Early Wall > Runway (Lower Tier),Lead,Flash,Sport,5200
+2022-03-27,Ergo,5.10c,https://www.mountainproject.com/route/106049124/ergo,1,New Mexico > Santa Fe Area > Diablo Canyon > Early Wall > Runway (Lower Tier),Lead,Onsight,Sport,3200
+2022-03-27,Drunk Rednecks with Golf Clubs,5.8,https://www.mountainproject.com/route/105867465/drunk-rednecks-with-golf-clubs,1,New Mexico > Santa Fe Area > Diablo Canyon > Early Wall > Runway (Lower Tier),Lead,Onsight,Sport,2100
+2022-03-17,Jack & Jill Go Bolting,5.10a,https://www.mountainproject.com/route/105827935/jack-jill-go-bolting,1,Arizona > Northern Arizona > Winslow Area- Hwy’s 87 & 99 Corridors > Jacks Canyon > Cracker Jack Cliffs,Lead,Onsight,Sport,2600
+2022-03-17,Bats in the Belfry,5.11a,https://www.mountainproject.com/route/105933872/bats-in-the-belfry,1,Arizona > Northern Arizona > Winslow Area- Hwy’s 87 & 99 Corridors > Jacks Canyon > Main Wall,Lead,Onsight,Sport,4600
+2022-03-17,The High Life,5.12a,https://www.mountainproject.com/route/106277931/the-high-life,1,Arizona > Northern Arizona > Winslow Area- Hwy’s 87 & 99 Corridors > Jacks Canyon > High Life Wall,TR,,Sport,6600
+2022-03-17,Claim To Fame,5.10b/c,https://www.mountainproject.com/route/105935470/claim-to-fame,1,Arizona > Northern Arizona > Winslow Area- Hwy’s 87 & 99 Corridors > Jacks Canyon > Cracker Jack Cliffs,Lead,Onsight,Sport,3100
+2022-03-17,Jack and the Beanstalk,5.11a,https://www.mountainproject.com/route/105800763/jack-and-the-beanstalk,1,Arizona > Northern Arizona > Winslow Area- Hwy’s 87 & 99 Corridors > Jacks Canyon > Cracker Jack Cliffs,Lead,Onsight,Sport,4600
+2022-03-17,Enemy Wind,5.11c,https://www.mountainproject.com/route/105940899/enemy-wind,1,Arizona > Northern Arizona > Winslow Area- Hwy’s 87 & 99 Corridors > Jacks Canyon > Cracker Jack Cliffs,Lead,Redpoint,Sport,5200
+2022-03-17,Total Lack of Jack,5.10c,https://www.mountainproject.com/route/105827947/total-lack-of-jack,1,Arizona > Northern Arizona > Winslow Area- Hwy’s 87 & 99 Corridors > Jacks Canyon > Cracker Jack Cliffs,Lead,Onsight,Sport,3200
+2022-03-16,Jack Jumped,5.11a,https://www.mountainproject.com/route/105800695/jack-jumped,1,Arizona > Northern Arizona > Winslow Area- Hwy’s 87 & 99 Corridors > Jacks Canyon > Cracker Jack Cliffs,Lead,Fell/Hung,Sport,4600
+2022-03-16,Mental Block Party,5.11a,https://www.mountainproject.com/route/105940875/mental-block-party,1,Arizona > Northern Arizona > Winslow Area- Hwy’s 87 & 99 Corridors > Jacks Canyon > Cracker Jack Cliffs,Lead,Flash,Sport,4600
+2022-03-16,Jackson Five Ten,5.10a,https://www.mountainproject.com/route/105800659/jackson-five-ten,1,Arizona > Northern Arizona > Winslow Area- Hwy’s 87 & 99 Corridors > Jacks Canyon > Cracker Jack Cliffs,Lead,Flash,Sport,2600
+2022-03-16,The Original Crackerjack,5.11d,https://www.mountainproject.com/route/105998772/the-original-crackerjack,1,Arizona > Northern Arizona > Winslow Area- Hwy’s 87 & 99 Corridors > Jacks Canyon > Cracker Jack Cliffs,Lead,Redpoint,Sport,5500
+2022-03-16,Six Shooter,5.11d,https://www.mountainproject.com/route/105998788/six-shooter,1,Arizona > Northern Arizona > Winslow Area- Hwy’s 87 & 99 Corridors > Jacks Canyon > Cracker Jack Cliffs,Lead,Fell/Hung,Sport,5500
+2022-03-15,Dealers Choice,5.10a/b,https://www.mountainproject.com/route/105831739/dealers-choice,1,Arizona > Northern Arizona > Winslow Area- Hwy’s 87 & 99 Corridors > Jacks Canyon > Casino Cliffs,Lead,Onsight,Sport,2800
+2022-03-15,Take The Money and Run,5.11b/c,https://www.mountainproject.com/route/105932944/take-the-money-and-run,1,Arizona > Northern Arizona > Winslow Area- Hwy’s 87 & 99 Corridors > Jacks Canyon > Casino Cliffs,Lead,Fell/Hung,Sport,5100
+2022-03-15,Let It Ride,5.10a,https://www.mountainproject.com/route/106441531/let-it-ride,1,Arizona > Northern Arizona > Winslow Area- Hwy’s 87 & 99 Corridors > Jacks Canyon > Casino Cliffs,Lead,Onsight,Sport,2600
+2022-03-15,Queen of Jacks,5.10b,https://www.mountainproject.com/route/106137177/queen-of-jacks,1,Arizona > Northern Arizona > Winslow Area- Hwy’s 87 & 99 Corridors > Jacks Canyon > Casino Cliffs,Lead,Onsight,Sport,2900
+2022-03-15,One Armed Bandit,5.10a,https://www.mountainproject.com/route/105981016/one-armed-bandit,1,Arizona > Northern Arizona > Winslow Area- Hwy’s 87 & 99 Corridors > Jacks Canyon > Casino Cliffs,Lead,Onsight,Sport,2600
+2022-03-15,Black Jack Crack,5.10a,https://www.mountainproject.com/route/106021258/black-jack-crack,1,Arizona > Northern Arizona > Winslow Area- Hwy’s 87 & 99 Corridors > Jacks Canyon > Casino Cliffs,Lead,Onsight,Sport,2600
+2022-03-15,Power Trip,5.11,https://www.mountainproject.com/route/105863661/power-trip,1,Arizona > Northern Arizona > Winslow Area- Hwy’s 87 & 99 Corridors > Jacks Canyon > Main Wall,Lead,Redpoint,Sport,5000
+2022-03-15,Poker Face,5.11b,https://www.mountainproject.com/route/105933845/poker-face,1,Arizona > Northern Arizona > Winslow Area- Hwy’s 87 & 99 Corridors > Jacks Canyon > Casino Cliffs,Lead,Redpoint,Sport,4900
+2022-03-15,Crack Dealer,5.11a/b,https://www.mountainproject.com/route/105933840/crack-dealer,1,Arizona > Northern Arizona > Winslow Area- Hwy’s 87 & 99 Corridors > Jacks Canyon > Casino Cliffs,Lead,Flash,Sport,4800
+2022-03-15,Sports Book,5.10a/b,https://www.mountainproject.com/route/105933834/sports-book,1,Arizona > Northern Arizona > Winslow Area- Hwy’s 87 & 99 Corridors > Jacks Canyon > Casino Cliffs,Lead,Onsight,Sport,2800
+2022-03-15,Genesis,5.10d,https://www.mountainproject.com/route/105863654/genesis,1,Arizona > Northern Arizona > Winslow Area- Hwy’s 87 & 99 Corridors > Jacks Canyon > Main Wall,Lead,Flash,Sport,3500
+2022-02-28,Dog & Pony Show,5.10a/b,https://www.mountainproject.com/route/109235499/dog-pony-show,1,New Mexico > Santa Fe Area > Diablo Canyon > The Shack > The Dog House,,,Sport,2800
+2022-02-28,DogGone It,5.10a,https://www.mountainproject.com/route/109235479/doggone-it,1,New Mexico > Santa Fe Area > Diablo Canyon > The Shack > The Dog House,,,Sport,2600
+2022-02-28,Puppy Love,5.8+,https://www.mountainproject.com/route/114481315/puppy-love,1,New Mexico > Santa Fe Area > Diablo Canyon > The Shack > The Dog House,,,Sport,2200
+2022-02-28,Standing on the Edge of Extinction,5.11,https://www.mountainproject.com/route/108271630/standing-on-the-edge-of-extinction,1,New Mexico > Santa Fe Area > Diablo Canyon > The Shack > Main Wall,Lead,Redpoint,Sport,5000
+2022-02-27,City Girl,5.9,https://www.mountainproject.com/route/108275157/city-girl,1,New Mexico > Santa Fe Area > Diablo Canyon > The Shack > Main Wall,,,Sport,2400
+2022-02-27,Renaissance/ Lower Rosie,5.10a/b,https://www.mountainproject.com/route/108328215/renaissance-lower-rosie,1,New Mexico > Santa Fe Area > Diablo Canyon > The Shack > Main Wall,,,Sport,2800
+2022-02-27,Centipede-Lower,5.10+,https://www.mountainproject.com/route/113599859/centipede-lower,1,New Mexico > Santa Fe Area > Diablo Canyon > The Shack > Main Wall,Lead,Onsight,Sport,3300
+2022-02-18,Way Beyond Zebra,5.11a,https://www.mountainproject.com/route/105940715/way-beyond-zebra,1,New Mexico > Los Alamos & White Rock > White Rock > The Overlook > South/East side,Lead,Onsight,"Sport, TR",4600
+2022-02-18,Bosker Boozeroo,5.11a,https://www.mountainproject.com/route/105940624/bosker-boozeroo,1,New Mexico > Los Alamos & White Rock > White Rock > The Overlook > South/East side,Lead,Onsight,Sport,4600
+2022-02-18,Cholla Wall,5.10a/b PG13,https://www.mountainproject.com/route/105940683/cholla-wall,1,New Mexico > Los Alamos & White Rock > White Rock > The Overlook > South/East side,TR,,"Trad, TR",2800
+2022-01-01,Balancing boulder problem,V3,https://www.mountainproject.com/route/106366366/balancing-boulder-problem,1,New Mexico > Albuquerque Area > Sandia Foothills Bouldering > U-Mound > Lower Mound (western cluster of boulders),Send,,Boulder,20300
+2022-01-01,Corridor Problem,V6,https://www.mountainproject.com/route/106365158/corridor-problem,1,New Mexico > Albuquerque Area > Sandia Foothills Bouldering > U-Mound > Upper Mound - The Corridor,Attempt,,Boulder,20600
+2022-01-01,Whale Belly,V6,https://www.mountainproject.com/route/106365172/whale-belly,1,New Mexico > Albuquerque Area > Sandia Foothills Bouldering > U-Mound > Upper Mound - The Corridor,Attempt,,Boulder,20600
+2022-01-01,Knob Problem,V3,https://www.mountainproject.com/route/106366498/knob-problem,1,New Mexico > Albuquerque Area > Sandia Foothills Bouldering > U-Mound > Upper Mound (main upper cluster of boulders),Send,,Boulder,20300
+2022-01-01,Slab right-center,V2+,https://www.mountainproject.com/route/106366440/slab-right-center,1,New Mexico > Albuquerque Area > Sandia Foothills Bouldering > U-Mound > Warmup Boulders (AKA Brett & Jill boulders) South Side,Flash,,Boulder,20210
+2022-01-01,Slab left-center,V2,https://www.mountainproject.com/route/106366428/slab-left-center,1,New Mexico > Albuquerque Area > Sandia Foothills Bouldering > U-Mound > Warmup Boulders (AKA Brett & Jill boulders) South Side,Flash,,Boulder,20200
+2022-01-01,Slab left,V0+,https://www.mountainproject.com/route/106366421/slab-left,1,New Mexico > Albuquerque Area > Sandia Foothills Bouldering > U-Mound > Warmup Boulders (AKA Brett & Jill boulders) South Side,Flash,,Boulder,20010
+2022-01-01,Layback arete,V1,https://www.mountainproject.com/route/106366456/layback-arete,1,New Mexico > Albuquerque Area > Sandia Foothills Bouldering > U-Mound > Warmup Boulders (AKA Brett & Jill boulders) South Side,Flash,,Boulder,20100
+2022-01-01,Slab right,V1+,https://www.mountainproject.com/route/106366446/slab-right,1,New Mexico > Albuquerque Area > Sandia Foothills Bouldering > U-Mound > Warmup Boulders (AKA Brett & Jill boulders) South Side,Flash,,Boulder,20110
+2021-12-22,Sunny Side Up (aka Photo-Op),5.8+,https://www.mountainproject.com/route/105940820/sunny-side-up-aka-photo-op,1,New Mexico > Los Alamos & White Rock > White Rock > The Overlook > Lower Buttress,Lead,Onsight,"Sport, TR",2200
+2021-12-22,Franco-American Omelette,5.8,https://www.mountainproject.com/route/120328945/franco-american-omelette,1,New Mexico > Los Alamos & White Rock > White Rock > The Overlook > Lower Buttress,Lead,Onsight,"Sport, TR",2100
+2021-12-22,Holy Wall,5.10a/b,https://www.mountainproject.com/route/105940693/holy-wall,1,New Mexico > Los Alamos & White Rock > White Rock > The Overlook > South/East side,Lead,Onsight,"Sport, TR",2800
+2021-12-22,Cholla Crack,5.9,https://www.mountainproject.com/route/105940688/cholla-crack,1,New Mexico > Los Alamos & White Rock > White Rock > The Overlook > South/East side,Lead,Onsight,"Trad, TR",2400
+2021-12-18,Headwall Crack Left,5.8,https://www.mountainproject.com/route/105940661/headwall-crack-left,1,New Mexico > Los Alamos & White Rock > White Rock > The Overlook > South/East side,Lead,Onsight,"Trad, TR",2100
+2021-11-28,Carol’s Route,5.10-,https://www.mountainproject.com/route/119270318/carols-route,1,New Mexico > Santa Fe Area > Pecos River Canyon > The Rim of the World,Lead,,Sport,2700
+2021-11-27,Skinny Puppy,5.10a/b,https://www.mountainproject.com/route/114481329/skinny-puppy,1,New Mexico > Santa Fe Area > Diablo Canyon > The Shack > The Dog House,Lead,Onsight,Sport,2800
+2021-11-27,Frogger,5.9+,https://www.mountainproject.com/route/108271646/frogger,1,New Mexico > Santa Fe Area > Diablo Canyon > The Shack > Main Wall,Lead,Onsight,Sport,2500
+2021-11-27,32 Flavors,5.11b,https://www.mountainproject.com/route/108307114/32-flavors,1,New Mexico > Santa Fe Area > Diablo Canyon > The Shack > Main Wall,Lead,Redpoint,Sport,4900
+2021-11-08,Love Jug Right,V1 R,https://www.mountainproject.com/route/118697594/love-jug-right,1,"New Mexico > New Mexico, other Northern Areas > Roy > Middle Mesteño > The Jumbles > Try Angular Area",Send,,Boulder,20100
+2021-11-08,Try Angular,V6-,https://www.mountainproject.com/route/118686479/try-angular,1,"New Mexico > New Mexico, other Northern Areas > Roy > Middle Mesteño > The Jumbles > Try Angular Area",Send,,Boulder,20570
+2021-11-08,Pumped Full of Roy,V5-6,https://www.mountainproject.com/route/118925377/pumped-full-of-roy,1,"New Mexico > New Mexico, other Northern Areas > Roy > Mills Canyon > Roadside Attraction > Flash Pance",Send,,Boulder,20550
+2021-10-18,El Chaman,5.11b/c,https://www.mountainproject.com/route/117712353/el-chaman,1,International > North America > Mexico > Chiapas > Cerro de Don Lauro,Lead,Fell/Hung,Sport,5100
+2021-10-18,Wakan Tanka,5.11d,https://www.mountainproject.com/route/118635307/wakan-tanka,1,International > North America > Mexico > Chiapas > Cerro de Don Lauro,Lead,Fell/Hung,Sport,5500
+2021-10-18,Nueve mañoso,5.8,https://www.mountainproject.com/route/117712134/nueve-manoso,1,International > North America > Mexico > Chiapas > Cerro de Don Lauro,Lead,Onsight,Sport,2100
+2021-10-18,Panditas a mi,5.11b,https://www.mountainproject.com/route/117712146/panditas-a-mi,1,International > North America > Mexico > Chiapas > Cerro de Don Lauro,Lead,Redpoint,Sport,4900
+2021-10-18,Donner Pass Road,5.11d,https://www.mountainproject.com/route/117712212/donner-pass-road,1,International > North America > Mexico > Chiapas > Cerro de Don Lauro,Lead,Redpoint,Sport,5500
+2021-10-18,Main Overhang Warmup,V1,https://www.mountainproject.com/route/120700798/main-overhang-warmup,1,New Mexico > Santa Fe Area > Apache Canyon (a.k.a. Grasshopper Canyon) Bouldering,Send,,Boulder,20100
+2021-10-18,Main Line Right,V5,https://www.mountainproject.com/route/120700770/main-line-right,1,New Mexico > Santa Fe Area > Apache Canyon (a.k.a. Grasshopper Canyon) Bouldering,Send,,Boulder,20500
+2021-10-18,jasonbecker.com,5.10a/b,https://www.mountainproject.com/route/106169770/jasonbeckercom,1,Colorado > Canon City > Shelf Road > The Bank > 01. Piggy Bank,Lead,Onsight,Sport,2800
+2021-10-18,Unknown Route,5.10c,https://www.mountainproject.com/route/120261973/unknown-route,1,Colorado > Canon City > Shelf Road > The Bank > Quarry Wall at the Bank,Lead,Fell/Hung,Sport,3200
+2021-10-18,Tuff Shed (aka B&C),5.9+,https://www.mountainproject.com/route/107025294/tuff-shed-aka-bc,1,Colorado > Canon City > Shelf Road > The Bank > 01. Piggy Bank,Lead,Onsight,Sport,2500
+2021-10-18,Saints are Sinners,5.9,https://www.mountainproject.com/route/116763783/saints-are-sinners,1,Colorado > Canon City > Shelf Road > The Bank > Quarry Wall at the Bank,Lead,Onsight,Sport,2400
+2021-10-18,Fox on the Run,5.7+,https://www.mountainproject.com/route/116966091/fox-on-the-run,1,Colorado > Canon City > Shelf Road > The Bank > Quarry Wall at the Bank,Lead,Onsight,Sport,1900
+2021-10-18,Alfalfa Omega,5.10b,https://www.mountainproject.com/route/106161173/alfalfa-omega,1,Colorado > Canon City > Shelf Road > The Bank > Quarry Wall at the Bank,Lead,Onsight,Sport,2900
+2021-10-18,Acetylcholine,5.9+,https://www.mountainproject.com/route/109873405/acetylcholine,1,Colorado > Canon City > Shelf Road > The Dark Side,Lead,Onsight,Sport,2500
+2021-10-18,Teenage Wristband,5.10-,https://www.mountainproject.com/route/105762054/teenage-wristband,1,Colorado > Canon City > Shelf Road > The Dark Side,Lead,Onsight,Sport,2700
+2021-10-18,Stella's Groove,5.7,https://www.mountainproject.com/route/110879639/stellas-groove,1,New Mexico > Taos Area > Comales Canyon > Upper Level Walls > Fire Wall,Lead,Onsight,Sport,1800
+2021-10-18,E-Z Rider,5.10a,https://www.mountainproject.com/route/106795507/e-z-rider,1,New Mexico > Taos Area > Comales Canyon > Upper Level Walls > Fire Wall,Lead,Onsight,Sport,2600
+2021-10-18,In Descent,5.9,https://www.mountainproject.com/route/106302424/in-descent,1,New Mexico > Taos Area > Comales Canyon > Upper Level Walls > Fire Wall,Lead,Onsight,Sport,2400
+2021-10-18,Sammy's First Steps,5.6,https://www.mountainproject.com/route/119339865/sammys-first-steps,1,New Mexico > Taos Area > Comales Canyon > Upper Level Walls > The Block,Lead,Onsight,Sport,1600
+2021-10-18,Aaron's Route,5.8,https://www.mountainproject.com/route/107751424/aarons-route,1,New Mexico > Taos Area > Comales Canyon > Upper Level Walls > The Block,Lead,Onsight,Sport,2100
+2021-10-18,Nicole's Corner,5.9+,https://www.mountainproject.com/route/107751434/nicoles-corner,1,New Mexico > Taos Area > Comales Canyon > Upper Level Walls > The Block,Lead,Onsight,Sport,2500
+2021-10-18,Linda's Lament,5.10c,https://www.mountainproject.com/route/107663601/lindas-lament,1,New Mexico > Santa Fe Area > Pecos River Canyon > The Rim of the World,Lead,Onsight,Sport,3200
+2021-10-18,Rosie Wants Me Home,5.10,https://www.mountainproject.com/route/107663593/rosie-wants-me-home,1,New Mexico > Santa Fe Area > Pecos River Canyon > The Rim of the World,Lead,Redpoint,Sport,3000
+2021-10-18,Carol’s Route,5.10-,https://www.mountainproject.com/route/119270318/carols-route,1,New Mexico > Santa Fe Area > Pecos River Canyon > The Rim of the World,Lead,Redpoint,Sport,2700
+2021-10-18,Fall Guy,5.9,https://www.mountainproject.com/route/106230435/fall-guy,1,New Mexico > Santa Fe Area > Pecos River Canyon > The Rim of the World,Lead,Onsight,Sport,2400
+2021-10-18,Ooze Move,5.9,https://www.mountainproject.com/route/105901974/ooze-move,1,New Mexico > Santa Fe Area > Pecos River Canyon > Cathedral Rock,Lead,Onsight,Sport,2400
+2021-10-18,Double Roof Dilemma,5.10b,https://www.mountainproject.com/route/105901968/double-roof-dilemma,1,New Mexico > Santa Fe Area > Pecos River Canyon > Cathedral Rock,Lead,Onsight,Sport,2900
+2021-10-18,We Bulls Wobble,5.10b,https://www.mountainproject.com/route/106787298/we-bulls-wobble,1,New Mexico > Jemez Area > Las Conchas > (A) Cattle Call Wall Area,Lead,Onsight,Sport,2900
+2021-10-18,Cow Pies For Breakfast,5.10d,https://www.mountainproject.com/route/105860908/cow-pies-for-breakfast,1,New Mexico > Jemez Area > Las Conchas > (A) Cattle Call Wall Area,Lead,Redpoint,Sport,3500
+2021-10-18,Johnny Can't Lead,5.7,https://www.mountainproject.com/route/106572982/johnny-cant-lead,1,New Mexico > Jemez Area > Las Conchas > (A) Cattle Call Wall Area,Lead,Onsight,Sport,1800
+2021-10-18,Pie In Your Eye,5.6,https://www.mountainproject.com/route/105860904/pie-in-your-eye,1,New Mexico > Jemez Area > Las Conchas > (A) Cattle Call Wall Area,Lead,Onsight,Sport,1600
+2021-10-18,Filet On,5.11a,https://www.mountainproject.com/route/106893707/filet-on,1,New Mexico > Jemez Area > Las Conchas > (A) Cattle Call Wall Area,Lead,Redpoint,Sport,4600
+2020-03-11,Señor Sucio,5.10c,https://www.mountainproject.com/route/110063888/senor-sucio,1,International > North America > Mexico > Nuevo Leon > El Potrero Chico > TNT Wall,Lead,,Sport,3200
+2020-03-10,Peek-a-boo Jesus,5.12a,https://www.mountainproject.com/route/106071016/peek-a-boo-jesus,1,International > North America > Mexico > Nuevo Leon > El Potrero Chico > Las Agujas (The Spires),Lead,Redpoint,Sport,6600
+2020-03-04,Baked Fresh Daily,5.10c,https://www.mountainproject.com/route/106177922/baked-fresh-daily,1,International > North America > Mexico > Nuevo Leon > El Potrero Chico > TNT Wall,Lead,Flash,Sport,3200
+2020-03-04,Pangea,5.11+,https://www.mountainproject.com/route/106070371/pangea,1,International > North America > Mexico > Nuevo Leon > El Potrero Chico > Las Agujas (The Spires),Lead,Redpoint,Sport,5300
+2020-03-03,Satori,5.10c,https://www.mountainproject.com/route/106198915/satori,7,International > North America > Mexico > Nuevo Leon > El Potrero Chico > El Toro (The Front Side) > Zapatista Wall,Lead,Onsight,Sport,3200
+2020-03-03,Cactus Pile,5.10b,https://www.mountainproject.com/route/105920175/cactus-pile,3,International > North America > Mexico > Nuevo Leon > El Potrero Chico > Mota Wall,Lead,Onsight,Sport,2900
+2020-03-02,Pancho Villa Rides Again,5.10c,https://www.mountainproject.com/route/105939475/pancho-villa-rides-again,5,International > North America > Mexico > Nuevo Leon > El Potrero Chico > Mota Wall,Lead,Onsight,Sport,3200
+2020-03-02,Treasure of the Sierra Madre,5.10c,https://www.mountainproject.com/route/105949507/treasure-of-the-sierra-madre,7,International > North America > Mexico > Nuevo Leon > El Potrero Chico > Mota Wall,Lead,Redpoint,Sport,3200
+2019-06-03,El dorado,5.11d,https://www.mountainproject.com/route/114004788/el-dorado,1,International > North America > Mexico > Chiapas > Arcotete,Lead,Fell/Hung,Sport,5500
+2019-06-03,El torre de Mordor,5.8+,https://www.mountainproject.com/route/114067552/el-torre-de-mordor,1,International > North America > Mexico > Chiapas > Arcotete,Lead,Onsight,Sport,2200
+2019-05-14,Intenevris,5.11a,https://www.mountainproject.com/route/114060201/intenevris,1,International > North America > Mexico > Chiapas > Arcotete,Lead,Redpoint,Sport,4600
+2019-05-14,Chamula Yodler,5.10d,https://www.mountainproject.com/route/114060191/chamula-yodler,1,International > North America > Mexico > Chiapas > Arcotete,Lead,Redpoint,Sport,3500
+2019-05-14,Gollum,5.10d,https://www.mountainproject.com/route/114060164/gollum,1,International > North America > Mexico > Chiapas > Arcotete,Lead,Redpoint,Sport,3500
+2019-03-28,Intenevris,5.11a,https://www.mountainproject.com/route/114060201/intenevris,1,International > North America > Mexico > Chiapas > Arcotete,Lead,Fell/Hung,Sport,4600
+2019-03-28,Gollum,5.10d,https://www.mountainproject.com/route/114060164/gollum,1,International > North America > Mexico > Chiapas > Arcotete,Lead,Flash,Sport,3500
+2018-11-21,Rikki Tikki Tavi,5.8,https://www.mountainproject.com/route/107124313/rikki-tikki-tavi,1,Kentucky > Red River Gorge > Muir Valley > Animal Crackers Wall,Lead,Onsight,Sport,2100
+2018-11-21,Panda Bear,5.8+,https://www.mountainproject.com/route/107124319/panda-bear,1,Kentucky > Red River Gorge > Muir Valley > Animal Crackers Wall,Lead,Onsight,Sport,2200
+2018-11-21,Casey,5.8,https://www.mountainproject.com/route/107124345/casey,1,Kentucky > Red River Gorge > Muir Valley > Animal Crackers Wall,Lead,Flash,Sport,2100
+2018-11-21,A Portrait of the Artist as a Young Man,5.11b,https://www.mountainproject.com/route/106949444/a-portrait-of-the-artist-as-a-young-man,1,Kentucky > Red River Gorge > Muir Valley > Bibliothek,Lead,Flash,Sport,4900
+2018-11-21,Banshee,5.11c,https://www.mountainproject.com/route/106333612/banshee,1,Kentucky > Red River Gorge > Muir Valley > The Solarium,Lead,Redpoint,Sport,5200
+2018-11-21,Air Ride Equipped,5.11a,https://www.mountainproject.com/route/106586504/air-ride-equipped,1,Kentucky > Red River Gorge > Muir Valley > The Solarium,Lead,Onsight,Sport,4600
+2018-11-21,Cannabis Love Generator,5.11c,https://www.mountainproject.com/route/108337016/cannabis-love-generator,1,Kentucky > Red River Gorge > (PMRP) Pendergrass-Murray Recreational Preserve > Coal Bank Hollow > The Crossroads,Lead,Fell/Hung,Sport,5200
+2018-11-21,The Decline of Western Civilization,5.10a,https://www.mountainproject.com/route/107878537/the-decline-of-western-civilization,1,Kentucky > Red River Gorge > (PMRP) Pendergrass-Murray Recreational Preserve > Coal Bank Hollow > Solar Collector,Lead,Flash,Sport,2600
+2018-11-21,Buddha Hole,5.11d,https://www.mountainproject.com/route/106920312/buddha-hole,1,Kentucky > Red River Gorge > (PMRP) Pendergrass-Murray Recreational Preserve > Coal Bank Hollow > Solar Collector,Lead,Fell/Hung,Sport,5500
+2018-11-21,Pixadoodle,5.8,https://www.mountainproject.com/route/112869735/pixadoodle,1,Kentucky > Red River Gorge > (MFRP) Miller Fork Recreational Preserve > The Nursery,Lead,Onsight,Sport,2100
+2018-11-21,Fuzzy Muffin,5.7+,https://www.mountainproject.com/route/112869753/fuzzy-muffin,1,Kentucky > Red River Gorge > (MFRP) Miller Fork Recreational Preserve > The Nursery,Lead,Onsight,Sport,1900
+2018-11-21,Southern Satisfaction,5.10a/b,https://www.mountainproject.com/route/111774361/southern-satisfaction,1,Kentucky > Red River Gorge > (MFRP) Miller Fork Recreational Preserve > The Nursery,Lead,Onsight,Sport,2800
+2018-11-21,Juju Fruit,5.10c,https://www.mountainproject.com/route/110889566/juju-fruit,1,Kentucky > Red River Gorge > (MFRP) Miller Fork Recreational Preserve > Fruit Wall,Lead,Onsight,Sport,3200
+2018-11-21,Slice of Spice,5.10a,https://www.mountainproject.com/route/111157156/slice-of-spice,1,Kentucky > Red River Gorge > (MFRP) Miller Fork Recreational Preserve > Fruit Wall,Lead,Onsight,Trad,2600
+2018-11-21,Peach Fuzz,5.11b,https://www.mountainproject.com/route/110968902/peach-fuzz,1,Kentucky > Red River Gorge > (MFRP) Miller Fork Recreational Preserve > Fruit Wall,Lead,Onsight,Sport,4900
+2018-11-21,Witness the Citrus,5.11c,https://www.mountainproject.com/route/110356279/witness-the-citrus,1,Kentucky > Red River Gorge > (MFRP) Miller Fork Recreational Preserve > Fruit Wall,Lead,Fell/Hung,Sport,5200
+2018-09-25,Jammer,5.9,https://www.mountainproject.com/route/108728685/jammer,1,New York > Adirondacks > Indian Lake Region > Crane Mountain > Upper South Corner Cliffs,Lead,Onsight,Trad,2400
+2018-09-25,Carpenter & Das,5.8,https://www.mountainproject.com/route/106609778/carpenter-das,2,New York > Adirondacks > Indian Lake Region > Crane Mountain > Black Arches Wall,Lead,Redpoint,Trad,2100
+2018-09-25,Stand Your Ground,5.7,https://www.mountainproject.com/route/108450251/stand-your-ground,1,New York > Adirondacks > Indian Lake Region > Crane Mountain > Upper South Corner Cliffs,Lead,Onsight,Trad,1800
+2018-09-25,Critical Crimps,5.10a,https://www.mountainproject.com/route/106532800/critical-crimps,1,New York > Adirondacks > Indian Lake Region > Crane Mountain > Black Arches Wall,Lead,Redpoint,Trad,2600
+2018-09-25,The Diagonal,5.8,https://www.mountainproject.com/route/107201641/the-diagonal,4,New York > Adirondacks > High Peaks Region > Wallface,Lead,Onsight,Trad,2100
+2018-08-26,Millenium Falcon,5.10c,https://www.mountainproject.com/route/106021168/millenium-falcon,1,New Hampshire > *Rumney > The Main Cliff,Lead,Redpoint,Sport,3200
+2018-08-26,Clusterphobia,5.10d,https://www.mountainproject.com/route/105959353/clusterphobia,1,New Hampshire > *Rumney > Armed and Dangerous (Main Cliff Left),Lead,Redpoint,Sport,3500
+2018-08-26,Misdemeanor,5.10b,https://www.mountainproject.com/route/106033945/misdemeanor,1,New Hampshire > *Rumney > The Meadows > Center Section,Lead,Onsight,Sport,2900
+2018-08-26,Tropicana,5.11a,https://www.mountainproject.com/route/105884809/tropicana,2,New Hampshire > *Rumney > Orange Crush,Lead,Redpoint,Sport,4600
+2018-08-26,Lions and Tigers and Bears,5.11b,https://www.mountainproject.com/route/106033484/lions-and-tigers-and-bears,1,New Hampshire > *Rumney > Orange Crush,Lead,Onsight,Sport,4900
+2018-08-26,"Armed and Dangerous, and Off My Medication",5.10b,https://www.mountainproject.com/route/105935097/armed-and-dangerous-and-off-my-medication,1,New Hampshire > *Rumney > Armed and Dangerous (Main Cliff Left),Lead,Onsight,Sport,2900
+2018-08-26,Nicky's Crack,5.11d,https://www.mountainproject.com/route/105931536/nickys-crack,1,New Hampshire > *Rumney > The Hinterlands,Lead,Fell/Hung,Sport,5500
+2018-08-26,Dolt,5.10a,https://www.mountainproject.com/route/105931527/dolt,1,New Hampshire > *Rumney > The Hinterlands,Lead,Onsight,Sport,2600
+2018-08-26,Jolt,5.10a,https://www.mountainproject.com/route/105931493/jolt,1,New Hampshire > *Rumney > The Hinterlands,Lead,Onsight,Sport,2600
+2017-09-18,Deception,5.8,https://www.mountainproject.com/route/105760497/deception,1,Wyoming > Laramie Area > Vedauwoo > Nautilus,Follow,,Trad,2100
+2017-09-18,Captain Nemo,5.10d,https://www.mountainproject.com/route/105764748/captain-nemo,2,Wyoming > Laramie Area > Vedauwoo > Nautilus,Follow,,Trad,3500
+2017-09-18,Mother   1,5.7+,https://www.mountainproject.com/route/105751369/mother-1,1,Wyoming > Laramie Area > Vedauwoo > Nautilus,Follow,,Trad,1900
+2017-09-17,The Prospect,5.11a,https://www.mountainproject.com/route/105857638/the-prospect,1,Wyoming > Lander Area > Wild Iris > The Main Wall > C. Wild Horses Wall,Lead,Fell/Hung,Sport,4600
+2017-09-17,Dynamitic,5.7,https://www.mountainproject.com/route/105851991/dynamitic,1,Wyoming > Lander Area > Wild Iris > The Main Wall > E. Five Ten Wall,Lead,Onsight,Sport,1800
+2017-09-17,The Shootist,5.10a,https://www.mountainproject.com/route/105863230/the-shootist,1,Wyoming > Lander Area > Wild Iris > The Main Wall > D. Hot Tamale Wall,Lead,Onsight,Sport,2600
+2017-09-16,Latex Cowboy,5.10b,https://www.mountainproject.com/route/106204607/latex-cowboy,1,Wyoming > Lander Area > Wild Iris > The Main Wall > E. Five Ten Wall,Lead,Onsight,Sport,2900
+2017-09-16,"You Picked A Fine Climb To Lead Me, Lucille",5.9+,https://www.mountainproject.com/route/106539681/you-picked-a-fine-climb-to-lead-me-lucille,1,Wyoming > Lander Area > Wild Iris > The Main Wall > E. Five Ten Wall,Lead,Onsight,Sport,2500
+2017-09-16,Indian Country,5.10a/b,https://www.mountainproject.com/route/105851982/indian-country,1,Wyoming > Lander Area > Wild Iris > The Main Wall > E. Five Ten Wall,Lead,Onsight,Sport,2800
+2017-09-16,Ryobi Ranger,5.10a/b,https://www.mountainproject.com/route/105851974/ryobi-ranger,1,Wyoming > Lander Area > Wild Iris > The Main Wall > E. Five Ten Wall,Lead,Onsight,Sport,2800
+2017-09-16,The Devil Wears Spurs,5.10d,https://www.mountainproject.com/route/105857631/the-devil-wears-spurs,1,Wyoming > Lander Area > Wild Iris > The Main Wall > C. Wild Horses Wall,Lead,Redpoint,Sport,3500
+2017-05-22,Little Finger,5.5,https://www.mountainproject.com/route/106092140/little-finger,3,New York > Adirondacks > Lake George Region > Rogers Rock > Rogers Slide,Lead,Onsight,Trad,1500
+2017-04-09,Redneck on a Rope,5.10+,https://www.mountainproject.com/route/107683340/redneck-on-a-rope,1,New York > Adirondacks > Indian Lake Region > Snowy Mt,Lead,Fell/Hung,Trad,3300
+2016-06-26,Dog Biscuit,5.10c,https://www.mountainproject.com/route/105951717/dog-biscuit,1,New Hampshire > *Rumney > Kennel Wall,,,Sport,3200
+2016-06-26,The Big Angler,5.11a,https://www.mountainproject.com/route/106144856/the-big-angler,1,New Hampshire > *Rumney > Kennel Wall,,,Sport,4600
+2016-06-25,Kennel Wall | 1695,5.11a,https://www.mountainproject.com/route/105951695/kennel-wall-1695,1,New Hampshire > *Rumney > Kennel Wall,,,Sport,4600
+2016-06-25,Thou Shalt Not Covet,5.9,https://www.mountainproject.com/route/105962344/thou-shalt-not-covet,1,New Hampshire > *Rumney > The Meadows > No Money Down Area,,,Sport,2400
+2016-06-25,Bullwinkle Goes Ballistic,5.10a,https://www.mountainproject.com/route/106009353/bullwinkle-goes-ballistic,1,New Hampshire > *Rumney > Below the New Wave,,,Sport,2600
+2016-06-25,After All This Time,5.7,https://www.mountainproject.com/route/110964463/after-all-this-time,1,New Hampshire > *Rumney > The Balcony,,,Sport,1800
+2016-06-25,Always,5.10b,https://www.mountainproject.com/route/110964507/always,1,New Hampshire > *Rumney > The Balcony,,,Sport,2900
+2016-06-25,Sight Unseen,5.7,https://www.mountainproject.com/route/110964570/sight-unseen,1,New Hampshire > *Rumney > The Balcony,,,Sport,1800
+2016-06-25,Peer Pressure,5.10d,https://www.mountainproject.com/route/105927987/peer-pressure,1,New Hampshire > *Rumney > Bonsai,,,Sport,3500
+2016-06-25,War and  Peace,5.9+,https://www.mountainproject.com/route/105878619/war-and-peace,1,New Hampshire > *Rumney > Bonsai,,,Sport,2500
+2016-06-25,Jugline,5.10b,https://www.mountainproject.com/route/106014669/jugline,1,New Hampshire > *Rumney > Bonsai,,,Sport,2900
+2016-06-25,Millenium Falcon,5.10c,https://www.mountainproject.com/route/106021168/millenium-falcon,1,New Hampshire > *Rumney > The Main Cliff,,,Sport,3200
+2016-06-25,Underdog,5.10a,https://www.mountainproject.com/route/105877217/underdog,1,New Hampshire > *Rumney > The Main Cliff,,,Sport,2600
+2016-06-25,Sweet Polly Purebred,5.10c,https://www.mountainproject.com/route/105877209/sweet-polly-purebred,1,New Hampshire > *Rumney > The Main Cliff,,,Sport,3200
+2016-06-25,No Money Down,5.10c,https://www.mountainproject.com/route/105908656/no-money-down,1,New Hampshire > *Rumney > The Meadows > No Money Down Area,,,Sport,3200
+2016-06-24,Clusterphobia,5.10d,https://www.mountainproject.com/route/105959353/clusterphobia,1,New Hampshire > *Rumney > Armed and Dangerous (Main Cliff Left),,,Sport,3500
+2016-06-16,Pox,5.10c,https://www.mountainproject.com/route/107826559/pox,1,New York > Adirondacks > Indian Lake Region > Crane Mountain > Measles Walls > Lower Measles Wall,Follow,,Sport,3200
+2016-06-16,Pox,5.10c,https://www.mountainproject.com/route/107826559/pox,1,New York > Adirondacks > Indian Lake Region > Crane Mountain > Measles Walls > Lower Measles Wall,Lead,Fell/Hung,Sport,3200
+2016-06-16,Recuperation Boulevard,5.7,https://www.mountainproject.com/route/106609417/recuperation-boulevard,1,New York > Adirondacks > Indian Lake Region > Crane Mountain > Black Arches Wall,Lead,Onsight,Trad,1800
+2016-06-16,Carpenter & Das,5.8,https://www.mountainproject.com/route/106609778/carpenter-das,2,New York > Adirondacks > Indian Lake Region > Crane Mountain > Black Arches Wall,Lead,,Trad,2100
+2016-06-16,Critical Crimps,5.10a,https://www.mountainproject.com/route/106532800/critical-crimps,1,New York > Adirondacks > Indian Lake Region > Crane Mountain > Black Arches Wall,Lead,Flash,Trad,2600
+2016-06-16,Adirondack Rehabilitation,5.10a R,https://www.mountainproject.com/route/106603598/adirondack-rehabilitation,1,New York > Adirondacks > Indian Lake Region > Crane Mountain > Black Arches Wall,Follow,,Trad,2600
+2016-03-19,Angled Dangler,5.11c/d,https://www.mountainproject.com/route/105910303/angled-dangler,1,Nevada > Southern Nevada > Red Rocks > Sandstone Quarry > Wake Up Wall Area > The Wake-Up Wall,TR,,Sport,5400
+2016-03-19,What's Eating You,5.10a,https://www.mountainproject.com/route/105944650/whats-eating-you,1,Nevada > Southern Nevada > Red Rocks > Calico Basin > Red Spring > Cannibal Crag,Lead,Onsight,Sport,2600
+2016-03-19,Behavior Issues,5.10a,https://www.mountainproject.com/route/107612131/behavior-issues,2,Nevada > Southern Nevada > Red Rocks > Calico Basin > Ash Spring > Ash Canyon > The Fringe,Lead,Onsight,Sport,2600
+2016-03-19,Hippie Vest,5.9,https://www.mountainproject.com/route/107612121/hippie-vest,2,Nevada > Southern Nevada > Red Rocks > Calico Basin > Ash Spring > Ash Canyon > The Fringe,Lead,Onsight,Sport,2400
+2016-03-19,Cowboy Curse,5.10b,https://www.mountainproject.com/route/107612113/cowboy-curse,2,Nevada > Southern Nevada > Red Rocks > Calico Basin > Ash Spring > Ash Canyon > The Fringe,Lead,Onsight,Sport,2900
+2016-03-19,Lunatic,5.11b,https://www.mountainproject.com/route/107612092/lunatic,1,Nevada > Southern Nevada > Red Rocks > Calico Basin > Ash Spring > Ash Canyon > The Fringe,Lead,Onsight,Sport,4900
+2016-03-19,Ginger Cracks,5.9,https://www.mountainproject.com/route/105732260/ginger-cracks,7,Nevada > Southern Nevada > Red Rocks > Juniper Canyon > Ginger Buttress,Lead,Onsight,Trad,2400
+2016-03-19,Elbows of Mac and Ronnie,5.11b,https://www.mountainproject.com/route/105944680/elbows-of-mac-and-ronnie,1,Nevada > Southern Nevada > Red Rocks > Calico Basin > Red Spring > Cannibal Crag,Follow,,Sport,4900
+2016-03-19,American Sportsman,5.10b,https://www.mountainproject.com/route/105808911/american-sportsman,1,Nevada > Southern Nevada > Red Rocks > Second Pullout (Calico II) > Wall of Confusion,Lead,Flash,Sport,2900
+2016-03-19,The Runaway,5.10b,https://www.mountainproject.com/route/105808906/the-runaway,1,Nevada > Southern Nevada > Red Rocks > Second Pullout (Calico II) > Wall of Confusion,Lead,Flash,Sport,2900
+2016-03-19,The  Big Short,5.9,https://www.mountainproject.com/route/107367966/the-big-short,1,Nevada > Southern Nevada > Red Rocks > Sandstone Quarry > Wake Up Wall Area > The Wake-Up Wall,Lead,Flash,Sport,2400
+2016-03-19,Blame it on my ADD,5.9,https://www.mountainproject.com/route/107367986/blame-it-on-my-add,1,Nevada > Southern Nevada > Red Rocks > Sandstone Quarry > Wake Up Wall Area > The Wake-Up Wall,Lead,Flash,Sport,2400
+2016-03-19,Shut Up and Climb,5.11b,https://www.mountainproject.com/route/105885132/shut-up-and-climb,1,Nevada > Southern Nevada > Red Rocks > Sandstone Quarry > Wake Up Wall Area > The Wake-Up Wall,Lead,Redpoint,Sport,4900
+2016-03-19,Mic's Master,5.10b,https://www.mountainproject.com/route/105983934/mics-master,1,Nevada > Southern Nevada > Red Rocks > Sandstone Quarry > Wake Up Wall Area > The Wake-Up Wall,Lead,Flash,Sport,2900
+2016-03-19,Spanky Spangler,5.10,https://www.mountainproject.com/route/105983941/spanky-spangler,1,Nevada > Southern Nevada > Red Rocks > Sandstone Quarry > Wake Up Wall Area > The Wake-Up Wall,Lead,Flash,Sport,3000
+2016-03-19,Good Morning,5.11b/c,https://www.mountainproject.com/route/105910353/good-morning,1,Nevada > Southern Nevada > Red Rocks > Sandstone Quarry > Wake Up Wall Area > The Wake-Up Wall,Lead,Redpoint,Sport,5100
+2016-03-19,Black Magic,5.8,https://www.mountainproject.com/route/105732590/black-magic,4,Nevada > Southern Nevada > Red Rocks > First Creek Canyon > Lotta Balls Wall,Follow,,Trad,2100
+2016-03-19,Caustic,5.11b,https://www.mountainproject.com/route/105820098/caustic,1,Nevada > Southern Nevada > Red Rocks > Calico Basin > Red Spring > Cannibal Crag,Lead,Redpoint,Sport,4900
+2016-03-19,Baseboy Direct,5.11-,https://www.mountainproject.com/route/105944445/baseboy-direct,1,Nevada > Southern Nevada > Red Rocks > Calico Basin > Red Spring > Cannibal Crag,Lead,Fell/Hung,Sport,4700
+2016-01-19,The Keyhole,5.11a PG13,https://www.mountainproject.com/route/107564715/the-keyhole,1,New York > Adirondacks > Southern Mountains > Lost T,,,Sport,4600
+2016-01-19,Five Star Crack,5.7+,https://www.mountainproject.com/route/107564752/five-star-crack,1,New York > Adirondacks > Southern Mountains > Lost T,,,Trad,1900
+2016-01-19,Wide Crack,5.7,https://www.mountainproject.com/route/107564770/wide-crack,1,New York > Adirondacks > Southern Mountains > Lost T,,,Trad,1800
+2016-01-19,Spelunking,5.10a/b,https://www.mountainproject.com/route/107564707/spelunking,1,New York > Adirondacks > Southern Mountains > Lost T,,,Trad,2800
+2016-01-19,Little Kisses,5.9,https://www.mountainproject.com/route/107564731/little-kisses,1,New York > Adirondacks > Southern Mountains > Lost T,,,Trad,2400
+2015-12-03,Puppy Crack,5.7,https://www.mountainproject.com/route/106133209/puppy-crack,1,California > Yosemite National Park > Tuolumne Meadows > Puppy Dome,,,"Trad, TR",1800
+2015-10-26,Dave's Problem,V3,https://www.mountainproject.com/route/107378289/daves-problem,1,New York > Adirondacks > Southern Mountains > Nine Corner Lake > Middle Earth > Nick Stoner,,,Boulder,20300
+2015-10-26,Lloyds of Lowville,5.10a,https://www.mountainproject.com/route/107776662/lloyds-of-lowville,1,New York > Adirondacks > Old Forge Region > Eagle Falls,,,Sport,2600
+2015-06-04,Men In White Suits,5.9,https://www.mountainproject.com/route/105959381/men-in-white-suits,1,New Hampshire > *Rumney > Armed and Dangerous (Main Cliff Left),,,Sport,2400
+2015-06-01,Rainbow,5.6,https://www.mountainproject.com/route/106054653/rainbow,1,New Hampshire > *Rumney > Armed and Dangerous (Main Cliff Left),,,Sport,1600
+2015-05-23,Centerpiece,5.10d,https://www.mountainproject.com/route/105906870/centerpiece,1,New Hampshire > *Rumney > Bonsai,,,Sport,3500
+2015-05-23,Masterpiece,5.10a,https://www.mountainproject.com/route/105878204/masterpiece,1,New Hampshire > *Rumney > Bonsai,,,Sport,2600
+2015-05-21,Top Gun,V2,https://www.mountainproject.com/route/106502927/top-gun,1,New York > Adirondacks > Southern Mountains > Nine Corner Lake > The Meadows > Optimus Prime Boulder,,,Boulder,20200
+2015-05-21,Star Scream,V0,https://www.mountainproject.com/route/106500929/star-scream,1,New York > Adirondacks > Southern Mountains > Nine Corner Lake > The Meadows > Optimus Prime Boulder,,,Boulder,20008
+2015-05-21,More Than Meets the Eye,V1,https://www.mountainproject.com/route/106502935/more-than-meets-the-eye,1,New York > Adirondacks > Southern Mountains > Nine Corner Lake > The Meadows > Optimus Prime Boulder,,,Boulder,20100
+2015-05-21,Decepticons Rising,V3,https://www.mountainproject.com/route/106500926/decepticons-rising,1,New York > Adirondacks > Southern Mountains > Nine Corner Lake > The Meadows > Optimus Prime Boulder,,,Boulder,20300
+2015-05-21,Tea Time,V0,https://www.mountainproject.com/route/106402199/tea-time,1,New York > Adirondacks > Southern Mountains > Nine Corner Lake > Middle Earth > Nick Stoner,,,Boulder,20008
+2015-05-21,Dave's Problem,V3,https://www.mountainproject.com/route/107378289/daves-problem,1,New York > Adirondacks > Southern Mountains > Nine Corner Lake > Middle Earth > Nick Stoner,,,Boulder,20300
+2015-05-21,Nick's Cracked Cranium,V0,https://www.mountainproject.com/route/106502917/nicks-cracked-cranium,1,New York > Adirondacks > Southern Mountains > Nine Corner Lake > Middle Earth > Nick Stoner,,,Boulder,20008
+2015-05-21,Exclamation Point,V0,https://www.mountainproject.com/route/106402214/exclamation-point,1,New York > Adirondacks > Southern Mountains > Nine Corner Lake > Middle Earth > Lookout,,,Boulder,20008
+2015-05-21,Andrugen,V1,https://www.mountainproject.com/route/106402219/andrugen,1,New York > Adirondacks > Southern Mountains > Nine Corner Lake > Middle Earth > Lookout,,,Boulder,20100
+2015-05-21,Pop or Drop,V4,https://www.mountainproject.com/route/106479700/pop-or-drop,1,New York > Adirondacks > Southern Mountains > Nine Corner Lake > Middle Earth > Fortress,,,Boulder,20400
+2015-05-21,Nippin' Out,V3,https://www.mountainproject.com/route/106516622/nippin-out,1,New York > Adirondacks > Southern Mountains > Nine Corner Lake > The Cliffs > Cave Boulder,,,Boulder,20300
+2015-05-21,Mr. Popular,5.10a,https://www.mountainproject.com/route/105961395/mr-popular,1,New Hampshire > *Rumney > The Meadows > No Money Down Area,,,Sport,2600
+2015-05-21,Mom's Pancake,5.5,https://www.mountainproject.com/route/106057691/moms-pancake,1,New Hampshire > *Rumney > The Meadows > Center Section,,,Sport,1500
+2015-05-21,Piece of Cake,5.5,https://www.mountainproject.com/route/106491699/piece-of-cake,1,New Hampshire > *Rumney > Jimmy Cliff,,,Sport,1500
+2015-05-21,Things You Should Have Learned in Kindergarten,5.6,https://www.mountainproject.com/route/105925163/things-you-should-have-learned-in-kindergarten,1,New Hampshire > *Rumney > Jimmy Cliff,,,Sport,1600
+2015-05-21,Teacher's Pet,5.7,https://www.mountainproject.com/route/105925169/teachers-pet,1,New Hampshire > *Rumney > Jimmy Cliff,,,Sport,1800
+2015-05-21,Drilling for Dollars,5.8,https://www.mountainproject.com/route/105878341/drilling-for-dollars,1,New Hampshire > *Rumney > Jimmy Cliff,,,Sport,2100
+2015-05-21,"To Love, Honor and Belay",5.9,https://www.mountainproject.com/route/106276559/to-love-honor-and-belay,1,New Hampshire > *Rumney > Jimmy Cliff,,,Sport,2400
+2015-05-21,A Week With Pete,5.3,https://www.mountainproject.com/route/105956196/a-week-with-pete,1,New Hampshire > *Rumney > The Parking Lot Wall,,,Sport,1300
+2015-05-21,Shealyn's Way,5.7,https://www.mountainproject.com/route/105962298/shealyns-way,1,New Hampshire > *Rumney > The Parking Lot Wall,,,Sport,1800
+2015-05-21,Quinn/Callaghan,5.9-,https://www.mountainproject.com/route/106263795/quinncallaghan,1,New Hampshire > *Rumney > The Parking Lot Wall,,,Sport,2300
+2015-05-21,Chloe's Breakfast Special,5.8,https://www.mountainproject.com/route/105900343/chloes-breakfast-special,1,New Hampshire > *Rumney > The Parking Lot Wall,,,Sport,2100
+2015-05-21,Egg McMeadows,5.9+,https://www.mountainproject.com/route/105962933/egg-mcmeadows,1,New Hampshire > *Rumney > The Parking Lot Wall,,,Sport,2500
+2015-05-21,Rise and Shine,5.7,https://www.mountainproject.com/route/105962922/rise-and-shine,1,New Hampshire > *Rumney > The Parking Lot Wall,,,Sport,1800
+2015-05-21,Easily Aroused,5.9,https://www.mountainproject.com/route/105971474/easily-aroused,1,New Hampshire > *Rumney > The Parking Lot Wall,,,Sport,2400
+2015-05-21,Rubicon,5.10c,https://www.mountainproject.com/route/106573480/rubicon,1,New Hampshire > *Rumney > The Parking Lot Wall,,,Sport,3200
+2015-05-21,Easily Amused,5.7,https://www.mountainproject.com/route/105966659/easily-amused,1,New Hampshire > *Rumney > The Parking Lot Wall,,,Sport,1800
+2015-05-21,Glory Jean's,5.6,https://www.mountainproject.com/route/105961422/glory-jeans,1,New Hampshire > *Rumney > The Parking Lot Wall,,,Sport,1600
+2015-05-21,Squeeze My Lemon,5.8,https://www.mountainproject.com/route/106071435/squeeze-my-lemon,1,New Hampshire > *Rumney > The Parking Lot Wall,,,Sport,2100
+2015-05-21,Dead Sea Equestrian,5.7,https://www.mountainproject.com/route/106071441/dead-sea-equestrian,1,New Hampshire > *Rumney > The Parking Lot Wall,,,Sport,1800
+2015-05-21,Shemp Lives,5.8,https://www.mountainproject.com/route/106391407/shemp-lives,1,New Hampshire > *Rumney > The Parking Lot Wall,,,Sport,2100
+2015-05-21,Curly for President,5.9-,https://www.mountainproject.com/route/106254868/curly-for-president,1,New Hampshire > *Rumney > The Parking Lot Wall,,,Sport,2300
+2015-05-21,Misdemeanor,5.10b,https://www.mountainproject.com/route/106033945/misdemeanor,1,New Hampshire > *Rumney > The Meadows > Center Section,,,Sport,2900
+2015-05-21,Rose Garden,5.7,https://www.mountainproject.com/route/105923573/rose-garden,1,New Hampshire > *Rumney > The Meadows > No Money Down Area,,,Sport,1800
+2015-05-21,Truth in Advertising,5.7+,https://www.mountainproject.com/route/105923587/truth-in-advertising,1,New Hampshire > *Rumney > The Meadows > No Money Down Area,,,Sport,1900
+2015-05-21,False Modesty,5.7,https://www.mountainproject.com/route/105923651/false-modesty,1,New Hampshire > *Rumney > The Meadows > No Money Down Area,,,Sport,1800
+2015-05-21,Easy Terms,5.8,https://www.mountainproject.com/route/105923640/easy-terms,1,New Hampshire > *Rumney > The Meadows > No Money Down Area,,,Sport,2100
+2015-05-21,Dung Beetle,5.8+,https://www.mountainproject.com/route/106057661/dung-beetle,1,New Hampshire > *Rumney > The Meadows > No Money Down Area,,,Sport,2200
+2015-05-21,Thou Shalt Not Covet,5.9,https://www.mountainproject.com/route/105962344/thou-shalt-not-covet,1,New Hampshire > *Rumney > The Meadows > No Money Down Area,,,Sport,2400
+2015-05-21,Holderness School Corner,5.8,https://www.mountainproject.com/route/105962946/holderness-school-corner,1,New Hampshire > *Rumney > The Meadows > Holderness Corner,,,Trad,2100
+2015-05-21,Tunnel Zone,5.9,https://www.mountainproject.com/route/106409759/tunnel-zone,1,New Hampshire > *Rumney > The Meadows > Center Section,,,Trad,2400
+2015-05-21,Bolt Line,5.8,https://www.mountainproject.com/route/105923805/bolt-line,1,New Hampshire > *Rumney > The Meadows > Center Section,,,Sport,2100
+2015-05-21,Hippos on Parade,5.9,https://www.mountainproject.com/route/105961400/hippos-on-parade,1,New Hampshire > *Rumney > The Meadows > Center Section,,,Sport,2400
+2015-05-21,Rhino Bucket,5.10a,https://www.mountainproject.com/route/105961410/rhino-bucket,1,New Hampshire > *Rumney > The Meadows > Center Section,,,Sport,2600
+2015-05-21,Lies and Propaganda,5.9,https://www.mountainproject.com/route/105923839/lies-and-propaganda,1,New Hampshire > *Rumney > The Meadows > Center Section,,,Sport,2400
+2015-05-21,Goldbug,5.10d,https://www.mountainproject.com/route/105963695/goldbug,1,New Hampshire > *Rumney > The Main Cliff,,,Sport,3500
+2015-05-21,Know Ethics,5.11a,https://www.mountainproject.com/route/105877243/know-ethics,1,New Hampshire > *Rumney > The Main Cliff,,,Sport,4600
+2015-05-21,Sweet Polly Purebred,5.10c,https://www.mountainproject.com/route/105877209/sweet-polly-purebred,1,New Hampshire > *Rumney > The Main Cliff,,,Sport,3200
+2015-05-21,Underdog,5.10a,https://www.mountainproject.com/route/105877217/underdog,1,New Hampshire > *Rumney > The Main Cliff,,,Sport,2600
+2015-05-21,Millenium Falcon,5.10c,https://www.mountainproject.com/route/106021168/millenium-falcon,1,New Hampshire > *Rumney > The Main Cliff,,,Sport,3200
+2015-05-21,Things I Never Learned,5.9,https://www.mountainproject.com/route/105925175/things-i-never-learned,1,New Hampshire > *Rumney > Jimmy Cliff,,,Sport,2400
+2015-05-21,Lonesome Dove,5.10a,https://www.mountainproject.com/route/105879126/lonesome-dove,1,New Hampshire > *Rumney > Jimmy Cliff,,,Sport,2600
+2015-05-21,Junco,5.8+,https://www.mountainproject.com/route/105876683/junco,1,New Hampshire > *Rumney > Jimmy Cliff,,,Sport,2200
+2015-05-21,Oby-won Ryobi,5.9+,https://www.mountainproject.com/route/105906887/oby-won-ryobi,1,New Hampshire > *Rumney > Darth Vader,,,Sport,2500
+2015-05-21,Yoda,5.9,https://www.mountainproject.com/route/105906879/yoda,1,New Hampshire > *Rumney > Darth Vader,,,Sport,2400
+2015-05-21,Sea Breeze,5.9,https://www.mountainproject.com/route/106186163/sea-breeze,1,New Hampshire > *Rumney > The Crow's Nest,,,Sport,2400
+2015-05-21,S.O.S.,5.11a,https://www.mountainproject.com/route/105965199/sos,1,New Hampshire > *Rumney > The Crow's Nest,,,Sport,4600
+2015-05-21,Land Ho!,5.8+,https://www.mountainproject.com/route/106186138/land-ho,1,New Hampshire > *Rumney > The Crow's Nest,,,Sport,2200
+2015-05-21,Keel-Ho,5.10a,https://www.mountainproject.com/route/106186148/keel-ho,1,New Hampshire > *Rumney > The Crow's Nest,,,Sport,2600
+2015-05-21,Ill Gotten Booty,5.9+,https://www.mountainproject.com/route/105965186/ill-gotten-booty,1,New Hampshire > *Rumney > The Crow's Nest,,,Sport,2500
+2015-05-21,Jugline,5.10b,https://www.mountainproject.com/route/106014669/jugline,1,New Hampshire > *Rumney > Bonsai,,,Sport,2900
+2015-05-21,Masterpiece,5.10a,https://www.mountainproject.com/route/105878204/masterpiece,1,New Hampshire > *Rumney > Bonsai,,,Sport,2600
+2015-05-21,Centerpiece,5.10d,https://www.mountainproject.com/route/105906870/centerpiece,1,New Hampshire > *Rumney > Bonsai,,,Sport,3500
+2015-05-21,Peer Pressure,5.10d,https://www.mountainproject.com/route/105927987/peer-pressure,1,New Hampshire > *Rumney > Bonsai,,,Sport,3500
+2015-05-21,Sesame Street,5.10b,https://www.mountainproject.com/route/105959390/sesame-street,1,New Hampshire > *Rumney > Armed and Dangerous (Main Cliff Left),,,Sport,2900
+2015-05-21,Clusterphobia,5.10d,https://www.mountainproject.com/route/105959353/clusterphobia,1,New Hampshire > *Rumney > Armed and Dangerous (Main Cliff Left),,,Sport,3500
+2015-05-21,Metamorphosis,5.8+,https://www.mountainproject.com/route/105959363/metamorphosis,1,New Hampshire > *Rumney > Armed and Dangerous (Main Cliff Left),,,Sport,2200
+2015-05-21,"Armed and Dangerous, and Off My Medication",5.10b,https://www.mountainproject.com/route/105935097/armed-and-dangerous-and-off-my-medication,1,New Hampshire > *Rumney > Armed and Dangerous (Main Cliff Left),,,Sport,2900
+2015-05-21,Scene of the Crime,5.10a,https://www.mountainproject.com/route/105947723/scene-of-the-crime,1,New Hampshire > *Rumney > Armed and Dangerous (Main Cliff Left),,,Sport,2600
+2015-05-21,Green Mile,5.9,https://www.mountainproject.com/route/106009586/green-mile,1,New Hampshire > *Rumney > Armed and Dangerous (Main Cliff Left),,,Sport,2400
+2015-05-19,Know Ethics,5.11a,https://www.mountainproject.com/route/105877243/know-ethics,1,New Hampshire > *Rumney > The Main Cliff,,,Sport,4600
+2015-05-16,Oby-won Ryobi,5.9+,https://www.mountainproject.com/route/105906887/oby-won-ryobi,1,New Hampshire > *Rumney > Darth Vader,,,Sport,2500
+2015-05-16,Junco,5.8+,https://www.mountainproject.com/route/105876683/junco,1,New Hampshire > *Rumney > Jimmy Cliff,,,Sport,2200
+2015-05-14,Metamorphosis,5.8+,https://www.mountainproject.com/route/105959363/metamorphosis,1,New Hampshire > *Rumney > Armed and Dangerous (Main Cliff Left),,,Sport,2200
+2015-05-14,Teacher's Pet,5.7,https://www.mountainproject.com/route/105925169/teachers-pet,1,New Hampshire > *Rumney > Jimmy Cliff,,,Sport,1800
+2015-05-14,Gold Digger,5.8+,https://www.mountainproject.com/route/105927100/gold-digger,1,New Hampshire > *Rumney > The Main Cliff,,,Sport,2200
+2015-05-12,Lonesome Dove,5.10a,https://www.mountainproject.com/route/105879126/lonesome-dove,1,New Hampshire > *Rumney > Jimmy Cliff,,,Sport,2600
+2015-05-11,Scene of the Crime,5.10a,https://www.mountainproject.com/route/105947723/scene-of-the-crime,1,New Hampshire > *Rumney > Armed and Dangerous (Main Cliff Left),,,Sport,2600
+2015-05-09,Toxic Gumbo,5.8,https://www.mountainproject.com/route/106148885/toxic-gumbo,1,New Hampshire > *Rumney > Armed and Dangerous (Main Cliff Left),,,Sport,2100
+2015-05-02,"Armed and Dangerous, and Off My Medication",5.10b,https://www.mountainproject.com/route/105935097/armed-and-dangerous-and-off-my-medication,1,New Hampshire > *Rumney > Armed and Dangerous (Main Cliff Left),,,Sport,2900
+2015-03-15,The Eagle Has Landed,5.10c,https://www.mountainproject.com/route/108328512/the-eagle-has-landed,1,New York > Adirondacks > Old Forge Region > Eagle Falls,,,Sport,3200
+2015-03-15,Johnny Tsunami,5.10b,https://www.mountainproject.com/route/108211357/johnny-tsunami,1,New York > Adirondacks > Lake George Region > Shelving Rock > 4. The Big Wall,,,Sport,2900
+2015-03-15,Andrugen,V1,https://www.mountainproject.com/route/106402219/andrugen,1,New York > Adirondacks > Southern Mountains > Nine Corner Lake > Middle Earth > Lookout,,,Boulder,20100
+2015-03-15,Meat and Potatoes,V1+,https://www.mountainproject.com/route/106402239/meat-and-potatoes,1,New York > Adirondacks > Southern Mountains > Nine Corner Lake > Middle Earth > Fortress,,,Boulder,20110
+2015-03-14,Make  A Wish,5.10b,https://www.mountainproject.com/route/106081926/make-a-wish,1,Kentucky > Red River Gorge > (PMRP) Pendergrass-Murray Recreational Preserve > Drive-Bob Parking > Drive-By Crag,,,Sport,2900
+2015-03-14,Whip-Stocking,5.11a,https://www.mountainproject.com/route/106081917/whip-stocking,1,Kentucky > Red River Gorge > (PMRP) Pendergrass-Murray Recreational Preserve > Drive-Bob Parking > Drive-By Crag,,,Sport,4600
+2015-03-14,Fire and Brimstone,5.10d,https://www.mountainproject.com/route/106081931/fire-and-brimstone,1,Kentucky > Red River Gorge > (PMRP) Pendergrass-Murray Recreational Preserve > Drive-Bob Parking > Drive-By Crag,,,Sport,3500
+2015-03-14,Breakfast Burrito,5.10c/d,https://www.mountainproject.com/route/106081922/breakfast-burrito,1,Kentucky > Red River Gorge > (PMRP) Pendergrass-Murray Recreational Preserve > Drive-Bob Parking > Drive-By Crag,,,Sport,3400
+2015-03-14,Plate Tectonics,5.10a,https://www.mountainproject.com/route/106065471/plate-tectonics,1,Kentucky > Red River Gorge > Muir Valley > Tectonic Wall,,,Sport,2600
+2015-03-14,Gettin' Lucky in Kentucky,5.10b,https://www.mountainproject.com/route/106065461/gettin-lucky-in-kentucky,1,Kentucky > Red River Gorge > Muir Valley > Tectonic Wall,,,Sport,2900
+2015-03-14,Mancala,5.10a/b,https://www.mountainproject.com/route/106921324/mancala,1,Kentucky > Red River Gorge > Muir Valley > Johnny's Wall,,,Sport,2800
+2015-03-14,Bethel,5.10a,https://www.mountainproject.com/route/106614620/bethel,1,Kentucky > Red River Gorge > Muir Valley > Johnny's Wall,,,Sport,2600
+2015-03-14,"59"" DrillBitch",5.10a,https://www.mountainproject.com/route/106614611/59-drillbitch,1,Kentucky > Red River Gorge > Muir Valley > Johnny's Wall,,,Sport,2600
+2015-03-14,A-Beano,5.7+,https://www.mountainproject.com/route/106085035/a-beano,1,Kentucky > Red River Gorge > Muir Valley > Bruise Brothers Wall,,,Sport,1900
+2015-03-14,CH4,5.7,https://www.mountainproject.com/route/106130307/ch4,1,Kentucky > Red River Gorge > Muir Valley > Bruise Brothers Wall,,,Sport,1800
+2015-03-14,"Hey There, Fancy Pants",5.10c,https://www.mountainproject.com/route/106064500/hey-there-fancy-pants,1,Kentucky > Red River Gorge > Muir Valley > Bruise Brothers Wall,,,Sport,3200
+2015-03-14,Trundling Kentucky,5.8,https://www.mountainproject.com/route/107537571/trundling-kentucky,1,Kentucky > Red River Gorge > Muir Valley > Bruise Brothers Wall,,,Sport,2100
+2015-03-14,Autumn,5.9,https://www.mountainproject.com/route/105868022/autumn,1,Kentucky > Red River Gorge > Northern Gorge > Long Wall,,,Trad,2400
+2015-03-14,Mailbox,5.8+,https://www.mountainproject.com/route/105868688/mailbox,1,Kentucky > Red River Gorge > Northern Gorge > Long Wall,,,Trad,2200
+2015-03-14,Best Seat In The House,5.9,https://www.mountainproject.com/route/106068973/best-seat-in-the-house,1,Tennessee > Obed & Clear Creek > South Clear Creek > The Balcony,,,Sport,2400
+2015-03-14,Cheap Seats,5.10a,https://www.mountainproject.com/route/106954613/cheap-seats,1,Tennessee > Obed & Clear Creek > South Clear Creek > The Balcony,,,Sport,2600
+2015-03-14,It,5.10a,https://www.mountainproject.com/route/106099070/it,1,Tennessee > Obed & Clear Creek > South Clear Creek > Stephen King Library,,,Sport,2600
+2015-03-14,Spawn,5.10b/c,https://www.mountainproject.com/route/106111639/spawn,1,Tennessee > Obed & Clear Creek > South Clear Creek > Image Wall,,,Sport,3100
+2015-03-14,Double Feature,5.10c,https://www.mountainproject.com/route/106099092/double-feature,1,Tennessee > Obed & Clear Creek > South Clear Creek > The Balcony,,,Sport,3200
+2015-03-14,Pet Sematary,5.11a,https://www.mountainproject.com/route/106768073/pet-sematary,1,Tennessee > Obed & Clear Creek > South Clear Creek > Stephen King Library,,,Sport,4600
+2013-10-20,The Yellow Wallpaper,5.9,https://www.mountainproject.com/route/105912503/the-yellow-wallpaper,1,"New York > The Gunks > Peterskill > m. Crevice right, and Psycho Wall",,,"Trad, TR",2400
+2013-10-20,Black Wallpaper,5.9 PG13,https://www.mountainproject.com/route/105974657/black-wallpaper,1,"New York > The Gunks > Peterskill > m. Crevice right, and Psycho Wall",,,"Trad, TR",2400
+2013-10-20,Psycho Crack Right,5.8,https://www.mountainproject.com/route/105912513/psycho-crack-right,1,"New York > The Gunks > Peterskill > m. Crevice right, and Psycho Wall",,,"Trad, TR",2100
+2013-10-20,Psycho Crack Left,5.8 PG13,https://www.mountainproject.com/route/105912509/psycho-crack-left,1,"New York > The Gunks > Peterskill > m. Crevice right, and Psycho Wall",,,"Trad, TR",2100
+2013-10-20,A Portrait of the Artist as a Young Man,5.8+,https://www.mountainproject.com/route/105904804/a-portrait-of-the-artist-as-a-young-man,1,New York > The Gunks > Peterskill > i. Terror Dome,,,"Trad, TR",2200
+2013-10-20,Flying Buttman,5.8+,https://www.mountainproject.com/route/105910241/flying-buttman,1,New York > The Gunks > Peterskill > j. Scrotum Pole/Drive in Area,,,TR,2200
+2013-10-20,Bunk Arete,5.6,https://www.mountainproject.com/route/105897704/bunk-arete,1,New York > The Gunks > Peterskill > b. Bunkbed Wall,,,"Trad, TR",1600
+2013-10-20,PJ Party,5.7 R,https://www.mountainproject.com/route/105902062/pj-party,1,New York > The Gunks > Peterskill > b. Bunkbed Wall,,,"Trad, TR",1800
+2013-10-20,Pencil & Johnny's Arete,5.9 PG13,https://www.mountainproject.com/route/105910438/pencil-johnnys-arete,1,New York > The Gunks > Peterskill > k. Oops Wall,,,"Trad, TR",2400
+2013-10-20,Floops,5.10 PG13,https://www.mountainproject.com/route/105910456/floops,1,New York > The Gunks > Peterskill > k. Oops Wall,,,"Trad, TR",3000
+2013-10-20,Oops,5.10-,https://www.mountainproject.com/route/105910451/oops,1,New York > The Gunks > Peterskill > k. Oops Wall,,,"Trad, TR",2700
+2013-10-20,Summer School,5.8,https://www.mountainproject.com/route/105958335/summer-school,1,New York > The Gunks > Peterskill > q. Chalkboard Wall,,,TR,2100
+2013-10-20,Pop Quiz,5.8,https://www.mountainproject.com/route/105958354/pop-quiz,1,New York > The Gunks > Peterskill > q. Chalkboard Wall,,,"Trad, TR",2100
+2013-10-20,Dunce's Corner,5.8,https://www.mountainproject.com/route/105958360/dunces-corner,1,New York > The Gunks > Peterskill > q. Chalkboard Wall,,,"Trad, TR",2100
+2013-10-20,The Golden Dream (AKA Dihedraltryptamine),5.9,https://www.mountainproject.com/route/105899731/the-golden-dream-aka-dihedraltryptamine,1,New York > The Gunks > Peterskill > s. The Golden Wall,,,"Trad, TR",2400
+2013-10-20,Adsite Arete,5.4,https://www.mountainproject.com/route/107605402/adsite-arete,1,New York > Adirondacks > Old Forge Region > Eagle Falls,,,Trad,1400
+2013-10-20,Face of a Thousand Cracks,5.6,https://www.mountainproject.com/route/107605387/face-of-a-thousand-cracks,1,New York > Adirondacks > Old Forge Region > Eagle Falls,,,Trad,1600
+2013-10-20,Naked Truth,5.9,https://www.mountainproject.com/route/107540380/naked-truth,1,New York > Adirondacks > Old Forge Region > Eagle Falls,,,"Trad, TR",2400
+2013-10-20,Dobsonfly,5.7,https://www.mountainproject.com/route/107776651/dobsonfly,1,New York > Adirondacks > Old Forge Region > Eagle Falls,,,Trad,1800
+2013-10-20,Stihl Water,5.9+,https://www.mountainproject.com/route/107653060/stihl-water,1,New York > Adirondacks > Old Forge Region > Eagle Falls,,,Trad,2500
+2013-10-20,Red Book,5.8,https://www.mountainproject.com/route/107776637/red-book,1,New York > Adirondacks > Old Forge Region > Eagle Falls,,,Trad,2100
+2013-10-20,Seventeen,5.7+,https://www.mountainproject.com/route/107776676/seventeen,1,New York > Adirondacks > Old Forge Region > Eagle Falls,,,Trad,1900
+2011-11-11,Mosquito,5.8,https://www.mountainproject.com/route/105842817/mosquito,1,International > North America > Canada > British Columbia > Squamish > The Smoke Bluffs > Wall Area,,,Trad,2100
+2011-11-08,Small is Beautiful,5.8-,https://www.mountainproject.com/route/105962584/small-is-beautiful,1,International > North America > Canada > British Columbia > Sea to Sky (Squamish to Whistler) > Cheakamus Canyon > Chek > Conroy's Castle,,,Sport,2000
+2011-08-16,Creeping Right,5.10d,https://www.mountainproject.com/route/107775351/creeping-right,1,International > North America > Canada > British Columbia > Sea to Sky (Squamish to Whistler) > Cheakamus Canyon > Chek > Forgotten Wall,,,Sport,3500
+2011-08-16,Clear Cut,5.10a,https://www.mountainproject.com/route/105960659/clear-cut,1,International > North America > Canada > British Columbia > Sea to Sky (Squamish to Whistler) > Cheakamus Canyon > Chek > Conroy's Castle,,,Sport,2600
+2011-08-13,High Mountain Woody,5.8+,https://www.mountainproject.com/route/105934194/high-mountain-woody,1,International > North America > Canada > British Columbia > Squamish > The Malamute > Starr Wall,,,Trad,2200
+2011-08-11,Exasperator,5.10c,https://www.mountainproject.com/route/105806955/exasperator,2,International > North America > Canada > British Columbia > Squamish > Stawamus Chief > Grand Wall Base Area,,,Trad,3200
+2011-08-11,Phlegmish Dance,5.8,https://www.mountainproject.com/route/105857546/phlegmish-dance,1,International > North America > Canada > British Columbia > Squamish > The Smoke Bluffs > Wall Area,,,Trad,2100
+2011-08-11,Godzilla,5.9,https://www.mountainproject.com/route/105790717/godzilla,1,Washington > Central-West Cascades & Seattle > Skykomish Valley > Index > Lower Town Wall > Dwarf Tossing to Narrow Arrow,,,Trad,2400
+2011-08-11,Heart of the Country,5.11b,https://www.mountainproject.com/route/106150810/heart-of-the-country,3,Washington > Central-West Cascades & Seattle > Skykomish Valley > Index > The Country Area > The Country,,,Trad,4900
+2011-08-11,GM Route,5.9,https://www.mountainproject.com/route/105790678/gm-route,3,Washington > Central-West Cascades & Seattle > Skykomish Valley > Index > The Country Area > The Country,,,Trad,2400
+2011-08-11,Penny Lane,5.9,https://www.mountainproject.com/route/105842825/penny-lane,1,International > North America > Canada > British Columbia > Squamish > The Smoke Bluffs > Penny Lane,,,Trad,2400
+2011-08-11,Sphinx'ter Quits,5.8,https://www.mountainproject.com/route/105910942/sphinxter-quits,1,International > North America > Canada > British Columbia > Squamish > The Smoke Bluffs > Wall Area,,,"Trad, Sport",2100

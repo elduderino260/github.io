@@ -1,0 +1,9450 @@
+{
+"source":"Crimpd export",
+"updated":"2026-11-24",
+"unit":"lb added",
+"sessions":[
+{
+"date":"2019-07-15",
+"name":"Finger Strength Test",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":17,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":8,
+"reps":8,
+"work":7,
+"load":35.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2019-07-16",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":20.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2019-07-16",
+"name":"Static Holds - B",
+"type":"Conditioning & Mobility",
+"target":"Core",
+"min":12,
+"ex":[
+{
+"n":"Plank",
+"sets":4,
+"reps":4,
+"work":30
+},
+{
+"n":"Side Plank",
+"sets":2,
+"reps":4,
+"work":60
+},
+{
+"n":"Hollow Body Hold",
+"sets":4,
+"reps":4,
+"work":30
+}
+]
+},
+{
+"date":"2019-07-16",
+"name":"Extended Core - B",
+"type":"Conditioning & Mobility",
+"target":"Core",
+"min":22,
+"ex":[
+{
+"n":"Hanging Leg Raises",
+"sets":3,
+"reps":30,
+"work":30
+},
+{
+"n":"Jack Knives",
+"sets":3,
+"reps":30,
+"work":30
+},
+{
+"n":"Dish Tuck",
+"sets":3,
+"reps":30,
+"work":30
+}
+]
+},
+{
+"date":"2019-07-16",
+"name":"Floor Core - B",
+"type":"Conditioning & Mobility",
+"target":"Core",
+"min":16,
+"ex":[
+{
+"n":"Twisting Crunch",
+"sets":3,
+"reps":45,
+"work":45
+},
+{
+"n":"Dish Tuck",
+"sets":3,
+"reps":45,
+"work":45
+},
+{
+"n":"Superman (Floor)",
+"sets":3,
+"reps":45,
+"work":45
+}
+]
+},
+{
+"date":"2019-07-16",
+"name":"Static Holds - B",
+"type":"Conditioning & Mobility",
+"target":"Core",
+"min":12,
+"ex":[
+{
+"n":"Plank",
+"sets":4,
+"reps":4,
+"work":30
+},
+{
+"n":"Side Plank",
+"sets":2,
+"reps":4,
+"work":60
+},
+{
+"n":"Hollow Body Hold",
+"sets":4,
+"reps":4,
+"work":30
+}
+]
+},
+{
+"date":"2019-07-16",
+"name":"Extended Core - B",
+"type":"Conditioning & Mobility",
+"target":"Core",
+"min":22,
+"ex":[
+{
+"n":"Hanging Leg Raises",
+"sets":3,
+"reps":30,
+"work":30
+},
+{
+"n":"Jack Knives",
+"sets":3,
+"reps":30,
+"work":30
+},
+{
+"n":"Dish Tuck",
+"sets":3,
+"reps":30,
+"work":30
+}
+]
+},
+{
+"date":"2019-07-18",
+"name":"On the Minute - B",
+"type":"Conditioning & Mobility",
+"target":"Upper Body",
+"min":6,
+"ex":[
+{
+"n":"Pull-up",
+"sets":5,
+"reps":25,
+"work":15,
+"load":0.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2019-07-18",
+"name":"On the Minute - B",
+"type":"Conditioning & Mobility",
+"target":"Upper Body",
+"min":6,
+"ex":[
+{
+"n":"Pull-up",
+"sets":5,
+"reps":25,
+"work":15,
+"load":0.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2019-07-18",
+"name":"On the Minute - B",
+"type":"Conditioning & Mobility",
+"target":"Upper Body",
+"min":6,
+"ex":[
+{
+"n":"Pull-up",
+"sets":5,
+"reps":25,
+"work":15,
+"load":0.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2019-07-30",
+"name":"Extended Core - B",
+"type":"Conditioning & Mobility",
+"target":"Core",
+"min":22,
+"ex":[
+{
+"n":"Hanging Leg Raises",
+"sets":3,
+"reps":30,
+"work":30
+},
+{
+"n":"Jack Knives",
+"sets":3,
+"reps":30,
+"work":30
+},
+{
+"n":"Dish Tuck",
+"sets":3,
+"reps":30,
+"work":30
+}
+]
+},
+{
+"date":"2019-07-30",
+"name":"Static Holds - B",
+"type":"Conditioning & Mobility",
+"target":"Core",
+"min":12,
+"ex":[
+{
+"n":"Plank",
+"sets":4,
+"reps":4,
+"work":30
+},
+{
+"n":"Side Plank",
+"sets":2,
+"reps":4,
+"work":60
+},
+{
+"n":"Hollow Body Hold",
+"sets":4,
+"reps":4,
+"work":30
+}
+]
+},
+{
+"date":"2019-08-01",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":20.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2019-08-07",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":10,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":4,
+"reps":4,
+"work":10,
+"load":20.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2019-08-12",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":15.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2019-09-02",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":10,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":4,
+"reps":4,
+"work":10
+}
+]
+},
+{
+"date":"2019-09-04",
+"name":"Drop Intervals",
+"type":"Endurance",
+"target":"Aerobic Capacity",
+"min":30,
+"ex":[
+{
+"n":"Bouldering",
+"sets":6,
+"reps":36,
+"work":180,
+"vmax":3,
+"sends":6
+}
+]
+},
+{
+"date":"2019-09-04",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":12,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":63
+}
+]
+},
+{
+"date":"2019-09-13",
+"name":"Drop Intervals",
+"type":"Endurance",
+"target":"Aerobic Capacity",
+"min":22,
+"ex":[
+{
+"n":"Bouldering",
+"sets":4,
+"reps":24,
+"work":180,
+"vmax":0,
+"sends":4
+}
+]
+},
+{
+"date":"2019-09-13",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":10.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2019-09-13",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":14,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":77
+}
+]
+},
+{
+"date":"2019-09-16",
+"name":"Boulder Intervals",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":40,
+"ex":[
+{
+"n":"Bouldering",
+"sets":1,
+"reps":20,
+"work":600,
+"vmax":3,
+"sends":1
+}
+]
+},
+{
+"date":"2019-09-16",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":17.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2019-09-16",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":7,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":51
+}
+]
+},
+{
+"date":"2019-09-23",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":17.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2019-09-23",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":17,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":89
+}
+]
+},
+{
+"date":"2019-09-23",
+"name":"7:3s 70%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":24,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":36,
+"work":42,
+"load":-20.0,
+"loadReps":6
+}
+]
+},
+{
+"date":"2019-09-25",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":17.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2019-09-25",
+"name":"7:3s 70%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":24,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":36,
+"work":42,
+"load":-20.0,
+"loadReps":6
+}
+]
+},
+{
+"date":"2019-09-25",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":14,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":74
+}
+]
+},
+{
+"date":"2019-09-30",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":20.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2019-09-30",
+"name":"7:3s 70%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":24,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":36,
+"work":42,
+"load":-17.5,
+"loadReps":6
+}
+]
+},
+{
+"date":"2019-09-30",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":20,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":106
+}
+]
+},
+{
+"date":"2019-10-06",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":10,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":4,
+"reps":4,
+"work":10,
+"load":22.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2019-10-06",
+"name":"7:3s 70%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":18,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":4,
+"reps":24,
+"work":42,
+"load":-17.5,
+"loadReps":6
+}
+]
+},
+{
+"date":"2019-10-06",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":19,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":96
+}
+]
+},
+{
+"date":"2019-10-18",
+"name":"7:3s 70%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":24,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":36,
+"work":42,
+"load":-17.5,
+"loadReps":6
+}
+]
+},
+{
+"date":"2019-10-21",
+"name":"Boulder Intervals",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":40,
+"ex":[
+{
+"n":"Bouldering",
+"sets":1,
+"reps":20,
+"work":600,
+"vmax":3,
+"sends":1
+}
+]
+},
+{
+"date":"2019-10-21",
+"name":"7:3s 70%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":18,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":4,
+"reps":24,
+"work":42,
+"load":-15.0,
+"loadReps":6
+}
+]
+},
+{
+"date":"2019-10-24",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":22.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2019-11-10",
+"name":"7:3s 70%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":24,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":36,
+"work":42,
+"load":-15.0,
+"loadReps":6
+}
+]
+},
+{
+"date":"2019-11-10",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":25.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2020-02-03",
+"name":"1 On 1 Off",
+"type":"Endurance",
+"target":"Aerobic Capacity",
+"min":19,
+"ex":[
+{
+"n":"Route Climbing",
+"sets":1,
+"reps":10,
+"work":600
+}
+]
+},
+{
+"date":"2020-02-03",
+"name":"Continuity 5x3",
+"type":"Endurance",
+"target":"Regeneration",
+"min":24,
+"ex":[
+{
+"n":"Route Climbing",
+"sets":3,
+"reps":3,
+"work":300
+}
+]
+},
+{
+"date":"2020-02-03",
+"name":"7:3s 50%",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":36,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":72,
+"work":84,
+"load":-50.0,
+"loadReps":12
+}
+]
+},
+{
+"date":"2020-02-04",
+"name":"Boulder Intervals",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":20,
+"ex":[
+{
+"n":"Bouldering",
+"sets":1,
+"reps":20,
+"work":600,
+"vmax":3,
+"sends":1
+}
+]
+},
+{
+"date":"2020-02-04",
+"name":"7:3s 40%",
+"type":"Endurance",
+"target":"Aerobic Capacity",
+"min":20,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":10,
+"reps":60,
+"work":42,
+"load":-67.5,
+"loadReps":6
+}
+]
+},
+{
+"date":"2020-02-14",
+"name":"Boulder Intervals",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":20,
+"ex":[
+{
+"n":"Bouldering",
+"sets":1,
+"reps":20,
+"work":600
+}
+]
+},
+{
+"date":"2020-02-14",
+"name":"1 On 1 Off",
+"type":"Endurance",
+"target":"Aerobic Capacity",
+"min":19,
+"ex":[
+{
+"n":"Route Climbing",
+"sets":1,
+"reps":10,
+"work":600
+}
+]
+},
+{
+"date":"2020-02-23",
+"name":"Boulder Intervals",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":20,
+"ex":[
+{
+"n":"Bouldering",
+"sets":1,
+"reps":20,
+"work":600,
+"vmax":4,
+"sends":1
+}
+]
+},
+{
+"date":"2020-02-23",
+"name":"1 On 1 Off",
+"type":"Endurance",
+"target":"Aerobic Capacity",
+"min":19,
+"ex":[
+{
+"n":"Route Climbing",
+"sets":1,
+"reps":10,
+"work":600
+}
+]
+},
+{
+"date":"2020-04-09",
+"name":"Small Edges 6-8mm",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 6-8mm Edge",
+"sets":6,
+"reps":6,
+"work":7,
+"load":0.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2020-04-09",
+"name":"Small Edges 10-13mm",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 10-13mm Edge",
+"sets":6,
+"reps":6,
+"work":7,
+"load":0.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2020-04-09",
+"name":"7:3s 80%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":23,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":30,
+"work":35,
+"load":0.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2020-04-12",
+"name":"7:3s 80%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":23,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":30,
+"work":35,
+"load":0.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2020-04-12",
+"name":"Small Edges 6-8mm",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 6-8mm Edge",
+"sets":6,
+"reps":6,
+"work":7,
+"load":0.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2020-04-12",
+"name":"Compression - B",
+"type":"Conditioning & Mobility",
+"target":"Upper Body",
+"min":26,
+"ex":[
+{
+"n":"Prone T",
+"sets":4,
+"reps":16,
+"work":12
+},
+{
+"n":"Prone Y",
+"sets":4,
+"reps":16,
+"work":12
+},
+{
+"n":"Low Row",
+"sets":4,
+"reps":16,
+"work":12
+}
+]
+},
+{
+"date":"2020-04-23",
+"name":"Small Edges 6-8mm",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 6-8mm Edge",
+"sets":6,
+"reps":6,
+"work":7,
+"load":0.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2020-04-23",
+"name":"Pinch Block Max 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":14,
+"ex":[
+{
+"n":"Pinch Block",
+"sets":6,
+"reps":12,
+"work":20,
+"load":19.0,
+"loadReps":2
+}
+]
+},
+{
+"date":"2020-04-27",
+"name":"7:3s 70%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":24,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":36,
+"work":42,
+"load":-7.0,
+"loadReps":6
+}
+]
+},
+{
+"date":"2020-05-01",
+"name":"Small Edges 6-8mm",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 6-8mm Edge",
+"sets":6,
+"reps":6,
+"work":7,
+"load":0.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2020-05-04",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":23.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2020-05-11",
+"name":"Small Edges 6-8mm",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 6-8mm Edge",
+"sets":6,
+"reps":6,
+"work":7,
+"load":2.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2020-05-14",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":17.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2020-05-17",
+"name":"7:3s 70%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":24,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":36,
+"work":42,
+"load":-5.0,
+"loadReps":6
+}
+]
+},
+{
+"date":"2020-05-22",
+"name":"Small Edges 6-8mm",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 6-8mm Edge",
+"sets":6,
+"reps":6,
+"work":7,
+"load":3.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2020-05-22",
+"name":"Pinch Block Max 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":14,
+"ex":[
+{
+"n":"Pinch Block",
+"sets":6,
+"reps":12,
+"work":20,
+"load":20.0,
+"loadReps":2
+}
+]
+},
+{
+"date":"2020-05-24",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":25.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2020-05-29",
+"name":"7:3s 70%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":24,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":36,
+"work":42,
+"load":-5.0,
+"loadReps":6
+}
+]
+},
+{
+"date":"2020-06-08",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":27.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2020-06-15",
+"name":"Small Edges 6-8mm",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 6-8mm Edge",
+"sets":6,
+"reps":6,
+"work":7,
+"load":10.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2020-06-15",
+"name":"Pinch Block Max 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":14,
+"ex":[
+{
+"n":"Pinch Block",
+"sets":6,
+"reps":12,
+"work":20,
+"load":26.0,
+"loadReps":2
+}
+]
+},
+{
+"date":"2020-06-19",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":27.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2020-06-21",
+"name":"7:3s 70%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":24,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":36,
+"work":42,
+"load":-2.5,
+"loadReps":6
+}
+]
+},
+{
+"date":"2020-07-03",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":27.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2020-07-25",
+"name":"7:3s 70%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":24,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":36,
+"work":42,
+"load":-3.0,
+"loadReps":6
+}
+]
+},
+{
+"date":"2020-08-07",
+"name":"Small Edges 6-8mm",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 6-8mm Edge",
+"sets":6,
+"reps":6,
+"work":7,
+"load":0.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2020-08-07",
+"name":"Pinch Block Max 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":14,
+"ex":[
+{
+"n":"Pinch Block",
+"sets":6,
+"reps":12,
+"work":20,
+"load":0.0,
+"loadReps":2
+}
+]
+},
+{
+"date":"2020-09-10",
+"name":"Small Edges 10-13mm",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 10-13mm Edge",
+"sets":6,
+"reps":6,
+"work":7,
+"load":0.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2020-09-10",
+"name":"Pinch Block Max 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":14,
+"ex":[
+{
+"n":"Pinch Block",
+"sets":6,
+"reps":12,
+"work":20,
+"load":0.0,
+"loadReps":2
+}
+]
+},
+{
+"date":"2020-09-16",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":20.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2021-02-22",
+"name":"Finger Strength Test",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":17,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":8,
+"reps":8,
+"work":7,
+"load":30.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2021-02-22",
+"name":"Pinch Strength Test",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":22,
+"ex":[
+{
+"n":"Pinch Block",
+"sets":8,
+"reps":16,
+"work":14,
+"load":22.5,
+"loadReps":2
+}
+]
+},
+{
+"date":"2021-02-24",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":10,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":4,
+"reps":4,
+"work":10,
+"load":10.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2021-02-24",
+"name":"Pinch Block Max 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":14,
+"ex":[
+{
+"n":"Pinch Block",
+"sets":6,
+"reps":12,
+"work":20,
+"load":7.5,
+"loadReps":2
+}
+]
+},
+{
+"date":"2021-02-26",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":10,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":4,
+"reps":4,
+"work":10,
+"load":7.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2021-02-26",
+"name":"Pinch Block Max 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":14,
+"ex":[
+{
+"n":"Pinch Block",
+"sets":6,
+"reps":12,
+"work":20,
+"load":10.0,
+"loadReps":2
+}
+]
+},
+{
+"date":"2021-03-02",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":5.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2021-03-02",
+"name":"Pinch Block Max 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":14,
+"ex":[
+{
+"n":"Pinch Block",
+"sets":6,
+"reps":12,
+"work":20,
+"load":12.5,
+"loadReps":2
+}
+]
+},
+{
+"date":"2021-03-06",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":2.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2021-03-06",
+"name":"Pinch Block Max 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":14,
+"ex":[
+{
+"n":"Pinch Block",
+"sets":6,
+"reps":12,
+"work":20,
+"load":15.0,
+"loadReps":2
+}
+]
+},
+{
+"date":"2021-03-09",
+"name":"Pinch Block Max 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":14,
+"ex":[
+{
+"n":"Pinch Block",
+"sets":6,
+"reps":12,
+"work":20,
+"load":17.5,
+"loadReps":2
+}
+]
+},
+{
+"date":"2021-03-10",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":0.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2021-03-12",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":0.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2021-03-12",
+"name":"Pinch Block Max 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":14,
+"ex":[
+{
+"n":"Pinch Block",
+"sets":6,
+"reps":12,
+"work":20,
+"load":20.0,
+"loadReps":2
+}
+]
+},
+{
+"date":"2021-03-15",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":2.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2021-03-17",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":2.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2021-03-22",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":2.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2021-03-25",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":5.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2021-03-29",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":7.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2021-04-05",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":7.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2021-04-05",
+"name":"Pinch Block Max 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":14,
+"ex":[
+{
+"n":"Pinch Block",
+"sets":6,
+"reps":12,
+"work":20,
+"load":22.5,
+"loadReps":2
+}
+]
+},
+{
+"date":"2021-04-09",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":10.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2021-04-09",
+"name":"Pinch Block Max 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":14,
+"ex":[
+{
+"n":"Pinch Block",
+"sets":6,
+"reps":12,
+"work":20,
+"load":22.5,
+"loadReps":2
+}
+]
+},
+{
+"date":"2021-04-14",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":10.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2021-04-18",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":12.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2021-04-18",
+"name":"Pinch Block Max 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":10,
+"ex":[
+{
+"n":"Pinch Block",
+"sets":4,
+"reps":8,
+"work":20,
+"load":22.5,
+"loadReps":2
+}
+]
+},
+{
+"date":"2021-04-21",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":12.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2021-04-21",
+"name":"Pinch Block Max 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":14,
+"ex":[
+{
+"n":"Pinch Block",
+"sets":6,
+"reps":12,
+"work":20,
+"load":22.5,
+"loadReps":2
+}
+]
+},
+{
+"date":"2021-04-26",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":15.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2021-04-26",
+"name":"Pinch Block Max 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":14,
+"ex":[
+{
+"n":"Pinch Block",
+"sets":6,
+"reps":12,
+"work":20,
+"load":22.5,
+"loadReps":2
+}
+]
+},
+{
+"date":"2021-05-17",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":15.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2021-05-17",
+"name":"Pinch Block Max 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":14,
+"ex":[
+{
+"n":"Pinch Block",
+"sets":6,
+"reps":12,
+"work":20,
+"load":22.0,
+"loadReps":2
+}
+]
+},
+{
+"date":"2021-05-22",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":17.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2021-05-25",
+"name":"Pinch Block Max 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":14,
+"ex":[
+{
+"n":"Pinch Block",
+"sets":6,
+"reps":12,
+"work":20,
+"load":23.0,
+"loadReps":2
+}
+]
+},
+{
+"date":"2021-05-25",
+"name":"Pinch Block Max 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":14,
+"ex":[
+{
+"n":"Pinch Block",
+"sets":6,
+"reps":12,
+"work":20,
+"load":23.0,
+"loadReps":2
+}
+]
+},
+{
+"date":"2021-05-25",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":18.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2021-05-25",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":18.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2021-05-25",
+"name":"Pinch Block Max 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":14,
+"ex":[
+{
+"n":"Pinch Block",
+"sets":6,
+"reps":12,
+"work":20,
+"load":23.0,
+"loadReps":2
+}
+]
+},
+{
+"date":"2021-05-30",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":23.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2021-06-04",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":15.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2021-06-21",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":17.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2021-06-21",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":10,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":47
+}
+]
+},
+{
+"date":"2021-07-06",
+"name":"1 On 1 Off",
+"type":"Endurance",
+"target":"Aerobic Capacity",
+"min":19,
+"ex":[
+{
+"n":"Route Climbing",
+"sets":1,
+"reps":10,
+"work":600
+}
+]
+},
+{
+"date":"2021-07-06",
+"name":"Continuity 5x3",
+"type":"Endurance",
+"target":"Regeneration",
+"min":24,
+"ex":[
+{
+"n":"Route Climbing",
+"sets":3,
+"reps":3,
+"work":300
+}
+]
+},
+{
+"date":"2021-07-14",
+"name":"Boulder Triples",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":39,
+"ex":[
+{
+"n":"Bouldering",
+"sets":6,
+"reps":18,
+"work":90
+}
+]
+},
+{
+"date":"2021-08-23",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":17.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2021-08-23",
+"name":"7:3s 80%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":23,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":30,
+"work":35,
+"load":-2.5,
+"loadReps":5
+}
+]
+},
+{
+"date":"2021-08-23",
+"name":"On the Minute - B",
+"type":"Conditioning & Mobility",
+"target":"Upper Body",
+"min":6,
+"ex":[
+{
+"n":"Pull-up",
+"sets":5,
+"reps":25,
+"work":15,
+"load":0.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2021-08-23",
+"name":"On the Minute - B",
+"type":"Conditioning & Mobility",
+"target":"Upper Body",
+"min":6,
+"ex":[
+{
+"n":"Pull-up",
+"sets":5,
+"reps":25,
+"work":15,
+"load":2.5,
+"loadReps":5
+}
+]
+},
+{
+"date":"2021-08-23",
+"name":"Bar Core - A",
+"type":"Conditioning & Mobility",
+"target":"Core",
+"min":14,
+"ex":[
+{
+"n":"Hanging Knee Raises",
+"sets":3,
+"reps":30,
+"work":10
+},
+{
+"n":"Bent Leg Window Wipers",
+"sets":1,
+"reps":10,
+"work":10
+}
+]
+},
+{
+"date":"2021-08-23",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":8,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":27
+}
+]
+},
+{
+"date":"2021-09-01",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":20.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2021-09-01",
+"name":"7:3s 80%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":23,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":30,
+"work":35,
+"load":-10.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2021-09-01",
+"name":"On the Minute - B",
+"type":"Conditioning & Mobility",
+"target":"Upper Body",
+"min":6,
+"ex":[
+{
+"n":"Pull-up",
+"sets":5,
+"reps":25,
+"work":15,
+"load":5.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2021-09-01",
+"name":"On the Minute - B",
+"type":"Conditioning & Mobility",
+"target":"Upper Body",
+"min":6,
+"ex":[
+{
+"n":"Pull-up",
+"sets":5,
+"reps":25,
+"work":15,
+"load":2.5,
+"loadReps":5
+}
+]
+},
+{
+"date":"2021-09-01",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":7,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":34
+}
+]
+},
+{
+"date":"2021-09-08",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":20.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2021-09-08",
+"name":"7:3s 70%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":24,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":36,
+"work":42,
+"load":-13.0,
+"loadReps":6
+}
+]
+},
+{
+"date":"2021-09-08",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":8,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":40
+}
+]
+},
+{
+"date":"2021-09-08",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":9,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":49
+}
+]
+},
+{
+"date":"2021-09-08",
+"name":"On the Minute - B",
+"type":"Conditioning & Mobility",
+"target":"Upper Body",
+"min":6,
+"ex":[
+{
+"n":"Pull-up",
+"sets":5,
+"reps":25,
+"work":15,
+"load":0.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2021-09-22",
+"name":"7:3s 70%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":24,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":36,
+"work":42,
+"load":-15.0,
+"loadReps":6
+}
+]
+},
+{
+"date":"2021-09-22",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":10,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":48
+}
+]
+},
+{
+"date":"2021-09-23",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":20.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2021-09-23",
+"name":"On the Minute - B",
+"type":"Conditioning & Mobility",
+"target":"Upper Body",
+"min":6,
+"ex":[
+{
+"n":"Pull-up",
+"sets":5,
+"reps":25,
+"work":15,
+"load":5.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2021-09-23",
+"name":"On the Minute - B",
+"type":"Conditioning & Mobility",
+"target":"Upper Body",
+"min":6,
+"ex":[
+{
+"n":"Pull-up",
+"sets":5,
+"reps":25,
+"work":15,
+"load":7.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2021-09-23",
+"name":"Bar Core - A",
+"type":"Conditioning & Mobility",
+"target":"Core",
+"min":19,
+"ex":[
+{
+"n":"Hanging Knee Raises",
+"sets":3,
+"reps":30,
+"work":10
+},
+{
+"n":"Bent Leg Window Wipers",
+"sets":3,
+"reps":30,
+"work":10
+}
+]
+},
+{
+"date":"2021-10-01",
+"name":"On the Minute - B",
+"type":"Conditioning & Mobility",
+"target":"Upper Body",
+"min":6,
+"ex":[
+{
+"n":"Pull-up",
+"sets":5,
+"reps":25,
+"work":15,
+"load":10.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2021-10-01",
+"name":"On the Minute - B",
+"type":"Conditioning & Mobility",
+"target":"Upper Body",
+"min":6,
+"ex":[
+{
+"n":"Pull-up",
+"sets":5,
+"reps":25,
+"work":15,
+"load":7.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2021-10-01",
+"name":"Bar Core - A",
+"type":"Conditioning & Mobility",
+"target":"Core",
+"min":19,
+"ex":[
+{
+"n":"Hanging Knee Raises",
+"sets":3,
+"reps":30,
+"work":10
+},
+{
+"n":"Bent Leg Window Wipers",
+"sets":3,
+"reps":30,
+"work":10
+}
+]
+},
+{
+"date":"2021-10-02",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":20.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2021-10-02",
+"name":"7:3s 80%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":23,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":30,
+"work":35,
+"load":-15.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2021-10-02",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":7,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":32
+}
+]
+},
+{
+"date":"2021-10-15",
+"name":"On the Minute - B",
+"type":"Conditioning & Mobility",
+"target":"Upper Body",
+"min":6,
+"ex":[
+{
+"n":"Pull-up",
+"sets":5,
+"reps":25,
+"work":15,
+"load":12.5,
+"loadReps":5
+}
+]
+},
+{
+"date":"2021-10-15",
+"name":"On the Minute - B",
+"type":"Conditioning & Mobility",
+"target":"Upper Body",
+"min":6,
+"ex":[
+{
+"n":"Pull-up",
+"sets":5,
+"reps":25,
+"work":15,
+"load":7.5,
+"loadReps":5
+}
+]
+},
+{
+"date":"2021-10-15",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":22.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2021-10-15",
+"name":"Small Edges - 8mm - A",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":8,
+"ex":[
+{
+"n":"Dead Hang: 8mm Edge",
+"sets":4,
+"reps":4,
+"work":5,
+"load":-12.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2021-10-16",
+"name":"7:3s 80%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":23,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":30,
+"work":35,
+"load":-12.5,
+"loadReps":5
+}
+]
+},
+{
+"date":"2021-10-16",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":11,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":44
+}
+]
+},
+{
+"date":"2021-11-10",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":25.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2021-11-10",
+"name":"7:3s 80%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":23,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":30,
+"work":35,
+"load":-12.5,
+"loadReps":5
+}
+]
+},
+{
+"date":"2021-11-10",
+"name":"Small Edges - 8mm - A",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":8,
+"ex":[
+{
+"n":"Dead Hang: 8mm Edge",
+"sets":4,
+"reps":4,
+"work":5,
+"load":0.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2021-11-10",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":6,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":32
+}
+]
+},
+{
+"date":"2021-11-10",
+"name":"On the Minute - B",
+"type":"Conditioning & Mobility",
+"target":"Upper Body",
+"min":6,
+"ex":[
+{
+"n":"Pull-up",
+"sets":5,
+"reps":25,
+"work":15,
+"load":2.5,
+"loadReps":5
+}
+]
+},
+{
+"date":"2021-11-10",
+"name":"On the Minute - B",
+"type":"Conditioning & Mobility",
+"target":"Upper Body",
+"min":6,
+"ex":[
+{
+"n":"Pull-up",
+"sets":5,
+"reps":25,
+"work":15,
+"load":5.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2021-11-17",
+"name":"7:3s 80%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":23,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":30,
+"work":35,
+"load":-12.5,
+"loadReps":5
+}
+]
+},
+{
+"date":"2021-12-13",
+"name":"7:3s 80%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":23,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":30,
+"work":35,
+"load":-12.5,
+"loadReps":5
+}
+]
+},
+{
+"date":"2021-12-13",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":25.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2021-12-13",
+"name":"Small Edges - 8mm - A",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":8,
+"ex":[
+{
+"n":"Dead Hang: 8mm Edge",
+"sets":4,
+"reps":4,
+"work":5,
+"load":-10.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2021-12-14",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":9,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":40
+}
+]
+},
+{
+"date":"2022-01-05",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":25.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2022-01-05",
+"name":"Small Edges - 8mm - A",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":8,
+"ex":[
+{
+"n":"Dead Hang: 8mm Edge",
+"sets":4,
+"reps":4,
+"work":5,
+"load":-7.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2022-01-05",
+"name":"7:3s 80%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":23,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":30,
+"work":35,
+"load":-10.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2022-01-05",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":8,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":40
+}
+]
+},
+{
+"date":"2022-01-11",
+"name":"On the Minute - B",
+"type":"Conditioning & Mobility",
+"target":"Upper Body",
+"min":6,
+"ex":[
+{
+"n":"Pull-up",
+"sets":5,
+"reps":25,
+"work":15,
+"load":7.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2022-01-11",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":25.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2022-01-11",
+"name":"7:3s 80%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":23,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":30,
+"work":35,
+"load":-10.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2022-01-11",
+"name":"Small Edges - 8mm - A",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":8,
+"ex":[
+{
+"n":"Dead Hang: 8mm Edge",
+"sets":4,
+"reps":4,
+"work":5,
+"load":-5.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2022-01-11",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":9,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":45
+}
+]
+},
+{
+"date":"2022-01-19",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":25.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2022-01-19",
+"name":"7:3s 80%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":23,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":30,
+"work":35,
+"load":-10.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2022-01-19",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":8,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":40
+}
+]
+},
+{
+"date":"2022-01-25",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":22.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2022-01-25",
+"name":"7:3s 80%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":23,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":30,
+"work":35,
+"load":7.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2022-01-25",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":10,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":48
+}
+]
+},
+{
+"date":"2022-01-25",
+"name":"Small Edges - 8mm - A",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":8,
+"ex":[
+{
+"n":"Dead Hang: 8mm Edge",
+"sets":4,
+"reps":4,
+"work":5,
+"load":-5.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2022-01-31",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":25.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2022-01-31",
+"name":"7:3s 80%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":23,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":30,
+"work":35,
+"load":-7.5,
+"loadReps":5
+}
+]
+},
+{
+"date":"2022-01-31",
+"name":"Small Edges - 8mm - A",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":8,
+"ex":[
+{
+"n":"Dead Hang: 8mm Edge",
+"sets":4,
+"reps":4,
+"work":5,
+"load":-2.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2022-01-31",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":8,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":42
+}
+]
+},
+{
+"date":"2022-01-31",
+"name":"On the Minute - B",
+"type":"Conditioning & Mobility",
+"target":"Upper Body",
+"min":6,
+"ex":[
+{
+"n":"Pull-up",
+"sets":5,
+"reps":25,
+"work":15,
+"load":0.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2022-02-09",
+"name":"7:3s 80%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":23,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":30,
+"work":35,
+"load":-5.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2022-02-09",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":25.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2022-02-09",
+"name":"On the Minute - B",
+"type":"Conditioning & Mobility",
+"target":"Upper Body",
+"min":6,
+"ex":[
+{
+"n":"Pull-up",
+"sets":5,
+"reps":25,
+"work":15,
+"load":0.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2022-02-10",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":10,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":48
+}
+]
+},
+{
+"date":"2022-02-17",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":25.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2022-02-17",
+"name":"7:3s 80%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":23,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":30,
+"work":35,
+"load":-5.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2022-02-17",
+"name":"Small Edges - 8mm - A",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":8,
+"ex":[
+{
+"n":"Dead Hang: 8mm Edge",
+"sets":4,
+"reps":4,
+"work":5,
+"load":0.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2022-02-17",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":10,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":37
+}
+]
+},
+{
+"date":"2022-02-21",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":27.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2022-02-21",
+"name":"7:3s 80%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":23,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":30,
+"work":35,
+"load":-5.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2022-02-21",
+"name":"On the Minute - B",
+"type":"Conditioning & Mobility",
+"target":"Upper Body",
+"min":6,
+"ex":[
+{
+"n":"Pull-up",
+"sets":5,
+"reps":25,
+"work":15,
+"load":0.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2022-02-22",
+"name":"Small Edges - 8mm - A",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":8,
+"ex":[
+{
+"n":"Dead Hang: 8mm Edge",
+"sets":4,
+"reps":4,
+"work":5,
+"load":0.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2022-02-22",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":8,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":42
+}
+]
+},
+{
+"date":"2022-02-22",
+"name":"On the Minute - B",
+"type":"Conditioning & Mobility",
+"target":"Upper Body",
+"min":6,
+"ex":[
+{
+"n":"Pull-up",
+"sets":5,
+"reps":25,
+"work":15,
+"load":7.5,
+"loadReps":5
+}
+]
+},
+{
+"date":"2022-04-05",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":27.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2022-04-05",
+"name":"7:3s 80%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":23,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":30,
+"work":35,
+"load":-5.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2022-04-05",
+"name":"On the Minute - B",
+"type":"Conditioning & Mobility",
+"target":"Upper Body",
+"min":6,
+"ex":[
+{
+"n":"Pull-up",
+"sets":5,
+"reps":25,
+"work":15,
+"load":12.5,
+"loadReps":5
+}
+]
+},
+{
+"date":"2022-04-06",
+"name":"Small Edges - 8mm - A",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":8,
+"ex":[
+{
+"n":"Dead Hang: 8mm Edge",
+"sets":4,
+"reps":4,
+"work":5,
+"load":-2.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2022-04-06",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":7,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":32
+}
+]
+},
+{
+"date":"2022-04-12",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":27.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2022-04-12",
+"name":"On the Minute - B",
+"type":"Conditioning & Mobility",
+"target":"Upper Body",
+"min":6,
+"ex":[
+{
+"n":"Pull-up",
+"sets":5,
+"reps":25,
+"work":15,
+"load":12.5,
+"loadReps":5
+}
+]
+},
+{
+"date":"2022-04-12",
+"name":"7:3s 80%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":23,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":30,
+"work":35,
+"load":-5.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2022-04-12",
+"name":"On the Minute - B",
+"type":"Conditioning & Mobility",
+"target":"Upper Body",
+"min":6,
+"ex":[
+{
+"n":"Pull-up",
+"sets":5,
+"reps":25,
+"work":15,
+"load":10.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2022-04-13",
+"name":"Small Edges - 8mm - A",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":8,
+"ex":[
+{
+"n":"Dead Hang: 8mm Edge",
+"sets":4,
+"reps":4,
+"work":5,
+"load":-2.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2022-04-13",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":8,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":34
+}
+]
+},
+{
+"date":"2022-05-09",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":27.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2022-05-09",
+"name":"7:3s 80%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":23,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":30,
+"work":35,
+"load":-5.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2022-05-09",
+"name":"On the Minute - B",
+"type":"Conditioning & Mobility",
+"target":"Upper Body",
+"min":6,
+"ex":[
+{
+"n":"Pull-up",
+"sets":5,
+"reps":25,
+"work":15,
+"load":12.5,
+"loadReps":5
+}
+]
+},
+{
+"date":"2022-05-11",
+"name":"Small Edges - 8mm - A",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":8,
+"ex":[
+{
+"n":"Dead Hang: 8mm Edge",
+"sets":4,
+"reps":4,
+"work":5,
+"load":0.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2022-05-26",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":27.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2022-05-26",
+"name":"7:3s 80%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":23,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":30,
+"work":35,
+"load":-2.5,
+"loadReps":5
+}
+]
+},
+{
+"date":"2022-05-26",
+"name":"On the Minute - B",
+"type":"Conditioning & Mobility",
+"target":"Upper Body",
+"min":6,
+"ex":[
+{
+"n":"Pull-up",
+"sets":5,
+"reps":25,
+"work":15,
+"load":0.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2022-05-27",
+"name":"Small Edges - 8mm - A",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":8,
+"ex":[
+{
+"n":"Dead Hang: 8mm Edge",
+"sets":4,
+"reps":4,
+"work":5,
+"load":0.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2022-05-27",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":8,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":40
+}
+]
+},
+{
+"date":"2022-06-07",
+"name":"6 in 6",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":33,
+"ex":[
+{
+"n":"Bouldering",
+"sets":3,
+"reps":18,
+"work":360,
+"vmax":1,
+"sends":3
+}
+]
+},
+{
+"date":"2022-06-07",
+"name":"Boulder Intervals",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":20,
+"ex":[
+{
+"n":"Bouldering",
+"sets":1,
+"reps":20,
+"work":600
+}
+]
+},
+{
+"date":"2022-06-10",
+"name":"Aero 4's",
+"type":"Endurance",
+"target":"Aerobic Capacity",
+"min":64,
+"ex":[
+{
+"n":"Route Climbing",
+"sets":4,
+"reps":16,
+"work":360
+}
+]
+},
+{
+"date":"2022-06-10",
+"name":"1 On 1 Off",
+"type":"Endurance",
+"target":"Aerobic Capacity",
+"min":19,
+"ex":[
+{
+"n":"Route Climbing",
+"sets":1,
+"reps":10,
+"work":600
+}
+]
+},
+{
+"date":"2022-06-15",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":27.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2022-06-15",
+"name":"Small Edges - 8mm - A",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":8,
+"ex":[
+{
+"n":"Dead Hang: 8mm Edge",
+"sets":4,
+"reps":4,
+"work":5,
+"load":0.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2022-06-15",
+"name":"7:3s 80%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":23,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":30,
+"work":35,
+"load":-2.5,
+"loadReps":5
+}
+]
+},
+{
+"date":"2022-07-10",
+"name":"Drop Intervals",
+"type":"Endurance",
+"target":"Aerobic Capacity",
+"min":30,
+"ex":[
+{
+"n":"Bouldering",
+"sets":6,
+"reps":36,
+"work":180,
+"vmax":1,
+"sends":6
+}
+]
+},
+{
+"date":"2022-07-29",
+"name":"Boulder Campus",
+"type":"Strength & Power",
+"target":"Power",
+"min":42,
+"ex":[
+{
+"n":"Campusing Boulders",
+"sets":4,
+"reps":12,
+"work":90,
+"vmax":1,
+"sends":4
+}
+]
+},
+{
+"date":"2022-08-31",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":7,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":35
+}
+]
+},
+{
+"date":"2022-09-07",
+"name":"Finger Strength Test",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":17,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":8,
+"reps":8,
+"work":7,
+"load":37.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2022-09-07",
+"name":"Lactate Curve Test",
+"type":"Endurance",
+"target":"Regeneration",
+"min":15,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":8,
+"reps":49,
+"work":34,
+"load":-32.5,
+"loadReps":12
+}
+]
+},
+{
+"date":"2022-09-07",
+"name":"Weighted Pull-up Test",
+"type":"Conditioning & Mobility",
+"target":"Upper Body",
+"min":25,
+"ex":[
+{
+"n":"Pull-up",
+"sets":8,
+"reps":16,
+"work":10,
+"load":40.0,
+"loadReps":2
+}
+]
+},
+{
+"date":"2022-09-12",
+"name":"7:3s 50%",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":36,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":72,
+"work":84,
+"load":-50.0,
+"loadReps":12
+}
+]
+},
+{
+"date":"2022-09-13",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":13,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":71
+}
+]
+},
+{
+"date":"2022-09-14",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":13,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":65
+}
+]
+},
+{
+"date":"2022-09-14",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":20.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2022-09-14",
+"name":"Weighted Pull-ups - 85%",
+"type":"Conditioning & Mobility",
+"target":"Upper Body",
+"min":16,
+"ex":[
+{
+"n":"Pull-up",
+"sets":5,
+"reps":15,
+"work":9,
+"load":15.0,
+"loadReps":3
+}
+]
+},
+{
+"date":"2022-09-20",
+"name":"7:3s 50%",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":36,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":72,
+"work":84,
+"load":-37.0,
+"loadReps":12
+}
+]
+},
+{
+"date":"2022-09-20",
+"name":"Weighted Pull-ups - 85%",
+"type":"Conditioning & Mobility",
+"target":"Upper Body",
+"min":16,
+"ex":[
+{
+"n":"Pull-up",
+"sets":5,
+"reps":15,
+"work":9,
+"load":20.0,
+"loadReps":3
+}
+]
+},
+{
+"date":"2022-09-21",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":20.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2022-09-21",
+"name":"Bar Core - A",
+"type":"Conditioning & Mobility",
+"target":"Core",
+"min":19,
+"ex":[
+{
+"n":"Hanging Knee Raises",
+"sets":3,
+"reps":30,
+"work":10
+},
+{
+"n":"Bent Leg Window Wipers",
+"sets":3,
+"reps":30,
+"work":10
+}
+]
+},
+{
+"date":"2022-09-21",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":8,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":35
+}
+]
+},
+{
+"date":"2022-09-23",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":13,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":68
+}
+]
+},
+{
+"date":"2022-09-23",
+"name":"Weighted Pull-ups - 85%",
+"type":"Conditioning & Mobility",
+"target":"Upper Body",
+"min":16,
+"ex":[
+{
+"n":"Pull-up",
+"sets":5,
+"reps":15,
+"work":9,
+"load":22.0,
+"loadReps":3
+}
+]
+},
+{
+"date":"2022-09-26",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":11,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":58
+}
+]
+},
+{
+"date":"2022-09-26",
+"name":"Weighted Pull-ups - 85%",
+"type":"Conditioning & Mobility",
+"target":"Upper Body",
+"min":16,
+"ex":[
+{
+"n":"Pull-up",
+"sets":5,
+"reps":15,
+"work":9,
+"load":25.0,
+"loadReps":3
+}
+]
+},
+{
+"date":"2022-09-28",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":22.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2022-09-28",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":13,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":70
+}
+]
+},
+{
+"date":"2022-09-28",
+"name":"Bar Core - A",
+"type":"Conditioning & Mobility",
+"target":"Core",
+"min":19,
+"ex":[
+{
+"n":"Hanging Knee Raises",
+"sets":3,
+"reps":30,
+"work":10
+},
+{
+"n":"Bent Leg Window Wipers",
+"sets":3,
+"reps":30,
+"work":10
+}
+]
+},
+{
+"date":"2022-09-30",
+"name":"7:3s 50%",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":36,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":72,
+"work":84,
+"load":-35.0,
+"loadReps":12
+}
+]
+},
+{
+"date":"2022-09-30",
+"name":"Weighted Pull-ups - 85%",
+"type":"Conditioning & Mobility",
+"target":"Upper Body",
+"min":16,
+"ex":[
+{
+"n":"Pull-up",
+"sets":5,
+"reps":15,
+"work":9,
+"load":25.0,
+"loadReps":3
+}
+]
+},
+{
+"date":"2022-10-07",
+"name":"7:3s 50%",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":36,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":72,
+"work":84,
+"load":-35.0,
+"loadReps":12
+}
+]
+},
+{
+"date":"2022-10-07",
+"name":"Weighted Pull-ups - 85%",
+"type":"Conditioning & Mobility",
+"target":"Upper Body",
+"min":16,
+"ex":[
+{
+"n":"Pull-up",
+"sets":5,
+"reps":15,
+"work":9,
+"load":28.0,
+"loadReps":3
+}
+]
+},
+{
+"date":"2022-10-19",
+"name":"Weighted Pull-ups - 85%",
+"type":"Conditioning & Mobility",
+"target":"Upper Body",
+"min":16,
+"ex":[
+{
+"n":"Pull-up",
+"sets":5,
+"reps":15,
+"work":9,
+"load":35.0,
+"loadReps":3
+}
+]
+},
+{
+"date":"2022-10-19",
+"name":"7:3s 50%",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":36,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":72,
+"work":84,
+"load":-33.0,
+"loadReps":12
+}
+]
+},
+{
+"date":"2022-10-24",
+"name":"Weighted Pull-ups - 85%",
+"type":"Conditioning & Mobility",
+"target":"Upper Body",
+"min":16,
+"ex":[
+{
+"n":"Pull-up",
+"sets":5,
+"reps":15,
+"work":9,
+"load":30.0,
+"loadReps":3
+}
+]
+},
+{
+"date":"2022-10-24",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":11,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":60
+}
+]
+},
+{
+"date":"2022-10-26",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":25.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2022-10-26",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":9,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":48
+}
+]
+},
+{
+"date":"2022-10-28",
+"name":"7:3s 50%",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":36,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":72,
+"work":84,
+"load":-30.0,
+"loadReps":12
+}
+]
+},
+{
+"date":"2022-10-28",
+"name":"Weighted Pull-ups - 85%",
+"type":"Conditioning & Mobility",
+"target":"Upper Body",
+"min":16,
+"ex":[
+{
+"n":"Pull-up",
+"sets":5,
+"reps":15,
+"work":9,
+"load":0.0,
+"loadReps":3
+}
+]
+},
+{
+"date":"2022-11-08",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":13,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":65
+}
+]
+},
+{
+"date":"2022-11-08",
+"name":"Weighted Pull-ups - 85%",
+"type":"Conditioning & Mobility",
+"target":"Upper Body",
+"min":16,
+"ex":[
+{
+"n":"Pull-up",
+"sets":5,
+"reps":15,
+"work":9,
+"load":2.5,
+"loadReps":3
+}
+]
+},
+{
+"date":"2022-11-10",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":25.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2022-11-10",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":8,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":70
+}
+]
+},
+{
+"date":"2022-11-14",
+"name":"7:3s 50%",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":36,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":72,
+"work":84,
+"load":-28.0,
+"loadReps":12
+}
+]
+},
+{
+"date":"2022-11-14",
+"name":"Weighted Pull-ups - 85%",
+"type":"Conditioning & Mobility",
+"target":"Upper Body",
+"min":16,
+"ex":[
+{
+"n":"Pull-up",
+"sets":5,
+"reps":15,
+"work":9,
+"load":5.0,
+"loadReps":3
+}
+]
+},
+{
+"date":"2022-11-16",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":11,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":60
+}
+]
+},
+{
+"date":"2022-11-16",
+"name":"Weighted Pull-ups - 85%",
+"type":"Conditioning & Mobility",
+"target":"Upper Body",
+"min":16,
+"ex":[
+{
+"n":"Pull-up",
+"sets":5,
+"reps":15,
+"work":9,
+"load":5.0,
+"loadReps":3
+}
+]
+},
+{
+"date":"2022-11-21",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":25.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2022-11-21",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":11,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":57
+}
+]
+},
+{
+"date":"2022-11-23",
+"name":"Weighted Pull-ups - 85%",
+"type":"Conditioning & Mobility",
+"target":"Upper Body",
+"min":16,
+"ex":[
+{
+"n":"Pull-up",
+"sets":5,
+"reps":15,
+"work":9,
+"load":7.5,
+"loadReps":3
+}
+]
+},
+{
+"date":"2022-12-01",
+"name":"7:3s 50%",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":36,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":72,
+"work":84,
+"load":-25.0,
+"loadReps":12
+}
+]
+},
+{
+"date":"2022-12-01",
+"name":"Weighted Pull-ups - 85%",
+"type":"Conditioning & Mobility",
+"target":"Upper Body",
+"min":16,
+"ex":[
+{
+"n":"Pull-up",
+"sets":5,
+"reps":15,
+"work":9,
+"load":7.5,
+"loadReps":3
+}
+]
+},
+{
+"date":"2022-12-08",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":13,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":70
+}
+]
+},
+{
+"date":"2023-01-18",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":13,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":67
+}
+]
+},
+{
+"date":"2023-01-18",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":25.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2023-01-18",
+"name":"Weighted Pull-ups - 85%",
+"type":"Conditioning & Mobility",
+"target":"Upper Body",
+"min":16,
+"ex":[
+{
+"n":"Pull-up",
+"sets":5,
+"reps":15,
+"work":9,
+"load":7.5,
+"loadReps":3
+}
+]
+},
+{
+"date":"2023-01-20",
+"name":"Weighted Pull-ups - 85%",
+"type":"Conditioning & Mobility",
+"target":"Upper Body",
+"min":16,
+"ex":[
+{
+"n":"Pull-up",
+"sets":5,
+"reps":15,
+"work":9,
+"load":7.5,
+"loadReps":3
+}
+]
+},
+{
+"date":"2023-01-20",
+"name":"7:3s 50%",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":36,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":72,
+"work":84,
+"load":-25.0,
+"loadReps":12
+}
+]
+},
+{
+"date":"2023-01-20",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":10,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":57
+}
+]
+},
+{
+"date":"2023-01-25",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":14,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":69
+}
+]
+},
+{
+"date":"2023-01-25",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":25.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2023-01-27",
+"name":"7:3s 50%",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":36,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":72,
+"work":84,
+"load":-25.0,
+"loadReps":12
+}
+]
+},
+{
+"date":"2023-01-27",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":12,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":68
+}
+]
+},
+{
+"date":"2023-02-02",
+"name":"7:3s 70%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":24,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":36,
+"work":42,
+"load":-15.0,
+"loadReps":6
+}
+]
+},
+{
+"date":"2023-02-02",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":25.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2023-02-02",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":11,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":60
+}
+]
+},
+{
+"date":"2023-02-02",
+"name":"Weighted Pull-ups - 85%",
+"type":"Conditioning & Mobility",
+"target":"Upper Body",
+"min":16,
+"ex":[
+{
+"n":"Pull-up",
+"sets":5,
+"reps":15,
+"work":9,
+"load":10.0,
+"loadReps":3
+}
+]
+},
+{
+"date":"2023-02-08",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":27.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2023-02-08",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":14,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":70
+}
+]
+},
+{
+"date":"2023-02-08",
+"name":"Weighted Pull-ups - 85%",
+"type":"Conditioning & Mobility",
+"target":"Upper Body",
+"min":16,
+"ex":[
+{
+"n":"Pull-up",
+"sets":5,
+"reps":15,
+"work":9,
+"load":10.0,
+"loadReps":3
+}
+]
+},
+{
+"date":"2023-02-10",
+"name":"7:3s 50%",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":36,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":72,
+"work":84,
+"load":-22.5,
+"loadReps":12
+}
+]
+},
+{
+"date":"2023-02-15",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":17,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":91
+}
+]
+},
+{
+"date":"2023-02-17",
+"name":"7:3s 50%",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":36,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":72,
+"work":84,
+"load":-22.5,
+"loadReps":12
+}
+]
+},
+{
+"date":"2023-02-17",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":11,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":57
+}
+]
+},
+{
+"date":"2023-02-23",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":14,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":75
+}
+]
+},
+{
+"date":"2023-02-23",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":27.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2023-02-23",
+"name":"Weighted Pull-ups - 85%",
+"type":"Conditioning & Mobility",
+"target":"Upper Body",
+"min":16,
+"ex":[
+{
+"n":"Pull-up",
+"sets":5,
+"reps":15,
+"work":9,
+"load":15.0,
+"loadReps":3
+}
+]
+},
+{
+"date":"2023-02-27",
+"name":"7:3s 50%",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":36,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":72,
+"work":84,
+"load":-20.0,
+"loadReps":12
+}
+]
+},
+{
+"date":"2023-02-27",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":12,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":64
+}
+]
+},
+{
+"date":"2023-03-01",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":27.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2023-03-01",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":14,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":77
+}
+]
+},
+{
+"date":"2023-03-09",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":27.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2023-03-09",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":14,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":72
+}
+]
+},
+{
+"date":"2023-03-09",
+"name":"Weighted Pull-ups - 85%",
+"type":"Conditioning & Mobility",
+"target":"Upper Body",
+"min":16,
+"ex":[
+{
+"n":"Pull-up",
+"sets":5,
+"reps":15,
+"work":9,
+"load":15.0,
+"loadReps":3
+}
+]
+},
+{
+"date":"2023-03-20",
+"name":"7:3s 50%",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":36,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":72,
+"work":84,
+"load":-20.0,
+"loadReps":12
+}
+]
+},
+{
+"date":"2023-03-20",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":13,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":62
+}
+]
+},
+{
+"date":"2023-03-22",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":27.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2023-03-22",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":12,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":60
+}
+]
+},
+{
+"date":"2023-03-30",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":18,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":90
+}
+]
+},
+{
+"date":"2023-03-30",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":27.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2023-03-30",
+"name":"Weighted Pull-ups - 85%",
+"type":"Conditioning & Mobility",
+"target":"Upper Body",
+"min":16,
+"ex":[
+{
+"n":"Pull-up",
+"sets":5,
+"reps":15,
+"work":9,
+"load":15.0,
+"loadReps":3
+}
+]
+},
+{
+"date":"2023-04-11",
+"name":"7:3s 50%",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":36,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":72,
+"work":84,
+"load":-20.0,
+"loadReps":12
+}
+]
+},
+{
+"date":"2023-04-11",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":14,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":72
+}
+]
+},
+{
+"date":"2023-04-13",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":16,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":85
+}
+]
+},
+{
+"date":"2023-04-13",
+"name":"Weighted Pull-ups - 85%",
+"type":"Conditioning & Mobility",
+"target":"Upper Body",
+"min":16,
+"ex":[
+{
+"n":"Pull-up",
+"sets":5,
+"reps":15,
+"work":9,
+"load":15.0,
+"loadReps":3
+}
+]
+},
+{
+"date":"2023-04-13",
+"name":"Weighted Pull-ups - 85%",
+"type":"Conditioning & Mobility",
+"target":"Upper Body",
+"min":16,
+"ex":[
+{
+"n":"Pull-up",
+"sets":5,
+"reps":15,
+"work":9,
+"load":15.0,
+"loadReps":3
+}
+]
+},
+{
+"date":"2023-04-13",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":27.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2023-04-28",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":27.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2023-04-28",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":15,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":73
+}
+]
+},
+{
+"date":"2023-05-02",
+"name":"Weighted Pull-ups - 85%",
+"type":"Conditioning & Mobility",
+"target":"Upper Body",
+"min":16,
+"ex":[
+{
+"n":"Pull-up",
+"sets":5,
+"reps":15,
+"work":9,
+"load":15.0,
+"loadReps":3
+}
+]
+},
+{
+"date":"2023-05-03",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":27.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2023-05-03",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":14,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":79
+}
+]
+},
+{
+"date":"2023-05-04",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":27.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2023-05-04",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":14,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":62
+}
+]
+},
+{
+"date":"2023-05-12",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":27.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2023-06-01",
+"name":"1 On 1 Off",
+"type":"Endurance",
+"target":"Aerobic Capacity",
+"min":19,
+"ex":[
+{
+"n":"Route Climbing",
+"sets":1,
+"reps":10,
+"work":600
+}
+]
+},
+{
+"date":"2023-06-22",
+"name":"1 On 1 Off",
+"type":"Endurance",
+"target":"Aerobic Capacity",
+"min":19,
+"ex":[
+{
+"n":"Route Climbing",
+"sets":1,
+"reps":10,
+"work":600
+}
+]
+},
+{
+"date":"2023-07-11",
+"name":"Boulder Triples",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":39,
+"ex":[
+{
+"n":"Bouldering",
+"sets":6,
+"reps":18,
+"work":90,
+"vmax":3,
+"sends":6
+}
+]
+},
+{
+"date":"2023-08-09",
+"name":"Boulder Triples",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":39,
+"ex":[
+{
+"n":"Bouldering",
+"sets":6,
+"reps":18,
+"work":90,
+"vmax":3,
+"sends":6
+}
+]
+},
+{
+"date":"2023-08-23",
+"name":"Boulder Intervals",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":20,
+"ex":[
+{
+"n":"Bouldering",
+"sets":1,
+"reps":20,
+"work":600,
+"vmax":3,
+"sends":1
+}
+]
+},
+{
+"date":"2023-09-06",
+"name":"Finger Strength Test",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":17,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":8,
+"reps":8,
+"work":7,
+"load":40.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2023-09-06",
+"name":"Power Endurance Test - 60%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":5,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":1,
+"reps":29,
+"work":197,
+"load":-30.0,
+"loadReps":29
+}
+]
+},
+{
+"date":"2023-09-06",
+"name":"Weighted Pull-up Test",
+"type":"Conditioning & Mobility",
+"target":"Upper Body",
+"min":25,
+"ex":[
+{
+"n":"Pull-up",
+"sets":8,
+"reps":16,
+"work":10,
+"load":40.0,
+"loadReps":2
+}
+]
+},
+{
+"date":"2023-09-06",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":10,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":50
+}
+]
+},
+{
+"date":"2023-09-13",
+"name":"7:3s 50%",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":36,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":72,
+"work":84,
+"load":-45.0,
+"loadReps":12
+}
+]
+},
+{
+"date":"2023-09-13",
+"name":"Max Moves Test - Foot on Campus",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":2,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":1,
+"reps":1,
+"work":94
+}
+]
+},
+{
+"date":"2023-09-13",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":13,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":65
+}
+]
+},
+{
+"date":"2023-09-18",
+"name":"Density Hangs - 70%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":14,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":3,
+"reps":3,
+"work":30,
+"load":-12.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2023-09-18",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":12,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":66
+}
+]
+},
+{
+"date":"2023-09-20",
+"name":"7:3s 50%",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":36,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":72,
+"work":84,
+"load":-40.0,
+"loadReps":12
+}
+]
+},
+{
+"date":"2023-09-26",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":22.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2023-09-26",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":17,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":76
+}
+]
+},
+{
+"date":"2023-09-28",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":25.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2023-09-28",
+"name":"Density Hangs - 70%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":14,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":3,
+"reps":3,
+"work":30,
+"load":-10.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2023-10-02",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":25.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2023-10-02",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":15,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":76
+}
+]
+},
+{
+"date":"2023-10-04",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":27.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2023-10-04",
+"name":"Density Hangs - 70%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":14,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":3,
+"reps":3,
+"work":30,
+"load":-10.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2023-10-09",
+"name":"Density Hangs - 70%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":14,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":3,
+"reps":3,
+"work":30,
+"load":-7.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2023-10-09",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":15,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":70
+}
+]
+},
+{
+"date":"2023-10-11",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":27.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2023-10-11",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":15,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":81
+}
+]
+},
+{
+"date":"2023-10-24",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":16,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":80
+}
+]
+},
+{
+"date":"2023-10-24",
+"name":"Density Hangs - 70%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":14,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":3,
+"reps":3,
+"work":30,
+"load":-5.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2023-10-31",
+"name":"Density Hangs - 70%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":14,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":3,
+"reps":3,
+"work":30,
+"load":-5.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2023-10-31",
+"name":"7:3s 50%",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":36,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":72,
+"work":84,
+"load":-35.0,
+"loadReps":12
+}
+]
+},
+{
+"date":"2023-10-31",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":15,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":80
+}
+]
+},
+{
+"date":"2023-11-08",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":27.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2023-11-08",
+"name":"Density Hangs - 70%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":14,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":3,
+"reps":3,
+"work":30,
+"load":-7.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2023-12-07",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":25.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2023-12-07",
+"name":"Density Hangs - 70%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":14,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":3,
+"reps":3,
+"work":30,
+"load":-10.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2024-01-09",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":22.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2024-01-09",
+"name":"Density Hangs - 70%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":14,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":3,
+"reps":3,
+"work":30,
+"load":-10.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2024-01-17",
+"name":"Density Hangs - 70%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":14,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":3,
+"reps":3,
+"work":30,
+"load":-7.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2024-01-17",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":22.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2024-01-22",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":22.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2024-01-23",
+"name":"Density Hangs - 70%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":14,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":3,
+"reps":3,
+"work":30,
+"load":-5.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2024-01-24",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":25.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2024-02-07",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":25.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2024-02-07",
+"name":"Density Hangs - 70%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":14,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":3,
+"reps":3,
+"work":30,
+"load":-2.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2024-02-09",
+"name":"Density Hangs - 70%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":14,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":3,
+"reps":3,
+"work":30,
+"load":-2.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2024-02-09",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":27.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2024-02-14",
+"name":"Density Hangs - 70%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":14,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":3,
+"reps":3,
+"work":30,
+"load":0.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2024-02-14",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":18,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":76
+}
+]
+},
+{
+"date":"2024-02-19",
+"name":"Density Hangs - 70%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":14,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":3,
+"reps":3,
+"work":30,
+"load":0.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2024-02-19",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":13,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":62
+}
+]
+},
+{
+"date":"2024-02-21",
+"name":"Density Hangs - 70%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":14,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":3,
+"reps":3,
+"work":30,
+"load":0.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2024-02-21",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":12,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":54
+}
+]
+},
+{
+"date":"2024-02-26",
+"name":"Density Hangs - 70%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":14,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":3,
+"reps":3,
+"work":30,
+"load":2.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2024-02-26",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":11,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":46
+}
+]
+},
+{
+"date":"2024-02-28",
+"name":"Density Hangs - 70%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":14,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":3,
+"reps":3,
+"work":30,
+"load":2.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2024-02-28",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":15,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":74
+}
+]
+},
+{
+"date":"2024-03-06",
+"name":"Density Hangs - 70%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":14,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":3,
+"reps":3,
+"work":30,
+"load":2.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2024-03-06",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":14,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":65
+}
+]
+},
+{
+"date":"2024-03-27",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":14,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":66
+}
+]
+},
+{
+"date":"2024-03-27",
+"name":"Density Hangs - 70%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":14,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":3,
+"reps":3,
+"work":30,
+"load":2.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2024-04-06",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":30.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2024-04-06",
+"name":"Density Hangs - 70%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":14,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":3,
+"reps":3,
+"work":30,
+"load":2.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2024-04-11",
+"name":"Density Hangs - 70%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":14,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":3,
+"reps":3,
+"work":30,
+"load":2.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2024-04-11",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":30.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2024-04-18",
+"name":"Density Hangs - 70%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":14,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":3,
+"reps":3,
+"work":30,
+"load":2.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2024-04-18",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":30.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2024-05-08",
+"name":"Density Hangs - 70%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":14,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":3,
+"reps":3,
+"work":30,
+"load":5.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2024-05-08",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":13,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":69
+}
+]
+},
+{
+"date":"2024-05-30",
+"name":"1 On 1 Off",
+"type":"Endurance",
+"target":"Aerobic Capacity",
+"min":19,
+"ex":[
+{
+"n":"Route Climbing",
+"sets":1,
+"reps":10,
+"work":600
+}
+]
+},
+{
+"date":"2024-05-30",
+"name":"1 On 1 Off",
+"type":"Endurance",
+"target":"Aerobic Capacity",
+"min":19,
+"ex":[
+{
+"n":"Route Climbing",
+"sets":1,
+"reps":10,
+"work":600
+}
+]
+},
+{
+"date":"2024-07-03",
+"name":"1 On 1 Off",
+"type":"Endurance",
+"target":"Aerobic Capacity",
+"min":19,
+"ex":[
+{
+"n":"Route Climbing",
+"sets":1,
+"reps":10,
+"work":600
+}
+]
+},
+{
+"date":"2024-07-03",
+"name":"Density Hangs - 70%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":14,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":3,
+"reps":3,
+"work":30,
+"load":5.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2024-07-08",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":30.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2024-07-08",
+"name":"Density Hangs - 70%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":14,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":3,
+"reps":3,
+"work":30,
+"load":5.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2024-07-10",
+"name":"Boulder Triples",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":39,
+"ex":[
+{
+"n":"Bouldering",
+"sets":6,
+"reps":18,
+"work":90
+}
+]
+},
+{
+"date":"2024-07-10",
+"name":"1 On 1 Off",
+"type":"Endurance",
+"target":"Aerobic Capacity",
+"min":19,
+"ex":[
+{
+"n":"Route Climbing",
+"sets":1,
+"reps":10,
+"work":600
+}
+]
+},
+{
+"date":"2024-08-28",
+"name":"Finger Strength Test",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":17,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":8,
+"reps":8,
+"work":7,
+"load":50.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2024-08-28",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":32.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2024-09-12",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":32.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2024-09-25",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":32.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2024-09-25",
+"name":"Campus Laddering",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":12,
+"ex":[
+{
+"n":"Foot on Campusing",
+"sets":6,
+"reps":6,
+"work":61
+}
+]
+},
+{
+"date":"2024-10-14",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":32.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2025-01-24",
+"name":"Finger Strength Test",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":17,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":8,
+"reps":8,
+"work":7,
+"load":40.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2025-01-31",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":20.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2025-01-31",
+"name":"7:3s 80%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":23,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":30,
+"work":35,
+"load":5.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2025-02-05",
+"name":"50-50",
+"type":"Endurance",
+"target":"Aerobic Capacity",
+"min":42,
+"ex":[
+{
+"n":"Route Climbing",
+"sets":3,
+"reps":12,
+"work":240
+}
+]
+},
+{
+"date":"2025-02-06",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":20.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2025-02-06",
+"name":"7:3s 80%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":23,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":30,
+"work":35,
+"load":5.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2025-02-10",
+"name":"Route Pyramid",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":96,
+"ex":[
+{
+"n":"Route Climbing",
+"sets":8,
+"reps":8,
+"work":120
+}
+]
+},
+{
+"date":"2025-02-14",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":20.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2025-02-14",
+"name":"7:3s 80%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":23,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":30,
+"work":35,
+"load":5.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2025-02-19",
+"name":"Aero 4's",
+"type":"Endurance",
+"target":"Aerobic Capacity",
+"min":64,
+"ex":[
+{
+"n":"Route Climbing",
+"sets":4,
+"reps":16,
+"work":360
+}
+]
+},
+{
+"date":"2025-02-26",
+"name":"Boulder Triples",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":39,
+"ex":[
+{
+"n":"Bouldering",
+"sets":6,
+"reps":18,
+"work":90,
+"vmax":4,
+"sends":6
+}
+]
+},
+{
+"date":"2025-02-28",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":20.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2025-02-28",
+"name":"7:3s 80%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":23,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":30,
+"work":35,
+"load":5.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2025-03-04",
+"name":"Capacity Power",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":80,
+"ex":[
+{
+"n":"Route Climbing",
+"sets":5,
+"reps":10,
+"work":360
+}
+]
+},
+{
+"date":"2025-03-09",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":25.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2025-03-09",
+"name":"7:3s 80%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":23,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":30,
+"work":35,
+"load":5.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2025-03-12",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":25.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2025-03-12",
+"name":"7:3s 80%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":23,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":30,
+"work":35,
+"load":5.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2025-03-25",
+"name":"7:3s 80%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":23,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":30,
+"work":35,
+"load":5.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2025-03-31",
+"name":"Aero 4's",
+"type":"Endurance",
+"target":"Aerobic Capacity",
+"min":64,
+"ex":[
+{
+"n":"Route Climbing",
+"sets":4,
+"reps":16,
+"work":360
+}
+]
+},
+{
+"date":"2025-04-03",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":25.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2025-04-03",
+"name":"7:3s 80%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":23,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":30,
+"work":35,
+"load":5.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2025-04-12",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":30.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2025-04-12",
+"name":"7:3s 80%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":23,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":30,
+"work":35,
+"load":10.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2025-04-16",
+"name":"Capacity Power",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":80,
+"ex":[
+{
+"n":"Route Climbing",
+"sets":5,
+"reps":10,
+"work":360
+}
+]
+},
+{
+"date":"2025-04-24",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":30.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2025-04-24",
+"name":"7:3s 80%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":23,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":30,
+"work":35,
+"load":10.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2025-04-28",
+"name":"1 On 1 Off",
+"type":"Endurance",
+"target":"Aerobic Capacity",
+"min":20,
+"ex":[
+{
+"n":"Route Climbing",
+"sets":1,
+"reps":10,
+"work":600
+}
+]
+},
+{
+"date":"2025-05-02",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":30.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2025-05-02",
+"name":"7:3s 80%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":23,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":30,
+"work":35,
+"load":10.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2025-05-07",
+"name":"Continuity 5x3",
+"type":"Endurance",
+"target":"Regeneration",
+"min":24,
+"ex":[
+{
+"n":"Route Climbing",
+"sets":3,
+"reps":3,
+"work":300
+}
+]
+},
+{
+"date":"2025-06-19",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":25.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2025-06-19",
+"name":"7:3s 80%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":23,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":30,
+"work":35,
+"load":5.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2025-07-01",
+"name":"7:3s 80%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":23,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":30,
+"work":35,
+"load":0.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2025-08-04",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":25.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2025-08-04",
+"name":"7:3s 80%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":23,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":30,
+"work":35,
+"load":5.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2025-08-05",
+"name":"Emil's Sub-max Daily Fingerboard Routine",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":10,
+"ex":[
+{
+"n":"Isometric Hang",
+"sets":1,
+"reps":6,
+"work":60
+},
+{
+"n":"Isometric Hang: Front 3 Open",
+"sets":1,
+"reps":6,
+"work":60
+},
+{
+"n":"Isometric Hang: Front 2 Open",
+"sets":1,
+"reps":2,
+"work":20
+},
+{
+"n":"Isometric Hang: Middle 2 Open",
+"sets":1,
+"reps":2,
+"work":20
+},
+{
+"n":"Isometric Hang: Front 2 Half Crimp",
+"sets":1,
+"reps":2,
+"work":20
+},
+{
+"n":"Isometric Hang: Middle 2 Half Crimp",
+"sets":1,
+"reps":2,
+"work":20
+}
+]
+},
+{
+"date":"2025-08-07",
+"name":"Emil's Sub-max Daily Fingerboard Routine",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":10,
+"ex":[
+{
+"n":"Isometric Hang",
+"sets":1,
+"reps":6,
+"work":60
+},
+{
+"n":"Isometric Hang: Front 3 Open",
+"sets":1,
+"reps":6,
+"work":60
+},
+{
+"n":"Isometric Hang: Front 2 Open",
+"sets":1,
+"reps":2,
+"work":20
+},
+{
+"n":"Isometric Hang: Middle 2 Open",
+"sets":1,
+"reps":2,
+"work":20
+},
+{
+"n":"Isometric Hang: Front 2 Half Crimp",
+"sets":1,
+"reps":2,
+"work":20
+},
+{
+"n":"Isometric Hang: Middle 2 Half Crimp",
+"sets":1,
+"reps":2,
+"work":20
+}
+]
+},
+{
+"date":"2025-08-12",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":30.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2025-08-12",
+"name":"7:3s 80%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":23,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":30,
+"work":35,
+"load":5.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2025-08-13",
+"name":"Emil's Sub-max Daily Fingerboard Routine",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":10,
+"ex":[
+{
+"n":"Isometric Hang",
+"sets":1,
+"reps":6,
+"work":60
+},
+{
+"n":"Isometric Hang: Front 3 Open",
+"sets":1,
+"reps":6,
+"work":60
+},
+{
+"n":"Isometric Hang: Front 2 Open",
+"sets":1,
+"reps":2,
+"work":20
+},
+{
+"n":"Isometric Hang: Middle 2 Open",
+"sets":1,
+"reps":2,
+"work":20
+},
+{
+"n":"Isometric Hang: Front 2 Half Crimp",
+"sets":1,
+"reps":2,
+"work":20
+},
+{
+"n":"Isometric Hang: Middle 2 Half Crimp",
+"sets":1,
+"reps":2,
+"work":20
+}
+]
+},
+{
+"date":"2025-08-18",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":30.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2025-08-18",
+"name":"7:3s 80%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":23,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":30,
+"work":35,
+"load":5.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2025-08-19",
+"name":"Emil's Sub-max Daily Fingerboard Routine",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":10,
+"ex":[
+{
+"n":"Isometric Hang",
+"sets":1,
+"reps":6,
+"work":60
+},
+{
+"n":"Isometric Hang: Front 3 Open",
+"sets":1,
+"reps":6,
+"work":60
+},
+{
+"n":"Isometric Hang: Front 2 Open",
+"sets":1,
+"reps":2,
+"work":20
+},
+{
+"n":"Isometric Hang: Middle 2 Open",
+"sets":1,
+"reps":2,
+"work":20
+},
+{
+"n":"Isometric Hang: Front 2 Half Crimp",
+"sets":1,
+"reps":2,
+"work":20
+},
+{
+"n":"Isometric Hang: Middle 2 Half Crimp",
+"sets":1,
+"reps":2,
+"work":20
+}
+]
+},
+{
+"date":"2025-08-20",
+"name":"Aero 4's",
+"type":"Endurance",
+"target":"Aerobic Capacity",
+"min":64,
+"ex":[
+{
+"n":"Route Climbing",
+"sets":4,
+"reps":16,
+"work":360
+}
+]
+},
+{
+"date":"2025-08-21",
+"name":"Emil's Sub-max Daily Fingerboard Routine",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":10,
+"ex":[
+{
+"n":"Isometric Hang",
+"sets":1,
+"reps":6,
+"work":60
+},
+{
+"n":"Isometric Hang: Front 3 Open",
+"sets":1,
+"reps":6,
+"work":60
+},
+{
+"n":"Isometric Hang: Front 2 Open",
+"sets":1,
+"reps":2,
+"work":20
+},
+{
+"n":"Isometric Hang: Middle 2 Open",
+"sets":1,
+"reps":2,
+"work":20
+},
+{
+"n":"Isometric Hang: Front 2 Half Crimp",
+"sets":1,
+"reps":2,
+"work":20
+},
+{
+"n":"Isometric Hang: Middle 2 Half Crimp",
+"sets":1,
+"reps":2,
+"work":20
+}
+]
+},
+{
+"date":"2025-08-26",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":30.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2025-08-26",
+"name":"7:3s 80%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":23,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":30,
+"work":35,
+"load":5.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2025-09-02",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":30.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2025-09-02",
+"name":"7:3s 80%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":23,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":30,
+"work":35,
+"load":5.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2025-09-11",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":30.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2025-09-11",
+"name":"7:3s 80%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":23,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":30,
+"work":35,
+"load":5.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2025-09-16",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":35.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2025-09-22",
+"name":"1 On 1 Off",
+"type":"Endurance",
+"target":"Aerobic Capacity",
+"min":20,
+"ex":[
+{
+"n":"Route Climbing",
+"sets":1,
+"reps":10,
+"work":600
+}
+]
+},
+{
+"date":"2025-09-22",
+"name":"1 On 1 Off",
+"type":"Endurance",
+"target":"Aerobic Capacity",
+"min":20,
+"ex":[
+{
+"n":"Route Climbing",
+"sets":1,
+"reps":10,
+"work":600
+}
+]
+},
+{
+"date":"2025-09-24",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":35.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2025-09-24",
+"name":"7:3s 80%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":23,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":30,
+"work":35,
+"load":10.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2025-09-24",
+"name":"Emil's Sub-max Daily Fingerboard Routine",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":10,
+"ex":[
+{
+"n":"Isometric Hang",
+"sets":1,
+"reps":6,
+"work":60
+},
+{
+"n":"Isometric Hang: Front 3 Open",
+"sets":1,
+"reps":6,
+"work":60
+},
+{
+"n":"Isometric Hang: Front 2 Open",
+"sets":1,
+"reps":2,
+"work":20
+},
+{
+"n":"Isometric Hang: Middle 2 Open",
+"sets":1,
+"reps":2,
+"work":20
+},
+{
+"n":"Isometric Hang: Front 2 Half Crimp",
+"sets":1,
+"reps":2,
+"work":20
+},
+{
+"n":"Isometric Hang: Middle 2 Half Crimp",
+"sets":1,
+"reps":2,
+"work":20
+}
+]
+},
+{
+"date":"2025-09-30",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":35.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2025-09-30",
+"name":"7:3s 80%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":23,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":30,
+"work":35,
+"load":10.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2025-10-01",
+"name":"Aero 4's",
+"type":"Endurance",
+"target":"Aerobic Capacity",
+"min":64,
+"ex":[
+{
+"n":"Route Climbing",
+"sets":4,
+"reps":16,
+"work":360
+}
+]
+},
+{
+"date":"2025-10-14",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":22.5,
+"loadReps":1
+}
+]
+},
+{
+"date":"2025-10-14",
+"name":"7:3s 80%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":23,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":30,
+"work":35,
+"load":15.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2025-11-11",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":30.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2025-11-11",
+"name":"7:3s 80%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":23,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":30,
+"work":35,
+"load":15.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2025-11-18",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":30.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2025-11-18",
+"name":"7:3s 80%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":23,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":30,
+"work":35,
+"load":5.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2025-11-18",
+"name":"On the Minute - B",
+"type":"Conditioning & Mobility",
+"target":"Upper Body",
+"min":6,
+"ex":[
+{
+"n":"Pull-up",
+"sets":5,
+"reps":25,
+"work":15,
+"load":10.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2025-11-26",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":30.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2025-11-26",
+"name":"7:3s 80%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":23,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":30,
+"work":35,
+"load":5.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2025-11-26",
+"name":"On the Minute - B",
+"type":"Conditioning & Mobility",
+"target":"Upper Body",
+"min":6,
+"ex":[
+{
+"n":"Pull-up",
+"sets":5,
+"reps":25,
+"work":15,
+"load":5.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2025-11-26",
+"name":"On the Minute - B",
+"type":"Conditioning & Mobility",
+"target":"Upper Body",
+"min":6,
+"ex":[
+{
+"n":"Pull-up",
+"sets":5,
+"reps":25,
+"work":15,
+"load":5.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2025-12-02",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":35.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2025-12-02",
+"name":"7:3s 80%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":23,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":30,
+"work":35,
+"load":5.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2025-12-02",
+"name":"On the Minute - B",
+"type":"Conditioning & Mobility",
+"target":"Upper Body",
+"min":6,
+"ex":[
+{
+"n":"Pull-up",
+"sets":5,
+"reps":25,
+"work":15,
+"load":10.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2025-12-16",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":35.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2025-12-16",
+"name":"7:3s 80%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":23,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":30,
+"work":35,
+"load":5.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2025-12-16",
+"name":"On the Minute - B",
+"type":"Conditioning & Mobility",
+"target":"Upper Body",
+"min":6,
+"ex":[
+{
+"n":"Pull-up",
+"sets":5,
+"reps":25,
+"work":15,
+"load":15.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2026-01-08",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":35.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2026-01-08",
+"name":"7:3s 80%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":23,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":30,
+"work":35,
+"load":5.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2026-01-22",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":35.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2026-01-22",
+"name":"7:3s 80%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":23,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":30,
+"work":35,
+"load":5.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2026-01-22",
+"name":"On the Minute - B",
+"type":"Conditioning & Mobility",
+"target":"Upper Body",
+"min":6,
+"ex":[
+{
+"n":"Pull-up",
+"sets":5,
+"reps":25,
+"work":15,
+"load":0.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2026-01-28",
+"name":"Drop Intervals",
+"type":"Endurance",
+"target":"Aerobic Capacity",
+"min":30,
+"ex":[
+{
+"n":"Bouldering",
+"sets":6,
+"reps":36,
+"work":180,
+"vmax":4,
+"sends":6
+}
+]
+},
+{
+"date":"2026-01-30",
+"name":"Boulder Triples",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":45,
+"ex":[
+{
+"n":"Bouldering",
+"sets":6,
+"reps":18,
+"work":90,
+"vmax":4,
+"sends":6
+}
+]
+},
+{
+"date":"2026-02-11",
+"name":"1 On 1 Off",
+"type":"Endurance",
+"target":"Aerobic Capacity",
+"min":20,
+"ex":[
+{
+"n":"Route Climbing",
+"sets":1,
+"reps":10,
+"work":600
+}
+]
+},
+{
+"date":"2026-02-17",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":35.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2026-02-17",
+"name":"7:3s 80%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":23,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":30,
+"work":35,
+"load":10.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2026-02-17",
+"name":"On the Minute - B",
+"type":"Conditioning & Mobility",
+"target":"Upper Body",
+"min":6,
+"ex":[
+{
+"n":"Pull-up",
+"sets":5,
+"reps":25,
+"work":15,
+"load":0.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2026-02-27",
+"name":"On the Minute - B",
+"type":"Conditioning & Mobility",
+"target":"Upper Body",
+"min":6,
+"ex":[
+{
+"n":"Pull-up",
+"sets":5,
+"reps":25,
+"work":15,
+"load":0.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2026-02-27",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":35.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2026-02-27",
+"name":"7:3s 80%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":23,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":30,
+"work":35,
+"load":5.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2026-03-06",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":40.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2026-03-06",
+"name":"7:3s 80%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":23,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":30,
+"work":35,
+"load":5.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2026-03-06",
+"name":"On the Minute - B",
+"type":"Conditioning & Mobility",
+"target":"Upper Body",
+"min":6,
+"ex":[
+{
+"n":"Pull-up",
+"sets":5,
+"reps":25,
+"work":15,
+"load":0.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2026-04-06",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":40.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2026-04-06",
+"name":"7:3s 80%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":23,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":30,
+"work":35,
+"load":5.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2026-04-06",
+"name":"On the Minute - B",
+"type":"Conditioning & Mobility",
+"target":"Upper Body",
+"min":6,
+"ex":[
+{
+"n":"Pull-up",
+"sets":5,
+"reps":25,
+"work":15,
+"load":0.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2026-04-27",
+"name":"Finger Strength Test",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":17,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":8,
+"reps":8,
+"work":7,
+"load":30.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2026-04-27",
+"name":"On the Minute - B",
+"type":"Conditioning & Mobility",
+"target":"Upper Body",
+"min":6,
+"ex":[
+{
+"n":"Pull-up",
+"sets":5,
+"reps":25,
+"work":15,
+"load":10.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2026-05-07",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":15.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2026-05-07",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":15.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2026-05-07",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":15.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2026-05-07",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":15.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2026-05-07",
+"name":"7:3s 80%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":23,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":30,
+"work":35,
+"load":0.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2026-05-07",
+"name":"On the Minute - B",
+"type":"Conditioning & Mobility",
+"target":"Upper Body",
+"min":6,
+"ex":[
+{
+"n":"Pull-up",
+"sets":5,
+"reps":25,
+"work":15,
+"load":0.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2026-05-12",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":15.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2026-05-12",
+"name":"7:3s 80%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":23,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":30,
+"work":35,
+"load":0.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2026-08-02",
+"name":"Board 10",
+"type":"Strength & Power",
+"target":"Bouldering",
+"min":40,
+"ex":[
+{
+"n":"Bouldering",
+"sets":10,
+"reps":20,
+"work":60,
+"vmax":5,
+"sends":10
+}
+]
+},
+{
+"date":"2026-08-04",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":10.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2026-08-04",
+"name":"7:3s 80%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":23,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":30,
+"work":35,
+"load":5.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2026-08-12",
+"name":"Board 10",
+"type":"Strength & Power",
+"target":"Bouldering",
+"min":40,
+"ex":[
+{
+"n":"Bouldering",
+"sets":10,
+"reps":20,
+"work":60,
+"vmax":6,
+"sends":10
+}
+]
+},
+{
+"date":"2026-08-13",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":15.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2026-08-13",
+"name":"7:3s 80%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":23,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":30,
+"work":35,
+"load":5.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2026-08-19",
+"name":"Board 10",
+"type":"Strength & Power",
+"target":"Bouldering",
+"min":40,
+"ex":[
+{
+"n":"Bouldering",
+"sets":10,
+"reps":20,
+"work":60,
+"vmax":5,
+"sends":10
+}
+]
+},
+{
+"date":"2026-08-24",
+"name":"Board 10",
+"type":"Strength & Power",
+"target":"Bouldering",
+"min":40,
+"ex":[
+{
+"n":"Bouldering",
+"sets":10,
+"reps":20,
+"work":60,
+"vmax":6,
+"sends":10
+}
+]
+},
+{
+"date":"2026-08-26",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":20.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2026-08-26",
+"name":"7:3s 80%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":23,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":30,
+"work":35,
+"load":5.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2026-09-09",
+"name":"Board 10",
+"type":"Strength & Power",
+"target":"Bouldering",
+"min":40,
+"ex":[
+{
+"n":"Bouldering",
+"sets":10,
+"reps":20,
+"work":60,
+"vmax":5,
+"sends":10
+}
+]
+},
+{
+"date":"2026-09-11",
+"name":"Board 10",
+"type":"Strength & Power",
+"target":"Bouldering",
+"min":40,
+"ex":[
+{
+"n":"Bouldering",
+"sets":10,
+"reps":20,
+"work":60,
+"vmax":6,
+"sends":10
+}
+]
+},
+{
+"date":"2026-09-14",
+"name":"Board 10",
+"type":"Strength & Power",
+"target":"Bouldering",
+"min":40,
+"ex":[
+{
+"n":"Bouldering",
+"sets":10,
+"reps":20,
+"work":60,
+"vmax":5,
+"sends":10
+}
+]
+},
+{
+"date":"2026-09-16",
+"name":"Board 10",
+"type":"Strength & Power",
+"target":"Bouldering",
+"min":40,
+"ex":[
+{
+"n":"Bouldering",
+"sets":10,
+"reps":20,
+"work":60,
+"vmax":6,
+"sends":10
+}
+]
+},
+{
+"date":"2026-09-22",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":25.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2026-09-22",
+"name":"7:3s 80%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":23,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":30,
+"work":35,
+"load":5.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2026-09-25",
+"name":"Boulder Intervals",
+"type":"Power Endurance",
+"target":"Aerobic Power",
+"min":20,
+"ex":[
+{
+"n":"Bouldering",
+"sets":1,
+"reps":20,
+"work":600,
+"vmax":3,
+"sends":1
+}
+]
+},
+{
+"date":"2026-09-29",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":30.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2026-09-29",
+"name":"7:3s 80%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":23,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":30,
+"work":35,
+"load":10.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2026-09-29",
+"name":"7:3s 80%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":23,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":30,
+"work":35,
+"load":10.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2026-09-30",
+"name":"Boulder Triples",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":45,
+"ex":[
+{
+"n":"Bouldering",
+"sets":6,
+"reps":18,
+"work":90,
+"vmax":4,
+"sends":6
+}
+]
+},
+{
+"date":"2026-10-09",
+"name":"Board 10",
+"type":"Strength & Power",
+"target":"Bouldering",
+"min":40,
+"ex":[
+{
+"n":"Bouldering",
+"sets":10,
+"reps":20,
+"work":60,
+"vmax":6,
+"sends":10
+}
+]
+},
+{
+"date":"2026-10-13",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":30.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2026-10-13",
+"name":"7:3s 80%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":23,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":30,
+"work":35,
+"load":5.0,
+"loadReps":5
+}
+]
+},
+{
+"date":"2026-10-14",
+"name":"Pyramids",
+"type":"Strength & Power",
+"target":"Bouldering",
+"min":101,
+"ex":[
+{
+"n":"Bouldering",
+"sets":15,
+"reps":15,
+"work":45,
+"vmax":6,
+"sends":15
+}
+]
+},
+{
+"date":"2026-10-19",
+"name":"Board 10",
+"type":"Strength & Power",
+"target":"Bouldering",
+"min":40,
+"ex":[
+{
+"n":"Bouldering",
+"sets":10,
+"reps":20,
+"work":60,
+"vmax":6,
+"sends":10
+}
+]
+},
+{
+"date":"2026-11-17",
+"name":"Max Hangs - 90%",
+"type":"Strength & Power",
+"target":"Finger Strength",
+"min":13,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":6,
+"work":10,
+"load":30.0,
+"loadReps":1
+}
+]
+},
+{
+"date":"2026-11-17",
+"name":"7:3s 80%",
+"type":"Power Endurance",
+"target":"Anaerobic Capacity",
+"min":23,
+"ex":[
+{
+"n":"Dead Hang: 20mm Edge",
+"sets":6,
+"reps":30,
+"work":35,
+"load":5.0,
+"loadReps":5
+}
+]
+}
+]
+}
